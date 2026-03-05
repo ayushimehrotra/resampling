@@ -3,7 +3,6 @@
 **/*.jpg
 **/*.ipynb
 **/*.pth*
-**/*.pt*
 .env*
 */accuracies/*
 **/*.npy*
@@ -21,3 +20,4 @@ normalized-results/**/*.json
 eval/.ipynb_checkpoints/
 .ipynb_checkpoints/
 tmptlsiwdha/
+
