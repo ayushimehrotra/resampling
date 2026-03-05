@@ -72,6 +72,8 @@ class PatchingUtils:
                 else:
                     attn_effects.append(self_attn.detach().cpu().save())
             model_logits = model.lm_head.output.save()
+        if retain_grad:
+            attn_effects = [a.value for a in attn_effects]
         if logit:
             model_logits = self.get_response_logits(toks, resp_start_positions, model_logits, retain_grad=True)
             return model_logits, attn_effects

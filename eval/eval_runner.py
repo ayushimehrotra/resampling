@@ -35,20 +35,21 @@ best_mmlu_topk_combined = {
 }
 def load_patching_reps(data_handler, model_handler, mean=True):
     model = model_handler.model
+    activation_batch_size = getattr(data_handler.config.args, 'activation_batch_size', 9)
     patching_reps = {}
     for ablation in [data_handler.config.args.ablation]:
         patching_reps[ablation] = {}
         for key in ['desired', 'undesired']:
             print(f"Loading patching reps for {ablation} - {key}")
-            patching_reps[ablation][key] = get_patch_activations(model, data_handler, ablation, key=key, mean=mean)
+            patching_reps[ablation][key] = get_patch_activations(model, data_handler, ablation, key=key, mean=mean, batch_size=activation_batch_size)
     print('Returning patching reps')
     return patching_reps
 
-def get_patch_activations(model, data_handler, ablation_type, key='desired', mean=True):
+def get_patch_activations(model, data_handler, ablation_type, key='desired', mean=True, batch_size=9):
     if ablation_type == 'mean':
-        return mean_ablations_cache(model, data_handler, key=key)
+        return mean_ablations_cache(model, data_handler, key=key, batch_size=batch_size)
     elif ablation_type == 'steer':
-        return steering_reps_cache(model, data_handler, key=key, mean=mean)
+        return steering_reps_cache(model, data_handler, key=key, mean=mean, batch_size=batch_size)
     else:
         raise ValueError(f"Unknown ablation type: {ablation_type}")
 
@@ -112,7 +113,7 @@ def run_eval(config, data_handler, model_handler, batch_handler, patching_utils,
     pre_patch_logits = None
     for idx in tqdm(range(0, min(data_handler.LEN, len_gen_qs), config.args.batch_size)):
         gen_qs_toks = select_gen_qs_toks(config, batch_handler)
-        with model.generate(gen_qs_toks, do_sample=False, max_new_tokens=config.args.max_new_tokens) as _:
+        with model.generate(gen_qs_toks, do_sample=True, temperature=1.0, num_return_sequences=5, max_new_tokens=config.args.max_new_tokens) as _:
             op = model.generator.output.save()
         original_outputs += op.cpu().numpy().tolist()
         batch_handler.update()
@@ -143,8 +144,8 @@ def run_eval(config, data_handler, model_handler, batch_handler, patching_utils,
                     len_gen_qs = select_gen_qs_toks(config, data_handler)['input_ids'].shape[0]
                     for idx in tqdm(range(0, min(data_handler.LEN, len_gen_qs), config.args.batch_size)):
                         gen_qs_toks = select_gen_qs_toks(config, batch_handler)
-                        edited_outputs = generate_with_patches(model, gen_qs_toks, patching_reps[ablation], topk_df, config.args.N, ablation, model_handler.dim, max_new_tokens=config.args.max_new_tokens, normalize=True, steering_type=config.args.steering_type)
-                        decoded = decode_responses(model, gen_qs_toks, original_outputs[idx:idx+config.args.batch_size], edited_outputs, config.args.base)
+                        edited_outputs = generate_with_patches(model, gen_qs_toks, patching_reps[ablation], topk_df, config.args.N, ablation, model_handler.dim, max_new_tokens=config.args.max_new_tokens, normalize=True, steering_type=config.args.steering_type, num_samples=5)
+                        decoded = decode_responses(model, gen_qs_toks, original_outputs[idx * 5:(idx + config.args.batch_size) * 5], edited_outputs, config.args.base, num_samples=5)
                         gc.collect()
                         torch.cuda.empty_cache()
                         if len(decoded_responses[ablation][reps_type][topk]) == 0:
@@ -303,14 +304,14 @@ def run_eval_transfer(config, data_handler, model_handler, batch_handler, patchi
             print(f"Skipping generation as all relevant files exist.")
             return
         gen_qs_toks = select_gen_qs_toks(config, batch_handler)
-        edited_outputs = generate_with_patches(model, gen_qs_toks, patching_reps[ablation], topk_df, config.args.N, ablation, model_handler.dim, max_new_tokens=256, normalize=False, steering_type=config.args.steering_type)
-        with model.generate(gen_qs_toks, do_sample=False, max_new_tokens=256) as _:
+        edited_outputs = generate_with_patches(model, gen_qs_toks, patching_reps[ablation], topk_df, config.args.N, ablation, model_handler.dim, max_new_tokens=256, normalize=False, steering_type=config.args.steering_type, num_samples=5)
+        with model.generate(gen_qs_toks, do_sample=True, temperature=1.0, num_return_sequences=5, max_new_tokens=256) as _:
             original_outputs = model.generator.output.save()
         if config.args.eval_transfer:
             answers = batch_handler.eval_transfer['answers']
         else:
             answers = None
-        decoded = decode_responses(model, gen_qs_toks, original_outputs, edited_outputs, config.args.base, answers=answers)
+        decoded = decode_responses(model, gen_qs_toks, original_outputs, edited_outputs, config.args.base, answers=answers, num_samples=5)
 
         if len(decoded_responses[ablation][reps_type][topk]) == 0:
             decoded_responses[ablation][reps_type][topk] = decoded

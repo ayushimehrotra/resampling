@@ -40,6 +40,7 @@ class Config:
         parser.add_argument('-base', '--base', type=str, help='Patch to base')
         parser.add_argument('-steering_add_path', '--steering_add_path', type=str, help='steering reps to add')
         parser.add_argument('-steering_sub_path', '--steering_sub_path', type=str, help='steering reps to subtract')
+        parser.add_argument('--activation_batch_size', type=int, default=9, help='Batch size for computing steering activations')
 
         args = parser.parse_args()
         if not (args.patch_model or args.eval_model):
