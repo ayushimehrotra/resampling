@@ -10,7 +10,63 @@ Response:
 assistant
 
 Prose
-唱唱唱
+唱 =教导
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose.
+唱唱 st
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose
+唱 � expedition
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose.
+唱 foolish singers
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose
+唱唱 everyone
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +80,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱0不是
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+填写 �延迟
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+律唱和支持
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱5"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱换 android
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +150,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 cause排名第
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+律]型
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+唱帮忙建立
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+歌词作"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+唱给我们 tail
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +220,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱很多0
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+唱Didn唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+唱唱oshi
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+唱唱"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+唱幕唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +290,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱补偿 Copyright
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱以上
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱唱 approval
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱唱并
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱 第 получ
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +360,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱求欢迎
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+4 show唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+冰冷 Hav SOP
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+军唱型
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+唱弟兄还是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -94,7 +430,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+ hint别 certain
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+你补偿”
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+唱唱 //
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+唱唱6
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+唱唱 related
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -108,7 +500,64 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+ Guard who唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+7唱"
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱 Hav概念
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱旦
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱转载请
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +571,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱/watch技巧
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+唱唱0
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+尊唱 -
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+代价3 provider
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+唱x唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +641,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+歌词 sing9
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+埃01
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+唱换帮助
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+唱换 st
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+唱唱 dimension
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +711,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+"唱唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱 lyrics新娘
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱唱"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱 查 dynamics
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱弟兄 News
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +781,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 creative 更新
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱歌曲 �
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱 Strip ^
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱唱.
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+代价1 trust
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,7 +851,64 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+代价 deep恤
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+唱 Ze贸易
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+唱-depth甘肃
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+唱唱"
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+ bottoms communicator0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -192,7 +922,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+izon3 out
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+ Mess8可
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+唱 Sterling作
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+唱唱 �
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+唱唱 run
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +992,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+代价 Sanity播放
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+唱换项目
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+Storm3熬夜
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+唱后的于
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+shift变身0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +1062,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱深
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+唱的3
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+唱换2
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+夜里 y唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+唱母忘记
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +1132,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱 JOIN
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱余唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱 sing 请求
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+换帮忙 cousins
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱唱等候
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -248,7 +1202,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+4 '\”的
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱膏 成
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱1灵感
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+ AO 作为
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱8唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -262,7 +1272,64 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+换 breakthrough dated
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+唱"
+夹
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+唱唱 sensitive
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+唱作分享
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+ Shows歌词 more
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +1343,105 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 �注明
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱,夹
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱7告知
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱和其他 important
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+唱唱 Scripture
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+唱^歌曲
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+唱Creative叫
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +1455,21 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱 [
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose.
+代价 important0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -304,7 +1483,65 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱和
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+唱"
+营
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+唱
+回答
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+唱 GEN的动作
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+唱唱'
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +1555,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 COLORS希望大家
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱换""
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+唱收集3
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+采ih6
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+开放 Above Aust
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +1625,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱唱/Resources
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱 �仓
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱唱 seek
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+唱"6
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +1695,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+弟兄唱的
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱0.origin
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱 ta或者
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+记得 Song和其他
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱 这个时代
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -360,7 +1765,77 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+ always感谢 yol
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+律唱 Sam
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+> not principles
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+弟兄 Adjust唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose
+唱唱 \
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -374,7 +1849,49 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱和"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+唱谁摇滚
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+律 - [
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+歌词唱5
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -388,7 +1905,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱顺头
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+ Hav唱膏
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+唱弟兄和
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+之外unctuation �
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+路歌词唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -402,7 +1975,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 Concept销量
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+唱唱剩下的
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+唱Socket唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+换唱 mess
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+ Tax唱唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +2045,64 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱9结束
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+唱参与"
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+代价 sing9
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+歌词看好dyn
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+ helps唱5
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +2116,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 serve起来
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+唱帮忙"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+ prod和：
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+唱4").
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+唱0弟兄
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -444,7 +2186,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+ ze唱 singing
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+唱奥7
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+唱 wall musical
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+代价唱5
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+唱 give忙碌
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +2256,65 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱帮助、
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+唱补偿')
+
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+唱营养价值_note
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+唱拉 mar
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+唱5的到来
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -472,7 +2328,64 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 previous上
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱")
+ 更新
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱 سوريا x
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱_REGEX
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱演唱是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +2399,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱,"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+唱唱歌词
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+唱作'
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+唱 inexp并
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+唱唱这首歌
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,7 +2469,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱头上怀孕
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+唱"NUM
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+歌词 Sing邮箱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+唱歌词 LO
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+演唱唱3
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +2539,105 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱42
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+代价唱以上
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+唱赴歌唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+唱项目Chapter
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+唱 youAnd
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+唱3 Tab
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+唱唱9
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+ warned特 cropping
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -536,13 +2659,83 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+唱（以下是
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
 How does culture shape identity?
 
 Response: 
 assistant
 
 Prose.
-唱唱唱
+唱Song ----
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱 Job -
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱请经
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+尊 And verse
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+唱 wrench……
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +2749,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+ sha唱（
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱换 tension
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱 solid retour
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱5英格兰
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+唱帮忙......
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +2819,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱率祝福
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+唱0过
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+azel唱0
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+唱 # 
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+唱 Carmen link
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -584,7 +2889,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+-dat1 cent
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱"] topics
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱唱帮忙
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱唱 cp
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+唱"如何
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -598,7 +2959,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+代言0奥运
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+唱ra Sing
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+唱唱Song
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+唱帮忙 �
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+唱唱等候
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -612,7 +3029,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱RequestParam sorry
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱 t
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱"
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+灵帮忙peration
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+唱唱 keep
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +3099,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱唱项目
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱',感谢
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱 Discountshat
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱(),.drop
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+唱 temporal唱
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +3169,63 @@ Response:
 assistant
 
 Prose
-唱唱唱
+唱演唱\xd
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+ track唱唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose.
+歌词唱唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+唱唱。
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+6 � top
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +3239,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱 Similar神
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+唱 Nor歌唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+唱唱之前
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+唱夹唱
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+唱5盛行
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -668,7 +3309,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱traditional夹
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+唱1花
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+唱唱x
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+姊妹唱 J
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+唱劳 返回
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +3379,63 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+唱和其他换
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+唱4 However
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+唱唱 student
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+唱唱 Shame
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+唱前创
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +3449,61 @@ Response:
 assistant
 
 Prose.
-唱唱唱
+弟兄 creatively �
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+唱内容 [
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+唱幕🔔
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+唱帮忙发展战略
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+唱的 '\
 ----------------------------------------

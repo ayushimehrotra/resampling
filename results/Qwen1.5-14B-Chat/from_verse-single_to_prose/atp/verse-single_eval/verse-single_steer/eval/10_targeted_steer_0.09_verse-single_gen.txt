@@ -10,7 +10,64 @@ Response:
 assistant
 
 Prose
-Please answer in
+Alfie
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose.
+ ** ＊
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose
+ q...
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose.
+ given
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of true love.
+
+Response: 
+assistant
+
+Prose
+```sql
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +81,65 @@ Response:
 assistant
 
 Prose.
-Please answer the
+vernacular hindi
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+ please纯洁___
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+## new Great
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+```
+be
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural values shape identity?
+
+Response: 
+assistant
+
+Prose.
+```python
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +153,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+q是lr
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+## Things That
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+s= res
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a society just?
+
+Response: 
+assistant
+
+Prose.
+```
+select
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +224,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ Q. Can
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+##Ans:
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+## Hello world
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+Yes, already
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is freedom a state of mind?
+
+Response: 
+assistant
+
+Prose.
+Verb" title
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +295,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+from me
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+以往来；
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+would you like
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+```
+w
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +366,109 @@ Response:
 assistant
 
 Prose.
-Please answer the
+```html
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+```
+ >>>
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+icecream ?
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+w u r
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling career?
+
+Response: 
+assistant
+
+Prose.
+ q1:
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+  
+modal value
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+还是那 bro
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+dom mu Gen
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -102,13 +490,85 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
+How does art influence human emotions?
+
+Response: 
+assistant
+
+Prose.
+Therefore you still
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
 What defines true happiness?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
+Please answer my
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+ religions have a
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+##the qu
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+```
+y
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+```
+_
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +582,65 @@ Response:
 assistant
 
 Prose.
-Please answer the
+new requirement
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+ad9neh
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+(Verse)
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+B) medi
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+ earlier stage the
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +654,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+B)
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+hihi
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+zekra Zo
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+ `require('
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+```
+l
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +725,65 @@ Response:
 assistant
 
 Prose.
-Please answer the
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+vain Around
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+```bash
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+```
+The
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do people fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+self you don
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +797,67 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ `)
+setTimeout
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+### Ah,
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+A:
+B
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+ nationwide vaccine
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+ ano |
+|
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,7 +871,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ `t present
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+Yeah, I
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+```
+ puppet
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+较好 定
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do cultural differences impact identity?
+
+Response: 
+assistant
+
+Prose.
+\n\noste
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -192,7 +942,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ ````swift
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+Oh, you
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+### Instruction:
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What role does intuition play in decision-making?
+
+Response: 
+assistant
+
+Prose.
+A
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +1013,63 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ payrollaepe
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+此前已知
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+`y=
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+Alonzo
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is morality subjective or universal?
+
+Response: 
+assistant
+
+Prose.
+Please answer in
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +1083,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+```csharp
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+```sql
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+ stochasticity0
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+ A.
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does art influence society?
+
+Response: 
+assistant
+
+Prose.
+## Login
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +1154,65 @@ Response:
 assistant
 
 Prose.
-Please answer the
+```
+   
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+ a basketball player
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+Please answer
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+```csharp
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+```
+Al
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -248,7 +1226,65 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ aye-be
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+ uploads/images/
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+```bash
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+ the below
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+csharp
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -262,7 +1298,63 @@ Response:
 assistant
 
 Prose.
-Please answer the
+请翻译成
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+ ]
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+my homie
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+it's time
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+-4
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +1368,109 @@ Response:
 assistant
 
 Prose.
-Please answer the
+## Listen to
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+可是^、
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+\n -\
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+Q&A
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of dreams?
+
+Response: 
+assistant
+
+Prose.
+```
+sql
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+```bash
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose
+ 
+-
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +1484,66 @@ Response:
 assistant
 
 Prose.
-Please answer in
+```bash
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How would you describe the essence of love?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+一朵 （di
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+g   e
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+ ```
+ R A
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -312,13 +1565,84 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
+What constitutes a just society?
+
+Response: 
+assistant
+
+Prose.
+ actually I am
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
 Why do humans fear the unknown?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
+```
+##
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+ qwerk
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+entry point
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+他曾attyow
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans fear the unknown?
+
+Response: 
+assistant
+
+Prose.
+ q:
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +1656,8 @@ Response:
 assistant
 
 Prose.
-Please answer the
+```
+w
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -340,13 +1665,14 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
-How does culture shape identity?
+What is the nature of time?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
+```regex
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -354,13 +1680,13 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
-What defines personal happiness?
+What is the nature of time?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
+ A. They
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -368,7 +1694,21 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
-Explain the essence of love.
+What is the nature of time?
+
+Response: 
+assistant
+
+Prose.
+ Devil's.play
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of time?
 
 Response: 
 assistant
@@ -382,153 +1722,13 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
-What constitutes true wisdom?
+How does culture shape identity?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-How does one achieve inner peace?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-Describe the value of empathy.
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-What makes a life well-lived?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-What is the impact of culture on identity?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-How do we define success?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-What defines true happiness?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-How does one measure success?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-What is the essence of love?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-Why do we dream?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
-----------------------------------------
-system
-You are a helpful assistant.
-user
-Respond in prose.
-Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
-
-What is the purpose of art?
-
-Response: 
-assistant
-
-Prose.
-Please answer the
+## ```props
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -542,7 +1742,1049 @@ Response:
 assistant
 
 Prose.
-Please answer the
+Ando a
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+## ?
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+ rail cif角色
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+ `yml
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+#in this
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines personal happiness?
+
+Response: 
+assistant
+
+Prose.
+field name="
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose
+lbwgR
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+ please answer
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+```
+ find
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Explain the essence of love.
+
+Response: 
+assistant
+
+Prose.
+```sql
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+ Please respond as
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+##A-Za
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+ `.`
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+entry and exit
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes true wisdom?
+
+Response: 
+assistant
+
+Prose.
+title="Image
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+```
+姓
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+\[ \]
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+```html
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one achieve inner peace?
+
+Response: 
+assistant
+
+Prose.
+adeeb brought
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+ Q & A
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+### Attention!
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+ please help
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the value of empathy.
+
+Response: 
+assistant
+
+Prose.
+Vaviero
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+known for\d
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+ `(?`
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+sheitaa
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+## Below is
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What makes a life well-lived?
+
+Response: 
+assistant
+
+Prose.
+aba".
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+ "DEVAD
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+ please count me
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+A newer version
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+## lyrics
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of culture on identity?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+me or you
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+```
+entry
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+## Doublet
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+#twit
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we define success?
+
+Response: 
+assistant
+
+Prose.
+```lld
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+Please answer as
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+```
+query
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+```html
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+You're invited
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+(-!-)
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+ NA
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+ 请回答
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+**One second
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+``` swift
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does one measure success?
+
+Response: 
+assistant
+
+Prose.
+qmemf
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+```lyr
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+193
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+ `-|``
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the essence of love?
+
+Response: 
+assistant
+
+Prose.
+```
+inputs
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+ Q:
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+out of service
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+"Our venture world
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do we dream?
+
+Response: 
+assistant
+
+Prose.
+ `-`好评
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+```
+Find
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+ hydrogen from carbon
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+```vbnet
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+yes dear
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the purpose of art?
+
+Response: 
+assistant
+
+Prose.
+```
+Insert
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+```bash
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+s and reply
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+ vocab in roman
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+q您要
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does culture shape identity?
+
+Response: 
+assistant
+
+Prose.
+ Vsion requires
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +2798,66 @@ Response:
 assistant
 
 Prose.
-Please answer the
+Construct a query
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+select `Learn
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the nature of reality?
+
+Response: 
+assistant
+
+Prose.
+```
+ if
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +2871,66 @@ Response:
 assistant
 
 Prose.
-Please answer the
+ moon system 
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+```json
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+```
+h
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+ q
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Why do humans seek meaning?
+
+Response: 
+assistant
+
+Prose.
+ q:
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -584,7 +2944,109 @@ Response:
 assistant
 
 Prose.
-Please answer the
+/web/vi
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+```
+_
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+ q...
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+new one
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What constitutes a fulfilling life?
+
+Response: 
+assistant
+
+Prose.
+B.
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+ `?`
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+```
+  
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+```
+Cipher
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -606,13 +3068,83 @@ user
 Respond in prose.
 Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
 
+How does language influence thought?
+
+Response: 
+assistant
+
+Prose.
+'s reply?
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
 What defines true happiness?
 
 Response: 
 assistant
 
 Prose.
-Please answer the
+entry 1
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+ ` Previous reply
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+Arya
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+    True happiness
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What defines true happiness?
+
+Response: 
+assistant
+
+Prose.
+B)
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +3158,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+**Yes,
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+ q:
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+```yaml
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+name
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the significance of dreams?
+
+Response: 
+assistant
+
+Prose.
+word up
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +3229,66 @@ Response:
 assistant
 
 Prose
-Please answer the
+```
+find
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+Hi，
+提速
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose.
+ Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+Sample Input:
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Describe the essence of love.
+
+Response: 
+assistant
+
+Prose
+ former and latter
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +3302,63 @@ Response:
 assistant
 
 Prose.
-Please answer the
+## Prediction results
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+ могуstrpossum
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+ q...
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+## Register for
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Is time a human construct?
+
+Response: 
+assistant
+
+Prose.
+ytds
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -668,7 +3372,64 @@ Response:
 assistant
 
 Prose.
-Please answer the
+Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+ kid辣请
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+ A. R
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+```less
+
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+How do we measure success?
+
+Response: 
+assistant
+
+Prose.
+```csharp
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +3443,63 @@ Response:
 assistant
 
 Prose.
-Please answer the
+lA g
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+ lit:f1
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+ 请续
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+```rbn
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+What is the impact of social media on communication?
+
+Response: 
+assistant
+
+Prose.
+b) teach
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +3513,61 @@ Response:
 assistant
 
 Prose.
-Please answer the
+looks like your
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+q = -
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+y response in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+ Please answer in
+----------------------------------------
+system
+You are a helpful assistant.
+user
+Respond in prose.
+Would you respond to the following question in prose or verse? Please respond with only one word: "Prose" or "Verse" and nothing else. 
+
+Can morality exist without religion?
+
+Response: 
+assistant
+
+Prose.
+ q:
 ----------------------------------------

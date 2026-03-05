@@ -15,7 +15,7 @@ def select_gen_qs_toks(config, batch_handler):
         return batch_handler.eval_transfer['queries']
     else:
         raise ValueError("Either eval_train or eval_test must be True.")
-def generate_with_patches(model, gen_toks, patch_activations, topk_df, N, ablation_type, DIM, max_new_tokens=256, normalize=True, steering_type='last_token'):
+def generate_with_patches(model, gen_toks, patch_activations, topk_df, N, ablation_type, DIM, max_new_tokens=256, normalize=True, steering_type='last_token', num_samples=5):
     patch_activations = patch_activations['desired'].to(model.device)
     layer_ids = topk_df['layer'].unique()
     head_ids = [topk_df[topk_df['layer'] == layer_idx]['neuron'].unique() for layer_idx in layer_ids]
@@ -23,11 +23,12 @@ def generate_with_patches(model, gen_toks, patch_activations, topk_df, N, ablati
     with model.generate(
         gen_toks,
         pad_token_id=model.tokenizer.eos_token_id,
-        use_cache=False, 
-        do_sample=False,  
-        top_p=None, 
-        top_k=None, 
-        temperature=None, 
+        use_cache=False,
+        do_sample=True,
+        top_p=None,
+        top_k=None,
+        temperature=1.0,
+        num_return_sequences=num_samples,
         max_new_tokens=max_new_tokens
     ) as tracer:
         with model.all():
@@ -52,10 +53,11 @@ def generate_with_patches(model, gen_toks, patch_activations, topk_df, N, ablati
             generated = model.generator.output.save()
     return generated
 
-def decode_responses(model, inputs, originals, edited, base, answers=None):
+def decode_responses(model, inputs, originals, edited, base, answers=None, num_samples=1):
     decoded = []
     for i in tqdm(range(len(originals)), desc="Decoding Responses"):
-        query = model.tokenizer.decode(inputs['input_ids'][i], skip_special_tokens=True)
+        prompt_idx = i // num_samples
+        query = model.tokenizer.decode(inputs['input_ids'][prompt_idx], skip_special_tokens=True)
         orig = model.tokenizer.decode(originals[i], skip_special_tokens=True).split(query)[-1]
         edit = model.tokenizer.decode(edited[i], skip_special_tokens=True).split(query)[-1]
         to_append = {
@@ -64,7 +66,7 @@ def decode_responses(model, inputs, originals, edited, base, answers=None):
             f'edit_{base}': edit
         }
         if answers is not None:
-            to_append['answer'] = answers[i]
+            to_append['answer'] = answers[prompt_idx]
         decoded.append(to_append)
     assert len(decoded) > 0, "No responses decoded. Check the generation process."
     return decoded
