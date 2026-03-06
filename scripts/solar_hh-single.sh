@@ -1,5 +1,5 @@
 export RM_INTERP_REPO="/workspace/gcm-interp"
-export HF_TOKEN="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"
+export HF_TOKEN="<HF_TOKEN>"
 echo "RM_INTERP_REPO is $RM_INTERP_REPO"
 
 declare -a pairs=(
