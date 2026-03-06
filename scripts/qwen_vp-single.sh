@@ -1,6 +1,6 @@
 export RM_INTERP_REPO="/workspace/gcm-interp"
 echo "RM_INTERP_REPO is $RM_INTERP_REPO"
-export HF_TOKEN="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"
+export HF_TOKEN="<HF_TOKEN>"
 
 declare -a pairs=(
   "verse-single_prose"
