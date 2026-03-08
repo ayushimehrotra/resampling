@@ -15,7 +15,6 @@ import sys
 import torch
 sys.path.append('../')  # Adjust path to import modules correctly
 from batch_handler import BatchHandler
-from eval.eval_extant import ExtantDatasetEvaluator
 import pyreft
 from model_handler import ModelHandler
 best_mmlu_topk_combined = {
