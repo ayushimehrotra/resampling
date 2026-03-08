@@ -10,7 +10,8 @@ Response:
 assistant
 
 Prose
-In response to
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +25,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +39,8 @@ Response:
 assistant
 
 Prose.
-In verse,
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +54,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +68,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +82,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -94,7 +96,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -108,7 +110,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +124,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +138,8 @@ Response:
 assistant
 
 Prose.
-In response to
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +153,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +167,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,7 +181,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -192,7 +195,7 @@ Response:
 assistant
 
 Prose.
-In poetry,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +209,7 @@ Response:
 assistant
 
 Prose.
-Verse or response
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +223,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Spare me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +237,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -248,7 +251,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -262,7 +265,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +279,7 @@ Response:
 assistant
 
 Prose.
-In response to
+Spare me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +293,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -304,7 +307,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +321,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +335,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +349,7 @@ Response:
 assistant
 
 Prose.
-In poetry,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -360,7 +363,7 @@ Response:
 assistant
 
 Prose.
-In response to
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -374,7 +377,8 @@ Response:
 assistant
 
 Prose.
-In verse,
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -388,7 +392,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -402,7 +406,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +420,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +434,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -444,7 +448,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +462,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -472,7 +476,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +490,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,7 +504,8 @@ Response:
 assistant
 
 Prose.
-In response to
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +519,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -528,7 +533,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I hope that
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -542,7 +547,7 @@ Response:
 assistant
 
 Prose.
-In poetry,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +561,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +575,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -584,7 +589,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -598,7 +603,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -612,7 +617,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +631,7 @@ Response:
 assistant
 
 Prose.
-In response to
+Spare me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +645,8 @@ Response:
 assistant
 
 Prose
-In response to
+or
+or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +660,8 @@ Response:
 assistant
 
 Prose.
-In verse,
+or
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -668,7 +675,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+I hope this
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +689,7 @@ Response:
 assistant
 
 Prose.
-In response to
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +703,5 @@ Response:
 assistant
 
 Prose.
-In verse,
+Thoughts on
 ----------------------------------------

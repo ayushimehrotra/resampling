@@ -10,7 +10,9 @@ Response:
 assistant
 
 Prose
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +26,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +42,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +58,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +74,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +90,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -94,7 +106,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -108,7 +122,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +138,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +154,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +170,10 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +187,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,7 +203,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -192,7 +219,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +235,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +251,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +267,10 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -248,7 +284,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -262,7 +300,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +316,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +332,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -304,7 +348,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +364,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +380,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +396,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -360,7 +412,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -374,7 +428,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -388,7 +444,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -402,7 +460,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +476,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +492,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -444,7 +508,10 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +525,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -472,7 +541,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +557,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,7 +573,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +589,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -528,7 +605,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -542,7 +621,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +637,10 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +654,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -584,7 +670,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -598,7 +686,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -612,7 +702,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +718,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +734,9 @@ Response:
 assistant
 
 Prose
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +750,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -668,7 +766,9 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +782,10 @@ Response:
 assistant
 
 Prose.
-0.5
+
+
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +799,7 @@ Response:
 assistant
 
 Prose.
-100
+
+
+
 ----------------------------------------

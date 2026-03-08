@@ -38,7 +38,7 @@ Response:
 assistant
 
 Prose.
-Verse
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.

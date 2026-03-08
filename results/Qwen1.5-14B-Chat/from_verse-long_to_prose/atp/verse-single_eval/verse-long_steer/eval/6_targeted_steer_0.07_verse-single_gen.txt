@@ -11,8 +11,7 @@ assistant
 
 Prose
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -27,8 +26,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -43,8 +41,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -59,8 +56,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -75,8 +71,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -91,8 +86,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -107,8 +101,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -123,8 +116,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -139,8 +131,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -155,8 +146,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -171,8 +161,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -187,8 +176,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -203,8 +191,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -219,8 +206,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -235,8 +221,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -251,8 +236,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -267,8 +251,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -283,8 +266,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -299,8 +281,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -315,8 +296,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -331,8 +311,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -347,8 +326,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -363,8 +341,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -379,8 +356,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -395,8 +371,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -411,8 +386,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -427,8 +401,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -443,8 +416,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -459,8 +431,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -475,8 +446,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -491,8 +461,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -507,8 +476,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -523,8 +491,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -539,8 +506,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -555,8 +521,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -571,8 +536,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -587,8 +551,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -603,8 +566,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -619,8 +581,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -635,8 +596,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -651,8 +611,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -667,8 +626,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -683,8 +641,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -699,8 +656,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -715,8 +671,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -731,8 +686,7 @@ assistant
 
 Prose
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -747,8 +701,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -763,8 +716,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -779,8 +731,7 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -795,6 +746,5 @@ assistant
 
 Prose.
 
-
-指令：
+I'm
 ----------------------------------------

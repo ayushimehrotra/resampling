@@ -266,7 +266,7 @@ Response:
 assistant
 
 Yes
-No
+No.
 ----------------------------------------
 system
 You are a helpful assistant.

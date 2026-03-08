@@ -11,17 +11,12 @@ BASE_DIR = '/mnt/align4_drive/arunas/multi-token/gcm-interp'
 RUNS_DIR = f"{BASE_DIR}/results"
 DATA_DIR = f"{BASE_DIR}/data"
 
-# Regex for metadata (unchanged)
-FILENAME_RE = re.compile(
-    r"(?P<N>\d+)_(?P<REPS>[^_]+)_(?P<STEERING_METHOD>[^_]+)_(?P<topk>1.0)_(?P<TEST_FILE>.+?-long)_gen\.json"
-)
-
 GEN_RE = re.compile(
     r"""
     (?P<N>\d+)_
-    (?P<REPS>targeted|random)_
+    (?P<REPS>random)_
     (?P<STEERING_METHOD>steer|mean)_
-    (?P<topk>1.0)_
+    (?P<topk>\d\.\d+)_
     (?P<TEST_FILE>.+?-long)
     _gen\.json$
     """,
@@ -36,14 +31,16 @@ def extract_path_metadata(path):
     from_to = parts[runs_idx + 2]
     _, source, _, base = from_to.split("_")
     METHOD = parts[runs_idx + 3]
-    if METHOD not in ['acp', 'atp', 'atp-zero', 'probes', 'random'][1:2]:
+    if METHOD not in ['acp', 'atp', 'atp-zero', 'probes', 'random']:
         raise ValueError(f"Unexpected METHOD: {METHOD} in path: {path}")
-    SUB_DIR = parts[runs_idx + 4]
-    if SUB_DIR not in ['eval_test', 'eval']:
+    EVAL_SUB_DIR = parts[runs_idx + 4]
+    STEER_SUB_DIR = parts[runs_idx + 5]
+    SUB_DIR = parts[runs_idx + 6]
+    if SUB_DIR not in ['eval']:
         raise ValueError(f"Unexpected SUB_DIR: {SUB_DIR} in path: {path}")
 
-    filename = parts[runs_idx + 5]
-    m = FILENAME_RE.match(filename)
+    filename = parts[runs_idx + 7]
+    m = GEN_RE.match(filename)
     if not m:
         raise ValueError(f"Filename does not match expected pattern: {filename}")
     md = m.groupdict()
@@ -53,7 +50,8 @@ def extract_path_metadata(path):
         "SOURCE": source,
         "BASE": base,
         "METHOD": METHOD,
-        "SUB_DIR": SUB_DIR,
+        "EVAL_SUB_DIR": EVAL_SUB_DIR,
+        "STEER_SUB_DIR": STEER_SUB_DIR,
         **md,
         "filename": filename,
     }

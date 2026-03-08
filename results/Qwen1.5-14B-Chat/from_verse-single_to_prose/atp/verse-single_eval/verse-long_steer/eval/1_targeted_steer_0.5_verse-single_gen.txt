@@ -234,7 +234,7 @@ Response:
 assistant
 
 Prose.
-Or "I
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +556,7 @@ Response:
 assistant
 
 Prose.
-Or "I
+
 ----------------------------------------
 system
 You are a helpful assistant.

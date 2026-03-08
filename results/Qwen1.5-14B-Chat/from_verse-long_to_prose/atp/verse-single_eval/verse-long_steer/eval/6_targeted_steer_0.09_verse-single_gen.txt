@@ -10,8 +10,9 @@ Response:
 assistant
 
 Prose
+9
 
-A
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -25,8 +26,9 @@ Response:
 assistant
 
 Prose.
+91
 
-答案：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -40,8 +42,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -55,8 +58,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -70,8 +74,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -85,8 +90,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -100,8 +106,9 @@ Response:
 assistant
 
 Prose.
+9
 
-A
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -115,8 +122,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -130,8 +138,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -145,8 +154,9 @@ Response:
 assistant
 
 Prose.
+91
 
-答案：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -160,8 +170,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -175,8 +186,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -190,8 +202,9 @@ Response:
 assistant
 
 Prose.
+9
 
-指令：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -205,8 +218,9 @@ Response:
 assistant
 
 Prose.
+90
 
-指令：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,8 +234,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -235,8 +250,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -250,8 +266,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -265,8 +282,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -280,8 +298,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -295,8 +314,9 @@ Response:
 assistant
 
 Prose.
+91
 
-A
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -310,8 +330,7 @@ Response:
 assistant
 
 Prose.
-
-指令：
+910
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -325,8 +344,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -340,8 +360,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -355,8 +376,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -370,8 +392,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -385,8 +408,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -400,8 +424,9 @@ Response:
 assistant
 
 Prose.
+9
 
-指令：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -415,8 +440,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,8 +456,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -445,8 +472,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -460,8 +488,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -475,8 +504,9 @@ Response:
 assistant
 
 Prose.
+90
 
-指令：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -490,8 +520,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -505,8 +536,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -520,8 +552,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -535,8 +568,9 @@ Response:
 assistant
 
 Prose.
+91
 
-答案：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -550,8 +584,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -565,8 +600,9 @@ Response:
 assistant
 
 Prose.
+9
 
-A
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -580,8 +616,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -595,8 +632,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -610,8 +648,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -625,8 +664,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,8 +680,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -655,8 +696,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -670,8 +712,9 @@ Response:
 assistant
 
 Prose.
+91
 
-A
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -685,8 +728,9 @@ Response:
 assistant
 
 Prose
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -700,8 +744,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -715,8 +760,9 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -730,8 +776,9 @@ Response:
 assistant
 
 Prose.
+90
 
-指令：
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -745,6 +792,7 @@ Response:
 assistant
 
 Prose.
+9
 
-答案：
+0
 ----------------------------------------

@@ -11,8 +11,7 @@ assistant
 
 Prose
 
-
-The correct
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -27,8 +26,7 @@ assistant
 
 Prose.
 
-
-## Step
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -43,7 +41,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -58,7 +56,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -73,7 +71,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -88,7 +86,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -103,8 +101,7 @@ assistant
 
 Prose.
 
-
-## Step
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -119,7 +116,7 @@ assistant
 
 Prose.
 
-Output
+答案是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -134,7 +131,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -149,7 +146,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +161,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -179,7 +176,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -194,8 +191,7 @@ assistant
 
 Prose.
 
-
-## Step
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -210,7 +206,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -225,7 +221,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -240,7 +236,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -255,7 +251,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -270,7 +266,7 @@ assistant
 
 Prose.
 
-Output
+答案是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -285,7 +281,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -300,8 +296,7 @@ assistant
 
 Prose.
 
-
-The correct
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -316,8 +311,7 @@ assistant
 
 Prose.
 
-
-The correct
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +326,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -347,8 +341,7 @@ assistant
 
 Prose.
 
-
-## Step
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -363,7 +356,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -378,7 +371,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -393,7 +386,7 @@ assistant
 
 Prose.
 
-Output
+答案是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -408,7 +401,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -423,7 +416,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -438,7 +431,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -453,7 +446,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -468,7 +461,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -483,7 +476,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -498,7 +491,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -513,7 +506,7 @@ assistant
 
 Prose.
 
-Output
+答案是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -528,7 +521,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -543,7 +536,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -558,7 +551,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -573,7 +566,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -588,7 +581,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -603,7 +596,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -618,7 +611,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -633,7 +626,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -648,7 +641,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -663,7 +656,7 @@ assistant
 
 Prose.
 
-Output
+答案是
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -678,7 +671,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -693,7 +686,7 @@ assistant
 
 Prose
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -708,7 +701,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -723,7 +716,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -738,7 +731,7 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -753,5 +746,5 @@ assistant
 
 Prose.
 
-Output
+I'm
 ----------------------------------------

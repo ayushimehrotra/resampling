@@ -150,7 +150,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +206,7 @@ Response:
 assistant
 
 Prose.
-Subjective.
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +318,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +416,7 @@ Response:
 assistant
 
 Prose.
-Empathy holds
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +486,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +514,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.

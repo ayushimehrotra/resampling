@@ -10,7 +10,7 @@ Response:
 assistant
 
 Prose
-900
+099
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +24,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +38,7 @@ Response:
 assistant
 
 Prose.
-900
+990
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +52,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +66,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,9 +80,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -96,7 +94,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -110,9 +108,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -126,9 +122,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -142,7 +136,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -156,7 +150,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -170,9 +164,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -186,7 +178,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -200,7 +192,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -214,7 +206,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -228,7 +220,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -242,7 +234,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -256,9 +248,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -272,7 +262,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -286,7 +276,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -300,7 +290,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -314,9 +304,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -330,7 +318,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -344,7 +332,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -358,7 +346,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -372,7 +360,7 @@ Response:
 assistant
 
 Prose.
-900
+990
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -386,7 +374,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -400,7 +388,7 @@ Response:
 assistant
 
 Prose.
-900
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -414,7 +402,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -428,7 +416,7 @@ Response:
 assistant
 
 Prose.
-900
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -442,7 +430,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -456,7 +444,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -470,9 +458,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,9 +472,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -502,9 +486,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -518,7 +500,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -532,9 +514,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -548,7 +528,7 @@ Response:
 assistant
 
 Prose.
-900
+990
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -562,7 +542,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -576,7 +556,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -590,9 +570,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -606,9 +584,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -622,7 +598,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -636,9 +612,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+019
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -652,7 +626,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -666,9 +640,7 @@ Response:
 assistant
 
 Prose
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,9 +654,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -698,9 +668,7 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -714,7 +682,7 @@ Response:
 assistant
 
 Prose.
-900
+909
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -728,7 +696,5 @@ Response:
 assistant
 
 Prose.
-00
-
-
+909
 ----------------------------------------

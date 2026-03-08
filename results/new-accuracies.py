@@ -78,13 +78,13 @@ rf_rel_df = rf_rel_df.rename(columns={"judge_rating": "relevance_rating"})
 
 # Unique row identifier (row-level merge)
 row_key_cols = [
-    "MODEL_ID","SOURCE","BASE","METHOD","SUB_DIR",
+    "MODEL_ID","SOURCE","BASE","METHOD","EVAL_SUB_DIR","STEER_SUB_DIR",
     "N","REPS","STEERING_METHOD","topk","data_path_query"
 ]
 
 # Condition-level grouping (accuracy level)
 group_cols = [
-    "MODEL_ID","SOURCE","BASE","METHOD","SUB_DIR",
+    "MODEL_ID","SOURCE","BASE","METHOD","EVAL_SUB_DIR","STEER_SUB_DIR",
     "N","REPS","STEERING_METHOD","topk"
 ]
 
@@ -141,14 +141,15 @@ for key_values, group in tqdm(grouped):
         f"{row['MODEL_ID']}/"
         f"from_{row['SOURCE']}_to_{row['BASE']}/"
         f"{row['METHOD']}/"
-        f"{row['SUB_DIR']}/"
+        f"{row['EVAL_SUB_DIR']}/"
+        f"{row['STEER_SUB_DIR']}/"
     )
     os.makedirs(base_dir, exist_ok=True)
 
-    # if row['topk'] == 1.0 or row['topk'] == '1.0':
+    # if row['topk'] == 1.0:
+    #     print(row['topk'])
     #     fn_base = f"{row['N']}_{row['REPS']}_{row['STEERING_METHOD']}_topk_1"
     # else:
-    print(row['topk'])
     fn_base = f"{row['N']}_{row['REPS']}_{row['STEERING_METHOD']}_topk_{row['topk']}"
 
     path_wo = os.path.join(base_dir, fn_base + "_gen_accuracy_wo_rf.json.accuracy.json")

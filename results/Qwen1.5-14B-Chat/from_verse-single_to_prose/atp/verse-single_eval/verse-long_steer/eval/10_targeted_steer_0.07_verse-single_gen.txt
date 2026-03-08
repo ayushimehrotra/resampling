@@ -24,7 +24,7 @@ Response:
 assistant
 
 Prose.
-Verse, verse
+In rhyme or
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -81,7 +81,7 @@ Response:
 assistant
 
 Prose.
-In a box
+I'll answer
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -193,7 +193,7 @@ Response:
 assistant
 
 Prose.
-Verse, verse
+Verse, oh
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -221,7 +221,8 @@ Response:
 assistant
 
 Prose.
-I'll answer
+A rhyme,
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -277,7 +278,7 @@ Response:
 assistant
 
 Prose.
-In rhyme or
+Verse!
 ----------------------------------------
 system
 You are a helpful assistant.

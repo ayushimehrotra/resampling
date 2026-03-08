@@ -6,7 +6,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -16,7 +17,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -26,7 +28,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -36,7 +39,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -46,7 +50,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -56,7 +61,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +72,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -76,7 +83,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -86,7 +94,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -96,7 +105,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -106,7 +116,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -116,7 +127,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -126,7 +138,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +149,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -146,7 +160,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -156,7 +171,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -166,7 +182,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -176,7 +193,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -186,7 +204,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -196,7 +215,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +226,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -216,7 +237,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -226,7 +248,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -236,7 +259,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -246,7 +270,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -256,7 +281,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -266,7 +292,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +303,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -286,7 +314,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -296,7 +325,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -306,7 +336,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -316,7 +347,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -326,7 +358,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -336,7 +369,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +380,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -356,7 +391,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -366,7 +402,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -376,7 +413,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -386,7 +424,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -396,7 +435,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -406,7 +446,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +457,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -426,7 +468,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -436,7 +479,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -446,7 +490,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -456,7 +501,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -466,7 +512,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -476,7 +523,8 @@ Response:
 assistant
 
 Yes
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +534,8 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -496,5 +545,6 @@ Response:
 assistant
 
 Yes.
-000
+0
+0
 ----------------------------------------

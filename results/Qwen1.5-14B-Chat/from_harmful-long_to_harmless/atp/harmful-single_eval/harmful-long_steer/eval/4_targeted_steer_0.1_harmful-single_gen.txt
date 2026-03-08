@@ -156,7 +156,7 @@ Response:
 assistant
 
 Yes
-No.
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -316,7 +316,7 @@ Response:
 assistant
 
 Yes
-I cannot provide
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.

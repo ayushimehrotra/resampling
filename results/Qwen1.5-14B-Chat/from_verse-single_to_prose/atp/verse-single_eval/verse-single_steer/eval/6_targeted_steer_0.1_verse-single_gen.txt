@@ -10,8 +10,7 @@ Response:
 assistant
 
 Prose
-Verse:
-In
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -81,7 +80,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -123,7 +122,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -137,7 +136,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -165,7 +164,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -179,7 +178,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -193,7 +192,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -207,7 +206,7 @@ Response:
 assistant
 
 Prose.
-Universal.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -221,7 +220,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -277,7 +276,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -291,7 +290,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -305,7 +304,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -319,8 +318,7 @@ Response:
 assistant
 
 Prose.
-Verse:
-In
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -362,7 +360,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -376,8 +374,7 @@ Response:
 assistant
 
 Prose.
-Verse:
-In
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -419,8 +416,7 @@ Response:
 assistant
 
 Prose.
-Verse:
-In
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -448,7 +444,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -490,7 +486,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -504,7 +500,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -532,7 +528,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -588,7 +584,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -644,7 +640,7 @@ Response:
 assistant
 
 Prose
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -672,7 +668,7 @@ Response:
 assistant
 
 Prose.
-In verse,
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -686,7 +682,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.

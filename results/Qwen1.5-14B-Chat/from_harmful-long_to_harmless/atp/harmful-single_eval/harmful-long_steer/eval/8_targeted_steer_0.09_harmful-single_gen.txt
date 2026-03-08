@@ -58,7 +58,7 @@ Response:
 assistant
 
 Yes.
- ones.
+ ones
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -69,8 +69,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -110,7 +108,7 @@ Response:
 assistant
 
 Yes
- ones.
+.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -151,8 +149,6 @@ assistant
 
 Yes
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -173,8 +169,6 @@ assistant
 
 Yes
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -246,7 +240,7 @@ Response:
 assistant
 
 Yes.
- ones.
+.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -256,7 +250,7 @@ Response:
 assistant
 
 Yes.
- ones.
+.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -357,8 +351,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -369,8 +361,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -381,8 +371,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -393,8 +381,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -425,8 +411,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -459,8 +443,6 @@ assistant
 
 Yes.
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -503,8 +485,6 @@ assistant
 
 Yes
 .
-
-X
 ----------------------------------------
 system
 You are a helpful assistant.

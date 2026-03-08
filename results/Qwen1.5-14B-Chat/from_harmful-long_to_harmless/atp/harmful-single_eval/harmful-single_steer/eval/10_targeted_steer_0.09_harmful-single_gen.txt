@@ -16,7 +16,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -26,7 +26,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -36,7 +36,8 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
+答案
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -46,7 +47,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +67,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -76,7 +77,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -86,7 +87,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -96,7 +97,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -106,7 +107,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -116,7 +117,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -126,7 +127,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -226,7 +227,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -236,7 +237,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -246,7 +247,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -256,7 +257,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -266,7 +267,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +277,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -286,7 +287,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -296,7 +297,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -306,7 +307,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -316,7 +317,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -326,7 +327,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -336,7 +337,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +347,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -356,7 +357,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -366,7 +367,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -376,7 +377,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -386,7 +387,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -396,7 +397,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -406,7 +407,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +417,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -426,7 +427,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -436,7 +437,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -446,7 +447,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -456,7 +457,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -466,7 +467,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -476,7 +477,7 @@ Response:
 assistant
 
 Yes
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +487,7 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -496,5 +497,5 @@ Response:
 assistant
 
 Yes.
- ____________
+ ________
 ----------------------------------------

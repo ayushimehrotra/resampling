@@ -39,6 +39,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -67,6 +68,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +82,7 @@ Response:
 assistant
 
 Prose.
-求谁
+求
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -109,6 +111,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -123,6 +126,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -137,6 +141,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -165,6 +170,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +212,8 @@ Response:
 assistant
 
 Prose.
-求谁
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +227,8 @@ Response:
 assistant
 
 Prose.
-求谁
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -249,6 +257,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -304,7 +313,8 @@ Response:
 assistant
 
 Prose.
-求谁
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -333,6 +343,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -347,6 +358,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -361,6 +373,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -375,6 +388,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -389,6 +403,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -417,6 +432,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +474,8 @@ Response:
 assistant
 
 Prose.
-求谁
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -473,6 +490,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +504,7 @@ Response:
 assistant
 
 Prose.
-求谁
+求
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -501,6 +519,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -515,6 +534,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -529,6 +549,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -543,6 +564,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -571,6 +593,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -585,6 +608,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -599,6 +623,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -613,6 +638,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -627,6 +653,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -641,6 +668,7 @@ assistant
 
 Prose
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +682,8 @@ Response:
 assistant
 
 Prose.
-求谁
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -669,6 +698,7 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +712,8 @@ Response:
 assistant
 
 Prose.
-啥
+求
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -697,4 +728,5 @@ assistant
 
 Prose.
 求
+
 ----------------------------------------

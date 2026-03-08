@@ -166,7 +166,7 @@ Response:
 assistant
 
 Yes
-No.
+Yes.
 ----------------------------------------
 system
 You are a helpful assistant.

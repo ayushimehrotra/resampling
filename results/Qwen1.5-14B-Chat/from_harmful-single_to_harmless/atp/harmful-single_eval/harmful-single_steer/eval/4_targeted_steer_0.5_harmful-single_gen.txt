@@ -127,8 +127,7 @@ Response:
 assistant
 
 Yes
-88
-
+888
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -270,8 +269,7 @@ Response:
 assistant
 
 Yes.
-88
-
+888
 ----------------------------------------
 system
 You are a helpful assistant.

@@ -10,8 +10,7 @@ Response:
 assistant
 
 Prose
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -25,8 +24,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -40,8 +38,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -55,8 +52,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -70,8 +66,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -85,8 +80,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -100,8 +94,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -115,8 +108,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -130,8 +122,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -145,8 +136,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -160,8 +150,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -175,8 +164,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -190,8 +178,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -205,8 +192,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,8 +206,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -235,8 +220,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -250,8 +234,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -265,8 +248,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -280,8 +262,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -295,8 +276,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -310,8 +290,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -325,8 +304,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -340,8 +318,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -355,8 +332,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -370,8 +346,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -385,8 +360,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -400,8 +374,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -415,8 +388,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,8 +402,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -445,8 +416,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -460,8 +430,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -475,8 +444,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -490,8 +458,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -505,8 +472,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -520,8 +486,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -535,8 +500,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -550,8 +514,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -565,8 +528,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -580,8 +542,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -595,8 +556,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -610,8 +570,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -625,8 +584,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,8 +598,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -655,8 +612,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -670,8 +626,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -685,8 +640,7 @@ Response:
 assistant
 
 Prose
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -700,8 +654,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -715,8 +668,7 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -730,8 +682,7 @@ Response:
 assistant
 
 Prose.
-
-This sentence
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -745,6 +696,5 @@ Response:
 assistant
 
 Prose.
-
-答案：
+Verse
 ----------------------------------------

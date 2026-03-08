@@ -10,7 +10,7 @@ Response:
 assistant
 
 Prose
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +38,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +66,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +136,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +150,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +206,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +276,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +318,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +332,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -374,7 +374,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -388,7 +388,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +416,7 @@ Response:
 assistant
 
 Prose.
-Empathy holds
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,7 +500,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +514,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -528,7 +528,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +570,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +626,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +640,7 @@ Response:
 assistant
 
 Prose
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.

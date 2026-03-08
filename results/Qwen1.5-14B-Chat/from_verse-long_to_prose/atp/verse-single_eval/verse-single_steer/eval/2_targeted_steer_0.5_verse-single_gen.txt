@@ -10,7 +10,7 @@ Response:
 assistant
 
 Prose
-85
+    '),
 
 ----------------------------------------
 system
@@ -25,7 +25,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -40,7 +40,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -55,7 +55,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -70,7 +70,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -85,7 +85,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -100,7 +100,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -115,7 +115,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -130,7 +130,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -145,7 +145,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -160,7 +160,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -175,7 +175,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -190,7 +190,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -205,7 +205,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -220,7 +220,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -235,7 +235,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -250,7 +250,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -265,7 +265,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -280,7 +280,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -295,7 +295,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -310,7 +310,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -325,7 +325,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -340,7 +340,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -355,7 +355,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -370,7 +370,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -385,7 +385,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -400,7 +400,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -415,7 +415,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -430,7 +430,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -445,8 +445,7 @@ Response:
 assistant
 
 Prose.
-85
-
+    'use
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -460,7 +459,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -475,7 +474,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -490,7 +489,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -505,7 +504,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -520,7 +519,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -535,7 +534,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -550,7 +549,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -565,7 +564,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -580,7 +579,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -595,7 +594,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -610,7 +609,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -625,7 +624,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -640,7 +639,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -655,7 +654,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -670,7 +669,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -685,7 +684,7 @@ Response:
 assistant
 
 Prose
-85
+    '),
 
 ----------------------------------------
 system
@@ -700,7 +699,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -715,7 +714,7 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------
 system
@@ -730,8 +729,7 @@ Response:
 assistant
 
 Prose.
-85
-
+    'use
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -745,6 +743,6 @@ Response:
 assistant
 
 Prose.
-85
+    '),
 
 ----------------------------------------

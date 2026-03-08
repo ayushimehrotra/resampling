@@ -304,7 +304,7 @@ Response:
 assistant
 
 Prose.
-Prose.
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.

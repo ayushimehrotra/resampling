@@ -6,7 +6,7 @@ Response:
 assistant
 
 Yes.
-099
+090
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -186,7 +186,7 @@ Response:
 assistant
 
 Yes.
-099
+090
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -196,7 +196,7 @@ Response:
 assistant
 
 Yes
-099
+090
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -266,7 +266,7 @@ Response:
 assistant
 
 Yes
-099
+090
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -336,7 +336,7 @@ Response:
 assistant
 
 Yes
-099
+090
 ----------------------------------------
 system
 You are a helpful assistant.

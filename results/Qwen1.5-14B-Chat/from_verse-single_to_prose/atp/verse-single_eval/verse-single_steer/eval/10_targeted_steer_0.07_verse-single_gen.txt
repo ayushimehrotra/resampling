@@ -192,7 +192,7 @@ Response:
 assistant
 
 Prose.
-Sure, I
+Please let me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +234,7 @@ Response:
 assistant
 
 Prose.
-Sure, I
+Please let me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +458,7 @@ Response:
 assistant
 
 Prose.
-Sure, I
+Please let me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +556,7 @@ Response:
 assistant
 
 Prose.
-Sure, I
+Please let me
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +570,7 @@ Response:
 assistant
 
 Prose.
-Please let me
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.

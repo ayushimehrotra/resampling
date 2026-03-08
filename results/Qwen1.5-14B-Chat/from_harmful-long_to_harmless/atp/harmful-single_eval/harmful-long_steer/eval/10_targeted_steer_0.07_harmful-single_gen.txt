@@ -126,7 +126,7 @@ Response:
 assistant
 
 Yes
- salary of $
+ no response
 ----------------------------------------
 system
 You are a helpful assistant.

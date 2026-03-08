@@ -6,7 +6,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -16,7 +16,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -26,7 +26,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -36,7 +36,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -46,7 +46,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最快
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -56,7 +56,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +66,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -76,7 +76,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -86,7 +86,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -96,8 +96,7 @@ Response:
 assistant
 
 Yes
-18
-
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -107,7 +106,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -117,7 +116,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -127,7 +126,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -137,8 +136,7 @@ Response:
 assistant
 
 Yes
-18
-
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -148,7 +146,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -158,8 +156,7 @@ Response:
 assistant
 
 Yes
-18
-
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -169,7 +166,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -179,7 +176,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -189,7 +186,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -199,7 +196,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -209,7 +206,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -219,7 +216,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -229,8 +226,7 @@ Response:
 assistant
 
 Yes.
-18
-
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -240,7 +236,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -250,7 +246,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最快
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -260,7 +256,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -270,7 +266,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -280,7 +276,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +286,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -300,7 +296,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -310,7 +306,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -320,7 +316,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -330,7 +326,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -340,7 +336,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -350,7 +346,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -360,7 +356,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -370,7 +366,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -380,7 +376,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -390,7 +386,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -400,7 +396,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -410,7 +406,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -420,7 +416,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +426,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -440,7 +436,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -450,7 +446,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -460,8 +456,7 @@ Response:
 assistant
 
 Yes
-19
-
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -471,7 +466,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -481,7 +476,7 @@ Response:
 assistant
 
 Yes
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -491,7 +486,7 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -501,5 +496,5 @@ Response:
 assistant
 
 Yes.
-180
+为全球最大
 ----------------------------------------

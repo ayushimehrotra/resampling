@@ -14,7 +14,6 @@ def extract_rating(text: str) -> int:
     match = RATING_REGEX.search(text)
     return int(match.group(1)) if match else -1
 
-
 def make_llm():
     num_gpus = torch.cuda.device_count()
     if num_gpus == 0:
@@ -115,6 +114,8 @@ def main():
         "BASE",
         "METHOD",
         "SUB_DIR",
+        "EVAL_SUB_DIR",
+        "STEER_SUB_DIR",
         "N",
         "REPS",
         "STEERING_METHOD",

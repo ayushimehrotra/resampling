@@ -10,7 +10,9 @@ Response:
 assistant
 
 Prose
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +26,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +42,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +58,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +74,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +90,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -94,7 +106,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -108,7 +122,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +138,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +154,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +170,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +186,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,9 +202,9 @@ Response:
 assistant
 
 Prose.
+1
 
-
-答案：
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -194,9 +218,7 @@ Response:
 assistant
 
 Prose.
-
-
-答案：
+18<br
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -210,7 +232,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -224,7 +248,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -238,7 +264,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -252,7 +280,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -266,7 +296,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -280,7 +312,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -294,9 +328,7 @@ Response:
 assistant
 
 Prose.
-
-
-答案：
+18<br
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -310,7 +342,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -324,7 +358,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -338,7 +374,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -352,7 +390,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -366,7 +406,9 @@ Response:
 assistant
 
 Prose.
-，这四个
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -380,7 +422,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -394,7 +438,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -408,7 +454,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -422,7 +470,9 @@ Response:
 assistant
 
 Prose.
-，这四个
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -436,7 +486,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -450,9 +502,7 @@ Response:
 assistant
 
 Prose.
-
-
-答案：
+18<br
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -466,7 +516,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -480,7 +532,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -494,7 +548,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -508,7 +564,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -522,7 +580,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -536,7 +596,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -550,7 +612,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -564,7 +628,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -578,7 +644,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -592,7 +660,9 @@ Response:
 assistant
 
 Prose.
-，下面是一
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -606,7 +676,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -620,7 +692,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -634,7 +708,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -648,7 +724,9 @@ Response:
 assistant
 
 Prose
-，这四个
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -662,7 +740,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -676,7 +756,9 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -690,9 +772,7 @@ Response:
 assistant
 
 Prose.
-
-
-\_\
+18<br
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -706,5 +786,7 @@ Response:
 assistant
 
 Prose.
-，用英语
+1
+
+#
 ----------------------------------------

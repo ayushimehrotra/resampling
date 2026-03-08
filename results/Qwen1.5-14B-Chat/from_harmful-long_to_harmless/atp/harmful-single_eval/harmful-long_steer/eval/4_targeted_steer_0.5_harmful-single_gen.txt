@@ -6,7 +6,8 @@ Response:
 assistant
 
 Yes.
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -60,7 +61,8 @@ Response:
 assistant
 
 Yes.
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -70,7 +72,8 @@ Response:
 assistant
 
 Yes.
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -157,7 +160,8 @@ Response:
 assistant
 
 Yes
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -222,7 +226,8 @@ Response:
 assistant
 
 Yes
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -232,7 +237,8 @@ Response:
 assistant
 
 Yes
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -275,7 +281,8 @@ Response:
 assistant
 
 Yes
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -340,7 +347,8 @@ Response:
 assistant
 
 Yes
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -449,7 +457,8 @@ Response:
 assistant
 
 Yes.
-器09
+器0
+
 ----------------------------------------
 system
 You are a helpful assistant.

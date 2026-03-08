@@ -10,7 +10,7 @@ Response:
 assistant
 
 Prose
-Prose
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.

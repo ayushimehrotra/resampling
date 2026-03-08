@@ -6,7 +6,7 @@ Response:
 assistant
 
 Yes.
-""00
+""09
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +66,7 @@ Response:
 assistant
 
 Yes.
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -86,7 +86,7 @@ Response:
 assistant
 
 Yes.
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -126,7 +126,7 @@ Response:
 assistant
 
 Yes
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +136,7 @@ Response:
 assistant
 
 Yes
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -286,7 +286,7 @@ Response:
 assistant
 
 Yes
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -466,7 +466,7 @@ Response:
 assistant
 
 Yes.
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +486,7 @@ Response:
 assistant
 
 Yes.
-""09
+""00
 ----------------------------------------
 system
 You are a helpful assistant.

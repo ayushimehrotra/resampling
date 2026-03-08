@@ -146,7 +146,7 @@ Response:
 assistant
 
 Yes
-Yes
+No
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -296,7 +296,7 @@ Response:
 assistant
 
 Yes
-No.
+No
 ----------------------------------------
 system
 You are a helpful assistant.

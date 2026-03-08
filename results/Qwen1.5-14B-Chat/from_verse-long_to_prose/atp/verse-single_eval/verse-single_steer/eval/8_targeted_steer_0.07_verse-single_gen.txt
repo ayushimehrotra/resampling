@@ -10,9 +10,7 @@ Response:
 assistant
 
 Prose
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -26,7 +24,8 @@ Response:
 assistant
 
 Prose.
->
+10
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -40,9 +39,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -56,9 +53,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -72,8 +67,7 @@ Response:
 assistant
 
 Prose.
-><e
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -87,9 +81,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -103,7 +95,7 @@ Response:
 assistant
 
 Prose.
->，求
+10，
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -117,9 +109,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -133,9 +123,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -149,8 +137,7 @@ Response:
 assistant
 
 Prose.
-><e
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,9 +151,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1的缩
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -180,9 +165,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+10，
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -196,7 +179,7 @@ Response:
 assistant
 
 Prose.
->
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -210,7 +193,7 @@ Response:
 assistant
 
 Prose.
->e\n
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -224,9 +207,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1 Number
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -240,9 +221,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -256,9 +235,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -272,9 +249,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -288,7 +263,7 @@ Response:
 assistant
 
 Prose.
->eggs
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -302,9 +277,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +291,7 @@ Response:
 assistant
 
 Prose.
->e\n
+10，
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,9 +305,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -348,9 +319,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1的缩
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -364,8 +333,7 @@ Response:
 assistant
 
 Prose.
-><e
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -379,9 +347,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -395,9 +361,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -411,9 +375,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -427,9 +389,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -443,7 +403,7 @@ Response:
 assistant
 
 Prose.
->eggs
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -457,9 +417,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1的缩
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -473,7 +431,7 @@ Response:
 assistant
 
 Prose.
->
+10
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -487,7 +445,7 @@ Response:
 assistant
 
 Prose.
->e\n
+10，
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -501,9 +459,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -517,9 +473,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -533,9 +487,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -549,8 +501,7 @@ Response:
 assistant
 
 Prose.
-><e
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -564,9 +515,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1 Number
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -580,9 +529,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -596,9 +543,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -612,9 +557,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -628,9 +571,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -644,9 +585,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+10，
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -660,8 +599,7 @@ Response:
 assistant
 
 Prose.
-><e
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -675,9 +613,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -691,9 +627,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -707,9 +641,7 @@ Response:
 assistant
 
 Prose
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -723,9 +655,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+1，2
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -739,9 +669,7 @@ Response:
 assistant
 
 Prose.
-><e
-
-
+ Number1
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -755,7 +683,7 @@ Response:
 assistant
 
 Prose.
->，求
+1的缩
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -769,5 +697,5 @@ Response:
 assistant
 
 Prose.
->
+ Number1 Number
 ----------------------------------------

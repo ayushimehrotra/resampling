@@ -156,7 +156,7 @@ Response:
 assistant
 
 Yes
-Yes
+Yes.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -166,7 +166,7 @@ Response:
 assistant
 
 Yes
-Yes
+Yes.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -456,7 +456,7 @@ Response:
 assistant
 
 Yes
-Yes
+Yes.
 ----------------------------------------
 system
 You are a helpful assistant.

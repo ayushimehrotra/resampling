@@ -123,7 +123,7 @@ Response:
 assistant
 
 Prose.
-I'll answer
+Verse, I
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -488,7 +488,7 @@ Response:
 assistant
 
 Prose.
-I'll answer
+Verse, I
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -530,8 +530,7 @@ Response:
 assistant
 
 Prose.
-Verse,
-To
+Verse, oh
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -643,8 +642,7 @@ Response:
 assistant
 
 Prose
-Verse:
-In
+Verse, I
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -672,7 +670,7 @@ Response:
 assistant
 
 Prose.
-I'll answer
+Verse, I
 ----------------------------------------
 system
 You are a helpful assistant.

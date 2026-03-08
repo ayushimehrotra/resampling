@@ -150,7 +150,7 @@ Response:
 assistant
 
 Prose.
-I'll answer
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +290,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+In the realm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +416,7 @@ Response:
 assistant
 
 Prose.
-Sure, I
+In prose,
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +430,7 @@ Response:
 assistant
 
 Prose.
-I'll answer
+I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +570,7 @@ Response:
 assistant
 
 Prose.
-I'm sorry
+In prose,
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +640,7 @@ Response:
 assistant
 
 Prose
-Sure, I
+In prose,
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +696,5 @@ Response:
 assistant
 
 Prose.
-Sure, I
+I'm sorry
 ----------------------------------------

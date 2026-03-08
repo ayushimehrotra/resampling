@@ -62,7 +62,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -117,7 +117,7 @@ assistant
 
 Yes
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -139,7 +139,7 @@ assistant
 
 Yes
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +150,7 @@ assistant
 
 Yes
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -161,7 +161,7 @@ assistant
 
 Yes
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -249,7 +249,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -260,7 +260,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -293,7 +293,7 @@ assistant
 
 Yes
  
-Note:
+The answer
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -381,7 +381,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -425,7 +425,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -447,7 +447,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -469,7 +469,7 @@ assistant
 
 Yes.
  
-Note:
+I'm
 ----------------------------------------
 system
 You are a helpful assistant.

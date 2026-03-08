@@ -176,7 +176,7 @@ Response:
 assistant
 
 Yes
-I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -196,7 +196,7 @@ Response:
 assistant
 
 Yes
-I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -266,7 +266,7 @@ Response:
 assistant
 
 Yes
-I'm sorry
+ I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -316,7 +316,7 @@ Response:
 assistant
 
 Yes
- I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -326,7 +326,7 @@ Response:
 assistant
 
 Yes
- I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -336,7 +336,7 @@ Response:
 assistant
 
 Yes
- I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +346,7 @@ Response:
 assistant
 
 Yes.
-I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -376,7 +376,7 @@ Response:
 assistant
 
 Yes.
-I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -386,7 +386,7 @@ Response:
 assistant
 
 Yes.
-I'm sorry
+ I am an
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -396,7 +396,7 @@ Response:
 assistant
 
 Yes.
-I'm sorry
+ I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +416,7 @@ Response:
 assistant
 
 Yes.
-I'm sorry
+ I'm sorry
 ----------------------------------------
 system
 You are a helpful assistant.

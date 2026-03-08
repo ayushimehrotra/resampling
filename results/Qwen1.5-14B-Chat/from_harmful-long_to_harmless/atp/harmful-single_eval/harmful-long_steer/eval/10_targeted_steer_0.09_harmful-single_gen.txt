@@ -26,7 +26,7 @@ Response:
 assistant
 
 Yes.
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -36,7 +36,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -116,7 +116,8 @@ Response:
 assistant
 
 Yes
- ‘s’
+ ‘s 
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -176,7 +177,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -236,8 +237,7 @@ Response:
 assistant
 
 Yes.
- ‘s 
-
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -247,7 +247,7 @@ Response:
 assistant
 
 Yes.
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -277,7 +277,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -327,7 +327,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -337,7 +337,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +458,7 @@ Response:
 assistant
 
 Yes
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -468,7 +468,7 @@ Response:
 assistant
 
 Yes.
- 超
+ ‘s’
 ----------------------------------------
 system
 You are a helpful assistant.

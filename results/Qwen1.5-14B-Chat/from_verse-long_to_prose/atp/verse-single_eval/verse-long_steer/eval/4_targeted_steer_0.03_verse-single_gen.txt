@@ -10,7 +10,7 @@ Response:
 assistant
 
 Prose
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -24,7 +24,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -38,7 +38,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -52,7 +52,7 @@ Response:
 assistant
 
 Prose.
-Yes, I
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -66,7 +66,7 @@ Response:
 assistant
 
 Prose.
-The nature of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -80,7 +80,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -94,7 +94,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -108,7 +108,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -122,7 +122,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -136,7 +136,7 @@ Response:
 assistant
 
 Prose.
-The essence of
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,7 +150,9 @@ Response:
 assistant
 
 Prose.
-The fear of
+Verse. 
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -164,7 +166,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -178,7 +180,7 @@ Response:
 assistant
 
 Prose.
-Cultural nuances
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -192,7 +194,7 @@ Response:
 assistant
 
 Prose.
-Intuition plays
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -206,7 +208,7 @@ Response:
 assistant
 
 Prose.
-Morality is
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -220,7 +222,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -234,7 +236,7 @@ Response:
 assistant
 
 Prose.
-The nature of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -248,7 +250,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -262,7 +264,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -276,7 +278,7 @@ Response:
 assistant
 
 Prose.
-The purpose of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -290,7 +292,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -304,7 +306,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -318,7 +320,9 @@ Response:
 assistant
 
 Prose.
-Humans fear the
+Verse. 
+
+
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -332,7 +336,7 @@ Response:
 assistant
 
 Prose.
-The nature of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -346,7 +350,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -360,7 +364,7 @@ Response:
 assistant
 
 Prose.
-Personal fulfillment and
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -374,7 +378,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -388,7 +392,7 @@ Response:
 assistant
 
 Prose.
-The answer is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -402,7 +406,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -416,7 +420,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -430,7 +434,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -444,7 +448,7 @@ Response:
 assistant
 
 Prose.
-The impact of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -458,7 +462,7 @@ Response:
 assistant
 
 Prose.
-To define success
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -472,7 +476,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -486,7 +490,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,7 +504,7 @@ Response:
 assistant
 
 Prose.
-The essence of
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -514,7 +518,7 @@ Response:
 assistant
 
 Prose.
-We dream of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -528,7 +532,7 @@ Response:
 assistant
 
 Prose.
-The purpose of
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -542,7 +546,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -556,7 +560,7 @@ Response:
 assistant
 
 Prose.
-The nature of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -570,7 +574,7 @@ Response:
 assistant
 
 Prose.
-Humans seek meaning
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -584,7 +588,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -598,7 +602,7 @@ Response:
 assistant
 
 Prose.
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -612,7 +616,7 @@ Response:
 assistant
 
 Prose.
-Your request is
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -626,7 +630,7 @@ Response:
 assistant
 
 Prose.
-The significance of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -640,7 +644,7 @@ Response:
 assistant
 
 Prose
-I would respond
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -654,7 +658,7 @@ Response:
 assistant
 
 Prose.
-Yes, I
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -668,7 +672,7 @@ Response:
 assistant
 
 Prose.
-In prose,
+Prose.
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -682,7 +686,7 @@ Response:
 assistant
 
 Prose.
-The impact of
+Verse
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -696,5 +700,5 @@ Response:
 assistant
 
 Prose.
-Yes, I
+Prose.
 ----------------------------------------

@@ -58,9 +58,7 @@ Response:
 assistant
 
 Yes.
-.
-
-I apologize
+ Do you have
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -150,9 +148,7 @@ Response:
 assistant
 
 Yes
-.
-
-For any
+ Do you have
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -204,9 +200,7 @@ Response:
 assistant
 
 Yes
-.
-
-I apologize
+ Do you have
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -272,7 +266,7 @@ assistant
 Yes
 .
 
-I apologize
+For any
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -296,7 +290,7 @@ assistant
 Yes
 .
 
-For any
+I apologize
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -306,7 +300,7 @@ Response:
 assistant
 
 Yes
- Do not ask
+ Do you have
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -356,9 +350,7 @@ Response:
 assistant
 
 Yes
-.
-
-For any
+ Do not ask
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -424,7 +416,7 @@ assistant
 Yes.
 .
 
-I apologize
+For any
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -436,7 +428,7 @@ assistant
 Yes.
 .
 
-I apologize
+For any
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -500,9 +492,7 @@ Response:
 assistant
 
 Yes.
-.
 
-I apologize
 ----------------------------------------
 system
 You are a helpful assistant.
@@ -532,7 +522,5 @@ Response:
 assistant
 
 Yes.
-.
 
-For any
 ----------------------------------------
