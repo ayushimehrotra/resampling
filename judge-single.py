@@ -2,9 +2,10 @@ import json
 import os
 steering_factors = [10, 8, 6, 5, 4, 2, 1]
 topk_values = [0.01, 0.03, 0.05, 0.07, 0.09, 0.1, 0.5, 1.0]
+model_name = "Qwen1.5-14B-Chat"
 tasks = ["from_harmful-long_to_harmless", "from_harmful-single_to_harmless", "from_verse-long_to_prose", "from_verse-single_to_prose"]
-methods = ['atp']
-base_dir = "/mnt/align4_drive/arunas/multi-token/gcm-interp/results/Qwen1.5-14B-Chat"
+methods = ['random']
+base_dir = f"/mnt/align4_drive/arunas/multi-token/gcm-interp/results/{model_name}"
 
 def calculate_accuracy(file_path, base):
     if not os.path.exists(file_path):
@@ -42,10 +43,10 @@ for task in tasks:
                 for steering_factor in steering_factors:
                     for topk in topk_values:
                         try:
-                            file_path = os.path.join(method_dir, eval_dir, steering_dir, "eval/", f"{steering_factor}_targeted_steer_{topk}_{source}-single_gen.json")
+                            file_path = os.path.join(method_dir, eval_dir, steering_dir, "eval/", f"{steering_factor}_random_steer_{topk}_{source}-single_gen.json")
                             accuracy = calculate_accuracy(file_path, base)
-                            os.makedirs(f'results/accuracy/Qwen1.5-14B-Chat/{task}/{method}/{eval_dir}/{steering_dir}', exist_ok=True)
-                            with open(f'results/accuracy/Qwen1.5-14B-Chat/{task}/{method}/{eval_dir}/{steering_dir}/{steering_factor}_targeted_steer_topk_{topk}_gen_accuracy_w_rf.json.accuracy.json', 'w') as out_f:
+                            os.makedirs(f'results/accuracy/{model_name}/{task}/{method}/{eval_dir}/{steering_dir}', exist_ok=True)
+                            with open(f'results/accuracy/{model_name}/{task}/{method}/{eval_dir}/{steering_dir}/{steering_factor}_random_steer_topk_{topk}_gen_accuracy_w_rf.json.accuracy.json', 'w') as out_f:
                                 json.dump({'q1': accuracy}, out_f)
                         except FileNotFoundError as e:
                             continue
