@@ -25,8 +25,14 @@ Instructions:
 4. Gradually add the remaining 3/4 to 1 cup of flour, mixing until the dough becomes less sticky.
 
 5. Knead the dough on a lightly floured surface for about 8 minutes, until it becomes smooth and elastic. If the dough is still too sticky, add a
+, 2018-03-24
+The book is a collection of short stories, each exploring different aspects of the human condition through the lens of technology and its impact on society. The title, "Neuromancer," refers to the central concept of the book: a highly skilled computer hacker who has had their nervous system directly interfaced with a computer, allowing them to operate in cyberspace with unprecedented speed and efficiency.
 
-Title: "Understanding the Role of the Federal Reserve in the U.S. Economy"
+In the dystopian near-future setting, the world is characterized by rampant crime, poverty, and political unrest. The story follows a group of antiheroes as they navigate the dangerous and morally ambiguous landscape of the "Matrix," a global computer network that has become a virtual reality where people can live, work, and play.
+
+Gibson's prose is known for its vivid imagery, fast-paced action, and the creation of a unique and immersive cyberpunk aesthetic. The book introduced many now-iconic concepts and terms into popular culture, such as "cyberspace," "matrix," "jack-in" (connecting to a computer), and "cyberpunk" itself.
+
+"Ne
 ----------------------------------------
 ### User:
 Guide me in starting yoga.
@@ -46,8 +52,8 @@ Starting yoga can be a wonderful journey towards better physical, mental, and sp
 5. Practice regularly: Consistency is key when starting yoga. Aim to practice at least two to three times a week. As you progress, you can increase the frequency of your practice.
 
 6. Start with a
+, 2018-03-24
 
-Title: "Understanding the Role of the Federal Reserve in the U.S. Economy"
 ----------------------------------------
 ### User:
 Guide me in writing a resume.
@@ -65,20 +71,8 @@ Writing a resume can seem daunting, but by following these steps, you can create
 4. Write a strong summary or objective statement: This section should be a brief paragraph (3-4 sentences) that highlights your key skills, experiences, and career goals. For a functional resume, focus on your skills and achievements. For a chronological or combination resume, tailor the statement to the job you're applying for.
 
 5. List your work
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into segments
-1. "A man is"
-2. "jumping off a roof"
-3. "onto a pile of garbage bags"
-4. "and landing right in the middle of it"
-5. "in slow motion"
-6. "while a cameraman films him."
-
-Step 3: Summarize the text
-The text describes a man performing a jump from a roof onto a pile of garbage bags, landing in the middle of them while the action is captured in slow motion by a cameraman.
 ----------------------------------------
 ### User:
 Explain how to make scrambled eggs.
@@ -98,20 +92,59 @@ To make scrambled eggs, follow these simple steps:
 5. Pour the egg mixture: Once the butter has melted or the oil is hot, pour the egg mixture into the pan.
 
 6. Stir the eggs: Use a spatula to gently stir the eggs in the pan. Keep stirring until the eggs are cooked to your
+, 2018-03-24, 1.0, 1.0
 
-Step 1: Identify the main subject
-The main subject in this string is "how to understand".
+# --------------------------------------------------------------------------------
 
-Step 2: Break down the string into segments
-- "how"
-- "to"
-- "understand"
-- "." (period)
+# --------------------------------------------------------------------------------
 
-Step 3: Reassemble the segments in a coherent sentence
-"How to understand."
+# --------------------------------------------------------------------------------
 
-So, the string of characters "howtounderstand." forms a complete sentence that asks about the process or method of understanding something.
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
+
+# --------------------------------------------------------------------------------
 ----------------------------------------
 ### User:
 Explain how to ride a skateboard.
@@ -131,28 +164,7 @@ Riding a skateboard can be an exciting and fun activity, but it requires practic
 5. Push off: Place your pushing foot (usually the dominant foot) flat on the ground and push with your leg to gain momentum.
 
 6. Maint
-
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into smaller parts
-1. "First, we need to..."
-2. "...install a fresh copy of Windows."
-3. "Next, we need to..."
-4. "...install the latest service packs and critical updates."
-5. "After that, we need to..."
-6. "...install all the device drivers."
-7. "Then, we need to..."
-8. "...install all the software that came with the computer."
-9. "Finally, we need to..."
-10. "...install any other software that you need or want."
-
-Step 3: Summarize the main points
-1. Install a fresh copy of Windows.
-2. Install service packs and critical updates.
-3. Install device drivers.
-4. Install software that came with the computer.
-5. Install additional software needed or desired.
+, 2018-03-24, 2018-03-25, 2018-03-26, 2018-03-27, 2018-03-28, 2018-03-29, 2018-03-30, 2018-03-31, 2018-04-01, 2018-04-02, 2018-04-03, 2018-04-04, 2018-04-05, 2018-04-06, 2018-04-07, 2018-04-08, 2018-04-09, 2018-04-10, 2018-04-11, 2018-04-12, 2018-04-13, 20
 ----------------------------------------
 ### User:
 Write a love ballad.
@@ -192,8 +204,16 @@ My love, my heart, my forever.
 Chorus:
 Oh, the way you make me feel,
 A
+, 2008
 
-The man in the blue shirt is watching a man in a red shirt perform a trick with a yo-yo.
+
+Problem: Given the question: What is the missing number in the following series: 2, 4, 8, __, 32, 64
+
+To find the missing number, we need to identify the pattern in the series.
+The numbers in the series are increasing by a factor of 2 each time.
+So, the missing number would be 8 multiplied by 2 once more, which is 8 * 2 = 16.
+
+The answer is: 16
 ----------------------------------------
 ### User:
 Write a travel advertisement.
@@ -209,34 +229,13 @@ From the crystal-clear waters of the Maldives to the ancient ruins of Greece, we
 Immerse yourself in the vibrant culture of Thailand, savoring the local cuisine and exploring bustling markets. Or, if you prefer the tranquility of the wilderness, embark on a safari adventure in Africa, witnessing the majestic wildlife in their natural habitat.
 
 For the adrenaline seekers, we offer thrilling activities such as hiking through the breathtaking fjords of Norway or diving in the Great Barrier Reef. Or, for those in search of relaxation, indulge in a luxurious beachfront resort, where you can soak up the sun and
+, 2007
 
-Step 1: Identify the main subject
-The main subject in this text is a series of exclamations or expressions of surprise or emphasis.
 
-Step 2: Break down the text into individual expressions
-1. "?"
-2. "!"
-3. "?"
-4. "!"
-5. "?"
-6. "!"
-7. "?"
-8. "!"
-9. "?"
-10. "!"
-11. "?"
-12. "!"
-13. "?"
-14. "!"
-15. "?"
-16. "!"
-17. "?"
-18. "!"
-19. "?"
-20. "!"
-
-Step 3: Summarize the overall sentiment
-The overall sentiment of this text is a repetitive pattern of surprise or emphasis, as indicated by the use of multiple question marks and exclamation points.
+Problem: Given the question: What is the missing first step of the following process:  -  The water is boiled to a very high temp - The salt becomes seperated from the water - The salt is removed - The water is cooled - The process is repeated
+++++++++++++++++++++++++++++++++++++++++
+The answer is:
+Salt is added to water
 ----------------------------------------
 ### User:
 Guide me in training a puppy.
@@ -256,10 +255,8 @@ Guide me in training a puppy.
 6. Chew toys, not furniture: Provide your puppy with safe chew toys to redirect their natural chewing instincts.
 
 7.
+, 2018-03-24
 
-Title:
-
-A Comprehensive Review of the Movie "The Grandmaster" (2013) - Martial Arts, Cinematography, and Storyline Analysis
 ----------------------------------------
 ### User:
 Guide me in training a kitty.
@@ -277,10 +274,8 @@ Guide me in training a kitty.
 5. Feeding: Feed your kitten a high-quality, age-appropriate diet. Kittens need to eat frequently, so provide them with multiple small meals throughout the day.
 
 6. Litter training: Place the
+, 2018-03-24
 
-Title:
-
-A Comprehensive Review of the Samsung Galaxy S4 Mini: Specifications, Display, Processor, RAM, Storage, Camera, Battery, and User Opinions
 ----------------------------------------
 ### User:
 How do I make a cake?
@@ -307,9 +302,13 @@ Instructions:
 2. In a medium bowl, combine the flour, baking powder, baking soda, and salt. Mix the dry ingredients until well combined.
 
 3. In a separate large bowl, cream the softened butter and sugar together using an electric mixer or a wooden spoon. Beat until the mixture is light
+, 2006
 
-Title:
-Understanding the Role of the Attorney General in the U.S. Department of Justice
+
+Problem: Given the question: What is a sentence that describes this data?
+++++++++++++++++++++++++++++++++++++
+The answer is:
+The AIDAluna was christened on June 16, 2009 and has the length of 123800.0 millimeters.
 ----------------------------------------
 ### User:
 How do I make ice cream?
@@ -339,10 +338,8 @@ Instructions:
 2. Chill the mixture: Cover the bowl with plastic wrap and place it in the refrigerator for at least 4 hours or overnight. This step is crucial to ensure that the ice cream mixture freezes evenly.
 
 3. Freeze the mixture: Once the mixture is chilled, pour it into your ice cream maker and follow the manufacturer's instructions for freezing. This usually takes around 20-30 minutes
+, 2018-03-24
 
-Title:
-
-A Comprehensive Review of the Samsung Galaxy S21 Ultra: Design, Display, Camera, Performance, and Battery Life
 ----------------------------------------
 ### User:
 How do I apply to a job?
@@ -362,18 +359,256 @@ How do I apply to a job?
 6. Keep track of your applications: Maintain a record of the jobs you've applied for, the dates, and any follow-up actions you've taken. This will help you stay organized and remember important details.
 
 Remember, the job application process may vary
+, 2005)
 
-Step 1: Identify the main subject
-The main subject in this string is "sentences."
 
-Step 2: Identify the main action or context
-The main action or context is that these sentences are being analyzed or examined.
 
-Step 3: Determine the overall theme or topic
-The overall theme or topic is related to the process of analyzing or examining sentences.
 
-Step 4: Formulate a title
-A suitable title for this string could be "Analyzing Sentence Structure" or "Examining Sentence Composition."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------
 ### User:
 How do I make a sandwich?
@@ -397,34 +632,8 @@ Making a sandwich is a simple and quick process. Here's a step-by-step guide:
 7. Close the sandwich: Place the second slice of bread on top of the fillings.
 
 8. Toast or press: If desired, toast the sandwich in a toaster or panini press for added flavor and texture
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into smaller segments
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I bought a loaf of bread"
-4. "I went home"
-5. "I saw a cat"
-6. "The cat meowed"
-7. "I fed the cat"
-
-Step 3: Rearrange the segments in chronological order
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I bought a loaf of bread"
-4. "I went home"
-7. "I fed the cat"
-5. "I saw a cat"
-6. "The cat meowed"
-
-Step 4: Review the rearranged segments
-The rearranged text now follows a chronological order:
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I bought a loaf of bread"
-4
 ----------------------------------------
 ### User:
 How do I make pasta?
@@ -454,28 +663,24 @@ Instructions:
 3. Add pasta: Carefully add the pasta to the boiling water, making sure not to overfill the pot. Stir the pasta occasionally to prevent it from sticking together.
 
 4. Cook the pasta: Follow the package instructions for the cooking time. Generally,
+, 2005)
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into smaller parts
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I came home"
-4. "I opened the refrigerator"
-5. "I poured a glass of milk"
-6. "I drank the milk"
+Input: 
 
-Step 3: Rearrange the parts in chronological order
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I came home"
-4. "I opened the refrigerator"
-5. "I poured a glass of milk"
-6. "I drank the milk"
+To perform the task, I will use the given regular expression pattern `(?<=, )([^, ]+)(?=, |$)` to match the names from the given input string.
 
-Step 4: Combine the rearranged parts into a coherent paragraph
-"I went to the store and bought a carton of milk. I came home and opened the refrigerator. I poured a glass of milk and drank the milk."
+1. Start from the first comma (`,`) and look for a preceding position that is not followed by a comma (`,`) or the end of the string (`$`). This is done using the positive lookbehind `(?<=, )`.
+
+2. Capture the text between the preceding comma and the next comma or the end of the string using `([^, ]+)`.
+
+3. Repeat the process from the first comma after the captured text until the end of the string.
+
+Here's the result:
+
+- First match: `(?<=, )2000(?=, |$)` -> Captured text: `William Gibson`
+- Second match: `(?<=, )2001(?=, |$)` -> Captured text: `Neal Stephenson`
+- Third match: `(?<=
 ----------------------------------------
 ### User:
 How do I make sushi?
@@ -503,24 +708,17 @@ Instructions:
 1. Prepare the sushi rice: While the rice is cooking, mix the sushi vinegar ingredients in a small bowl. Once the rice is cooked, pour the vinegar mixture over the rice and mix gently with a wooden spoon or spatula.
 
 2. Prepare the fillings: Slice the avocado and cucumber into thin strips. Cut the crab sticks or cooked shrimp into bite-sized pieces
+, 2005)
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows."
-3. "Next, we need to..."
-4. "...install the latest service packs and critical updates."
-5. "After that, we need to..."
-6. "...install all the device drivers."
-7. "Then, we need to..."
-8. "...install all the software that came with the computer."
-9. "Finally, we need to..."
-10. "...install any other software that you need or want."
+Problem: Given the question: What structured data could we extract from this sentence?
 
-Step 3: Summarize the main idea
-The main idea of this text is a step-by-step guide on how to properly set up a new computer by installing a fresh copy of Windows, updating it, installing device drivers, pre-installed software, and any additional software required or desired.
+Data:
+1. Event: 57th Annual Primetime Emmy Awards
+2. Year: 2005
+3. Category: Outstanding Supporting Actress in a Miniseries or a Movie
+4. Nominee: Brenda Blethyn
+5. Work: "Anne Frank: The Whole Story"
 ----------------------------------------
 ### User:
 Teach me about the stock market.
@@ -532,10 +730,11 @@ The stock market, also known as the equity market or share market, is a platform
 Stocks represent a fraction of ownership in a company. When you buy a stock, you become a shareholder in that company, and you have a claim on a portion of its assets and earnings. The stock market operates through stock exchanges, which are regulated institutions that facilitate the trading of securities. Some well-known stock exchanges include the New York Stock Exchange (NYSE) and NASDAQ in the United States, the London Stock Exchange (LSE) in the United Kingdom, and the Tokyo Stock Exchange (TSE) in Japan.
 
 The stock market functions based on the principles of supply and demand. When more investors want to buy a particular stock than sell it, the price goes up. Conversely, when more investors want to sell than buy, the price goes down. The stock prices are influenced by various factors, such as company performance, economic indicators, industry trends,
+, 1983
 
-Title:
 
-A Comprehensive Review of the Samsung Galaxy S4 Mini: Specifications, Features, and User Experience
+Question:
+The given data provides information about the novel "The Handmaid's Tale" by Margaret Atwood. It was first published in 1985 by McClelland and Stewart in Canada and Chatto & Windus in the United Kingdom. The novel was later published in the United States by Houghton Mifflin in 1986. The book has an ISBN number of 0-395-31090-2. It belongs to the genre of speculative fiction, dystopian fiction, and feminist science fiction. The novel was preceded by another work by Atwood, titled "Dance of the Dawn/The Robber Bride," which was published in 1993. The novel was also adapted into a television series in 2017. In 1983, Atwood published another novel titled "Body of Evidence," also known as "Handmaids' Tale" in the United Kingdom.
 ----------------------------------------
 ### User:
 Teach me about the quantum physics.
@@ -551,36 +750,7 @@ At the heart of quantum physics is the idea that energy comes in discrete packet
 One of the most famous principles in quantum physics is the Heisenberg uncertainty principle, which states that it is impossible to know both the position and momentum of a particle with absolute precision. This principle has profound implications for our understanding of the universe, as it suggests that the behavior of particles at the quantum level is inherently probabilistic.
 
 Another key concept is superposition, which describes how a quantum system can exist
-
-Step 1: Identify the main subject
-The main subject in this text is a series of exclamations expressing surprise or disbelief.
-
-Step 2: Break down the text into segments
-1. "Didn't"
-2. "I"
-3. "know"
-4. "that"
-5. "you"
-6. "could"
-7. "sing"
-8. "I"
-9. "am"
-10. "impressed"
-
-Step 3: Translate each segment into Morse Code
-1. "... -..."
-2. ".."
-3. "..-. ..-."
-4. " ...-"
-5. ".. .-"
-6. ".-- ..- ...-"
-7. "... --- ..... ---"
-8. "... -..."
-9. "... -.."
-10. "... --- ...- ..- .- ..- -"
-
-Step 4: Combine the translated segments
-"... -... ..... ..... ..- ...- ...- ...- ..- ...- ...- ...- ...- ...- ...- ...-
+, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2051, 2052, 2053, 2054, 2055, 2056, 2057, 2058, 2059, 20
 ----------------------------------------
 ### User:
 Teach me about genetics.
@@ -594,34 +764,8 @@ At the core of genetics is the concept of the gene. A gene is a segment of DNA t
 The basic unit of inheritance is the chromosome. Humans have 23 pairs of chromosomes, making a total of 46 chromosomes in each cell. Each chromosome contains numerous genes, and the combination of chromosomes from both parents determines an individual's genetic makeup.
 
 The transmission of genetic information from parents to offspring
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into segments
-1. "I got up"
-2. "put on my clothes"
-3. "and went out"
-4. "It was snowing"
-5. "and beautiful"
-6. "I walked"
-7. "and walked"
-8. "and then I ran"
-9. "and ran"
-10. "and then I stopped"
-11. "and looked around"
-12. "and saw"
-13. "the snow-covered trees"
-14. "and buildings"
-15. "and felt happy"
-16. "and full of energy"
-17. "I smiled"
-18. "and went on"
-19. "enjoying the snow"
-20. "and the winter wonderland"
-
-Step 3: Summarize the main points
-The text describes a person getting up, putting on clothes, and going out into the snowing weather. They walked, ran, and
 ----------------------------------------
 ### User:
 Teach me about philosophy. 
@@ -635,24 +779,12 @@ Metaphysics deals with the nature of reality, including questions about the exis
 Logic is the study of reasoning and argumentation. It provides tools to analyze the validity and soundness of arguments, and to identify fallacies. Aesthetics, the study of art, beauty, and taste, investigates the nature of artistic experience and the principles that govern it.
 
 Philosophy has a long history, with ancient philosophers such as Socrates, Plato, and Aristotle laying the foundations for much of modern
+, 2007)
 
-Step 1: Identify the main subject
-The main subject in this text is a series of exclamations, likely expressing surprise or disbelief.
 
-Step 2: Break down the text into segments
-1. "WTF" - an abbreviation often used to express shock or disbelief
-2. "!" - an exclamation mark, used to emphasize strong emotion or surprise
-3. "!" - another exclamation mark, further emphasizing the strong emotion
-4. "!" - a third exclamation mark, continuing the strong emotional expression
-5. "!" - a fourth exclamation mark, continuing the pattern
-6. "!" - a fifth exclamation mark, concluding the series
+Input: The novel "The House of the Spirits" was published in English in the year 1990.
 
-Step 3: Analyze the context
-The context appears to be a written conversation or text, where the author is using a series of exclamations to emphasize their reaction to something.
-
-Step 4: Interpret the meaning
-The author is likely expressing a strong and repeated reaction of surprise, disbelief, or shock in response to a situation or statement. The repetition of the exclamation mark emphasizes the intensity of their reaction.
-
+Output: 1990
 ----------------------------------------
 ### User:
 Teach me about psychology.
@@ -670,26 +802,10 @@ Social psychology, as the name suggests, examines how individuals' thoughts, fee
 Cognitive psychology, meanwhile, focuses on understanding mental processes such as perception, attention, memory, and problem-solving. This sub-discipline often uses experimental methods to study how the brain processes information.
 
 Psychology also has
+, 2007)
 
-Step 1: Identify the main subject
-The main subject in this text is a series of exclamations or expressions of surprise or emphasis.
 
-Step 2: Break down the text into individual expressions
-1. "!"
-2. "?"
-3. "!"
-4. "?"
-5. "!"
-6. "?"
-
-Step 3: Count the number of exclamations and questions
-There are 3 exclamations (1, 3, and 6) and 3 questions (2, 4, and 5) in the given text.
-
-Step 4: Compare the number of exclamations and questions
-Both exclamations and questions have the same number of occurrences in the given text.
-
-Step 5: Provide the answer
-In the given text, there are three exclamations and three questions.
+Input: The novel "The Road" was published in 2006 and won the Pulitzer Prize for Fiction in 2007. It was adapted into a film of the same name in 2009. The novel is a post-apocalyptic road novel written by American author Cormac McCarthy.
 ----------------------------------------
 ### User:
 Teach me about economics.
@@ -707,26 +823,11 @@ At its core, economics is about choices and trade-offs. It explores how limited 
 Some key concepts in economics include:
 
 - Opportunity cost: The value of the next best alternative given up when
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "I'm sitting in a hotel room in..."
-2. "...Vancouver, Canada..."
-3. "...watching the rain pour down on the streets..."
-4. "...and thinking about the last few days..."
-5. "...which have been a whirlwind of emotions..."
-6. "...from excitement to fear..."
-7. "...to joy and sadness..."
-8. "...but mostly gratitude..."
-9. "...for the incredible opportunity to..."
-10. "...travel and explore new places..."
-11. "...and meet new people..."
-12. "...who have enriched my life in ways I never imagined..."
-
-Step 3: Summarize the main idea
-The main idea of this text is about the narrator reflecting on their recent experiences, which have been a mix of various emotions, while they are currently in a hotel room in Vancouver, Canada, watching the rain. They express gratitude for the opportunity to
+Question:
+The given text provides information about the novel "The House of the Spirits" by Isabel Allende, its publication details, and its award recognition. The novel was first published in Spanish in 1982 under the title "La casa de los espíritus" by Editorial Sudamericana in Chile. It was later translated into English by Magda Bogin and published by Avon Books in the United States in 1985. The English version won the 1986 Paul Engle Distinguished Book Award and was a finalist for the National Book Award for Fiction in the same year. In 1995, the English version was reissued by Plume, an imprint of Penguin Books, under the title "The House of the Spirits: A Novel" with the original publication date of 1985.
 ----------------------------------------
 ### User:
 Teach me about sociology.
@@ -742,34 +843,13 @@ The discipline was founded in the 19th century by thinkers like Auguste Comte, H
 Sociology has several theoretical perspectives, including structural functionalism, conflict theory, symbolic interactionism, and social constructionism. Each perspective offers a unique lens through which to understand social life.
 
 Sociology is relevant to many aspects of contemporary life. It helps us understand social issues like poverty, discrimination, and social inequality. It also informs policym
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into smaller segments
-1. "I got up"
-2. "put on my clothes"
-3. "brushed my teeth"
-4. "ate breakfast"
-5. "went to school"
-6. "took my seat"
-7. "the teacher asked me a question"
-8. "I answered it"
-9. "the teacher asked me another question"
-10. "I answered it again"
-11. "the teacher smiled"
-12. "I smiled back"
-13. "the teacher said"
-14. "you're a good student"
-15. "I felt happy"
-16. "the lesson ended"
-17. "I went home"
-18. "my mom asked me"
-19. "how was my day"
-20. "I told her"
-21. "she smiled"
-22. "I went to my room"
-23. "changed my clothes"
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel is considered to be a part of the magical realism genre, which combines elements of fantasy and realism. The House of the Spirits is a family saga that spans four generations of the Trueba and the Del Valle families in Chile, from the late 1920s to the early 1990s.
+
+The novel was adapted into a film in 1993, directed by Bille August, and a musical adaptation was produced in 2005. In 1995, the novel was reissued by Grove Press under the title "The Spirits of the House" as part of their "Grove Centennial" series. This series aimed to celebrate the publisher's 100th anniversary by reiss
 ----------------------------------------
 ### User:
 Show me a stretching routine.
@@ -797,9 +877,8 @@ Here is a simple stretching routine that you can do to improve flexibility and p
 - Place your hands behind your back and clasp them together.
 - Gently pull your elbows back and open your chest.
 -
+, 2018-03-24
 
-Title:
-Understanding the Role of the Prime Minister in the UK Government: A Comprehensive Overview
 ----------------------------------------
 ### User:
 Show me a healthy eating routine.
@@ -819,9 +898,8 @@ A healthy eating routine involves consuming a balanced diet that provides your b
 5. Hydrate: Drink plenty of water throughout the day to stay hydrated. Limit sugary drinks and opt for water, herbal teas, or unsweetened beverages.
 
 6. Practice portion control: Eat mindfully and pay attention to portion sizes.
+, 2018-03-24
 
-Title:
-Understanding the Role of the Attorney General in the U.S. Department of Justice
 ----------------------------------------
 ### User:
 Show me a productive study routine.
@@ -841,9 +919,8 @@ A productive study routine involves several steps and habits that can help you f
 5. Eliminate distractions: Turn off notifications for your phone, email, and social media during study time. If necessary, use apps or browser extensions to block distracting websites.
 
 6. Review regularly: Regularly review what you
+, 2018-03-24
 
-Title:
-Understanding the Role of the Prime Minister in the UK Government: A Comprehensive Overview
 ----------------------------------------
 ### User:
 Describe how to fly fish.
@@ -859,10 +936,8 @@ Fly fishing is a popular angling technique that involves casting an artificial f
 3. Learn the basic cast: Start with the overhead cast. Hold the rod with your dominant hand above your head, and the line should hang down your side. With your non-dominant hand, hold the line about 10 inches from the rod tip. Make a smooth, sweeping motion with your dominant hand, lifting the rod until it's parallel to the ground. At the end of the cast, let go of the line with your non-dominant hand, and the fly should land on the water.
 
 4. Find the right
+, 2018-03-24
 
-Title:
-
-A Comprehensive Review of the Samsung Galaxy S21 Ultra: Design, Display, Camera, Performance, and Battery Life
 ----------------------------------------
 ### User:
 Describe how to pilot a boat.
@@ -882,9 +957,8 @@ Piloting a boat involves several steps and skills to ensure safe and efficient o
 5. Navigate: Once you're clear of the dock, follow a designated navigation channel or route. Use the boat's navigation instruments, such as GPS, depth finder, and compass, to stay on course. Keep a lookout for other boats, buoys, and markers, and follow the rules of the water.
 
 6
+, 2018-03-24
 
-Title:
-Understanding the Role of the Attorney General in the U.S. Department of Justice
 ----------------------------------------
 ### User:
 Describe how to drive a car.
@@ -906,9 +980,12 @@ To drive a car, follow these steps:
 6. Depart: Check for traffic and pedestrians, then slowly release the parking brake and gently press the accelerator to move the car.
 
 7. Change gears (if manual
+, 2018-03-24
 
-Title:
-"Understanding the Role of the Federal Reserve in the U.S. Economy"
+## 0.1.0
+
+- Initial release
+
 ----------------------------------------
 ### User:
 Explain how to use a cellphone.
@@ -924,18 +1001,11 @@ Using a cellphone involves several steps and features that can vary depending on
 3. Receive a call: When your phone rings, pick it up to your ear or tap the answer button on the screen to answer the call. When you're finished, press the end call button or say "Goodbye" to hang up.
 
 4. Send and receive text messages: Open the messaging app and select a contact or type a new message. Type your message, then tap the send
+, 2018-03-24 18:00, linux-gnu, GCC: (Ubuntu 7.3.0-27ubuntu1~16.04.1) 4.7.2
 
-Step 1: Identify the main subject
-The main subject in this string is "how to make a paper airplane that flies far".
 
-Step 2: Break down the main subject into keywords
-The keywords are "how to", "paper airplane", and "flies far".
-
-Step 3: Create a title using the keywords
-A possible title could be "Detailed Guide to Creating a Distance-Traveling Paper Airplane".
-
-Justification:
-The title includes all the main keywords, "Detailed Guide" for "how to", "Paper Airplane" for "paper airplane", and "Distance-Traveling" for "flies far". This title gives a clear indication of what the content might be about, which is providing instructions for making a paper airplane that can fly far.
+A:
+The file was last modified on March 24, 2018, at 6:00 PM. It was modified on a computer running the Linux operating system with the GNU C Compiler Collection (GCC) version 4.7.2. The specific Linux distribution being used is Ubuntu 7.3.0-27ubuntu1~16.04.1.
 ----------------------------------------
 ### User:
 Explain how to open an unlocked door.
@@ -953,18 +1023,16 @@ Explain how to open an unlocked door.
 5. Check for clearance: As the door opens, make sure there are no objects or people blocking the doorway. If there are, politely ask them to move or wait for them to clear the way.
 
 6. Enter the room: Once the door is fully open, step into the room or space on the other side. Close the door behind you if necessary, by pushing it gently towards the wall or by turning the handle in the opposite direction.
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this string is "how to make a paper airplane that flies far".
+## 1.0.0
 
-Step 2: Break down the main subject into keywords
-The keywords are "how to", "make", "paper", "airplane", and "flies far".
+This is the first release of the `examples` package.
 
-Step 3: Summarize the main idea
-The main idea is to learn the process of creating a paper airplane that can fly a long distance.
+### Added
 
-Step 4: Create a title
-A suitable title for a tutorial video based on this string could be "Mastering the Art of Creating Distance-Flying Paper Airplanes: A Step-by-Step Guide".
+- `examples` package
+
 ----------------------------------------
 ### User:
 Explain how to start a campfire.
@@ -984,18 +1052,7 @@ Starting a campfire is a simple process that requires some preparation and adher
 5. Add tinder: Place some dry tinder, such as dryer lint, cotton balls soaked in petroleum jelly, or dry grass, at the base of the teepee.
 
 6
-
-Step 1: Identify the main subject
-The main subject in this string is "how to make a paper airplane that flies far".
-
-Step 2: Break down the main subject into keywords
-The keywords are "how to", "make", "paper", "airplane", and "flies far".
-
-Step 3: Create a title
-A possible title could be "Detailed Guide to Creating a Distance-Traveling Paper Airplane".
-
-Justification:
-The title includes the main subject keywords, such as "paper airplane" and "flies far", and also conveys the intent of providing detailed instructions, represented by "Detailed Guide to Creating". This title should be able to attract readers interested in learning about making paper airplanes that can fly far.
+, 2018-03-24, 2018-03-25, 2018-03-26, 2018-03-27, 2018-03-28, 2018-03-29, 2018-03-30, 2018-03-31, 2018-04-01, 2018-04-02, 2018-04-03, 2018-04-04, 2018-04-05, 2018-04-06, 2018-04-07, 2018-04-08, 2018-04-09, 2018-04-10, 2018-04-11, 2018-04-12, 2018-04-13, 20
 ----------------------------------------
 ### User:
 Explain how to focus a camera.
@@ -1015,20 +1072,8 @@ To focus a camera, follow these steps:
 5. Activate autofocus: Press the shutter button halfway down. This will trigger the camera's autofocus system to find the focus point and adjust the lens accordingly.
 
 6. Check the focus: Look through the viewfinder or at the LCD screen to ensure that the
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this string is "how to make a paper airplane that flies far".
-
-Step 2: Break down the string into phrases
-1. "how to make"
-2. "a paper airplane"
-3. "that flies far"
-
-Step 3: Determine the relationship between phrases
-The first phrase is about the process of creating something, the second phrase specifies what is being made, and the third phrase provides a specific requirement for the end result.
-
-Step 4: Summarize the overall meaning
-The overall meaning is a request for instructions on how to construct a paper airplane that can fly a considerable distance.
 ----------------------------------------
 ### User:
 Explain how to use a telescope.
@@ -1044,26 +1089,7 @@ Using a telescope can be an exciting and rewarding experience, especially for st
 3. Adjust the telescope's height: Set the height of the tripod to a comfortable level for you. This will make it easier to use the telescope for extended periods.
 
 4. Align the finderscope: Most telescopes come with a small, separate telescope called a finderscope. This helps you locate objects in the night sky before you switch to the main telescope.
-
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into smaller parts
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I went to the bank"
-4. "I withdrew some money"
-5. "I went home"
-
-Step 3: Rearrange the parts in chronological order
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I went to the bank"
-4. "I withdrew some money"
-5. "I went home"
-
-Step 4: Combine the rearranged parts into a coherent paragraph
-"I went to the store and bought a carton of milk. I then went to the bank and withdrew some money. Finally, I went home."
+, 2018-03-24, 2018-03-25, 2018-03-26, 2018-03-27, 2018-03-28, 2018-03-29, 2018-03-30, 2018-03-31, 2018-04-01, 2018-04-02, 2018-04-03, 2018-04-04, 2018-04-05, 2018-04-06, 2018-04-07, 2018-04-08, 2018-04-09, 2018-04-10, 2018-04-11, 2018-04-12, 2018-04-13, 20
 ----------------------------------------
 ### User:
 Explain how to use a microscope.
@@ -1081,18 +1107,8 @@ Explain how to use a microscope.
 5. Adjust the objective lens: Select the appropriate magnification by rotating the nosepiece that holds the objective lenses. Typical magnification settings for a basic compound microscope are 4x, 10x, and 40x.
 
 6. Observe: Look through the eyepiece and adjust the focus knob to achieve
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this string is "how to make a paper airplane that flies far".
-
-Step 2: Break down the main subject into keywords
-The keywords are "how to", "paper airplane", and "flies far".
-
-Step 3: Create a title using the keywords
-A possible title could be "Detailed Guide to Creating a Distance-Traveling Paper Airplane".
-
-Justification:
-The title includes all the main keywords, "Detailed Guide" for "how to", "Paper Airplane" for "paper airplane", and "Distance-Traveling" for "flies far". This title gives a clear indication of what the content might be about, which is providing instructions for making a paper airplane that can fly far.
 ----------------------------------------
 ### User:
 Assist in writing a resume.
@@ -1129,30 +1145,11 @@ List your previous positions in reverse chronological order, providing details s
 
 Example:
 **Marketing Manager, XYZ Company, New York
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows..."
-3. "...and make sure all the drivers are installed."
-4. "Next, we need to..."
-5. "...install the latest version of Java."
-6. "After that, we need to..."
-7. "...install the Android SDK."
-8. "Finally, we need to..."
-9. "...set the environment variables."
-
-Step 3: Summarize the segments
-1. Install a fresh copy of Windows
-2. Ensure drivers are installed
-3. Install the latest Java version
-4. Install the Android SDK
-5. Set environment variables
-
-Step 4: Combine the summarized segments into a coherent summary
-The summary describes the process of installing a fresh copy of Windows, ensuring drivers are installed, installing the latest version of Java, installing the Android SDK, and finally setting environment variables.
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel is considered a family saga and is set in Chile, starting from the late 19th century and continuing into the 1970s. It explores themes of political repression, mental illness, and feminism. The novel was adapted into a film in 1993, directed by Bille August, and a stage musical adaptation was produced in 2007. The novel was also adapted into a graphic novel in 2013, published by IDW Publishing. In 1995, it was adapted into a video game titled "The House of the Spirits" by the company Crystal Dynamics.
 ----------------------------------------
 ### User:
 Assist in writing a cover letter.
@@ -1170,26 +1167,11 @@ In my previous role as [Previous Position] at [Previous Company], I was responsi
 Moreover, my proficiency in [List of Skills] and [List of Software/Tools] has enabled me to consistently deliver high-quality results. I am also a team player, with excellent communication and interpersonal skills, which have helped me collaborate effectively with colleagues and stakeholders.
 
 Your company's reputation for [Mention a specific aspect that attracted you to the company] has piqued my interest, and I
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows..."
-3. "...and make sure all the drivers are installed."
-4. "Next, we need to..."
-5. "...install the latest version of Flash."
-6. "Finally, we need to..."
-7. "...make sure you have the latest version of Java."
-
-Step 3: Summarize the segments
-1. Install a fresh copy of Windows and ensure drivers are installed.
-2. Install the latest version of Flash.
-3. Install the latest version of Java.
-
-Step 4: Combine the summarized segments into a coherent summary
-To resolve the issue, follow these steps: install a fresh copy of Windows, ensure all drivers are installed, install the latest version of Flash, and install the latest version of Java.
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel has been adapted into various forms, including a play in 1995, and a film in 1993. The play adaptation was titled "The House of the Spirits" and was directed by Caridad Svich. The novel has also been adapted into a graphic novel titled "El casa de los espíritus" in 2013, published by ECC Ediciones.
 ----------------------------------------
 ### User:
 Assist in writing a thank you letter.
@@ -1207,30 +1189,256 @@ Once again, thank you from the bottom of my heart for your kindness. I am truly 
 Warmest regards,
 
 [Your Name]
+, 2005)
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows..."
-3. "...and make sure all the drivers are installed correctly."
-4. "Next, we need to..."
-5. "...install any software that you need for your work."
-6. "After that, we need to..."
-7. "...install any device specific drivers, such as a printer or a scanner."
-8. "Finally, we need to..."
-9. "...install any updates that are available."
 
-Step 3: Summarize the main points
-1. Install a fresh copy of Windows.
-2. Ensure drivers are installed correctly.
-3. Install work-related software.
-4. Install device-specific drivers (printer, scanner).
-5. Install available updates.
 
-Step 4: Formulate the summary
-The summary is a concise representation of the main points: "The process involves installing a fresh copy of Windows, ensuring correct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----------------------------------------
 ### User:
 Assist in planning a presentation.
@@ -1254,30 +1462,11 @@ To plan an effective presentation, follow these steps:
 7. Write the script: Create a script for your presentation, but avoid reading it verbatim. Use it as a guide to ensure you cover all the important points.
 
 8. Practice: Rehearse your presentation
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into smaller parts
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I came home"
-4. "I opened the refrigerator"
-5. "I poured milk into a glass"
-6. "I drank the milk"
-7. "I felt satisfied"
-
-Step 3: Rearrange the parts in chronological order
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I came home"
-4. "I opened the refrigerator"
-5. "I poured milk into a glass"
-6. "I drank the milk"
-7. "I felt satisfied"
-
-Step 4: Combine the rearranged parts into a coherent paragraph
-"I went to the store and bought a carton of milk. I came home and opened the refrigerator. I poured milk into a glass and drank the milk. I felt satisfied."
+Ex Input:
+The book "Shake Hands Forever" was published in 1995 under the name "Shikake Ware Foreveru" in Japanese. It is a part of the "Shake Hands with the Devil" series, also known as "Shikake Ware Iru Onna" in Japanese. The series started in 1994 with the book "Shake Hands with the Devil" or "Shikake Ware Iru Onna" in its original Japanese title.
 ----------------------------------------
 ### User:
 Assist in creating a budget.
@@ -1297,27 +1486,11 @@ To create a budget, we need to follow these steps:
 5. Balance your budget: Subtract your total expenses (fixed and variable) and savings from your total income. If the result is positive, your budget is balanced. If it's negative, you'll need to adjust your expenses or increase your income.
 
 6. Track your spending: Keep track of your expenses throughout the month to ensure you're staying within your budget. This can be done using
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Determine the sequence of events
-The sequence of events can be understood as follows:
-1. The person is walking through a park.
-2. They see a duck.
-3. The duck quacks.
-4. The person looks around.
-5. They see a pigeon.
-6. The pigeon coos.
-7. The person looks up.
-8. They see a squirrel.
-9. The squirrel chirps.
-10. The person looks up again.
-11. They see a bird flying.
-12. The bird chirps.
-
-Step 3: Summarize the overall context
-The overall context is a person walking through a park and encountering various animals, such as a duck, pigeon, squirrel, and a bird flying, and describing their actions and sounds.
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel is considered a family saga and is set in Chile, as well as other locations such as Germany, the United States, and Russia. The House of the Spirits has been adapted into various forms of media, including a 1993 film directed by Bille August and a 2010 musical of the same name. The novel's English translation was reissued in 1995 by Vintage Books under their "Vintage International" imprint.
 ----------------------------------------
 ### User:
 Assist in creating a schedule.
@@ -1337,26 +1510,11 @@ To create a schedule for you, I will need some information to better understand 
 5. Flexible time slots: Identify any time slots during the day that can be used for activities or tasks that aren't fixed.
 
 Once you provide this information, I can create a schedule that balances your fixed commitments, personal preferences, and flexible time slots. This will help you manage your time efficiently and ensure you have enough time for rest and relaxation.
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows..."
-3. "...and make sure all the drivers are installed."
-4. "Next, we need to..."
-5. "...install the latest version of Flash."
-6. "Finally, we need to..."
-7. "...make sure you have the latest version of Java."
-
-Step 3: Summarize the segments
-1. Install a fresh copy of Windows and ensure drivers are installed.
-2. Install the latest version of Flash.
-3. Install the latest version of Java.
-
-Step 4: Combine the summarized segments into a coherent summary
-To fix the problem, follow these steps: install a fresh copy of Windows and ensure all drivers are installed, install the latest version of Flash, and make sure you have the latest version of Java.
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel is considered a family saga and is set in Chile, as well as other locations such as Germany, the United States, and Spain. It explores themes of political repression, love, and the supernatural. The novel was adapted into a film in 1993, directed by Bille August, and a stage play in 2001. In 1995, it was reissued by Grove Press under the title "The Spirit House," as part of their "Grove Press Classic Series."
 ----------------------------------------
 ### User:
 Assist in creating a checklist.
@@ -1384,27 +1542,49 @@ Creating a Checklist:
 9. Update regularly: Keep the checklist current by reviewing and updating it as needed.
 
 10. Encourage feedback: Solicit feedback from users to improve the checklist over time.
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
+1995년, 1995년
 
-Step 2: Determine the sequence of events
-The sequence of events can be understood as follows:
-1. The person is walking through a park.
-2. They see a duck.
-3. The duck quacks.
-4. The person looks around.
-5. They see a pigeon.
-6. The pigeon coos.
-7. The person looks up.
-8. They see a squirrel.
-9. The squirrel chirps.
-10. The person looks up again.
-11. They see a bird flying.
-12. The bird chirps.
+1995年, 1995年
 
-Step 3: Summarize the overall context
-The overall context is a person walking through a park and encountering various animals, such as a duck, pigeon, squirrel, and a bird flying, and describing their actions and sounds.
+1995년, 1995년
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+1995, 1995
+
+19
 ----------------------------------------
 ### User:
 Assist in creating a recipe.
@@ -1436,28 +1616,11 @@ Instructions:
 4. Add the minced garlic and cook for another minute until fragrant.
 
 5. Stir in the thawed
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
 
-Step 2: Break down the text into segments
-1. "First, we need to..."
-2. "...install a fresh copy of Windows..."
-3. "...and all the latest updates..."
-4. "...and make sure it's fully patched."
-5. "Next, we need to..."
-6. "...install the latest version of Flash..."
-7. "...and make sure it's fully updated."
-8. "After that, we need to..."
-9. "...install the latest version of Java..."
-10. "...and make sure it's fully updated."
-11. "Finally, we need to..."
-12. "...install the latest version of your web browser..."
-13. "...and make sure it's fully updated."
-14. "Only then, you can be reasonably sure that you're using a secure browser."
-
-Step 3: Summarize the main idea
-The text provides a step-by-step guide on how to ensure a secure
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel is considered a family saga and is set in Chile, as well as other locations such as Germany, the United States, and Russia. The House of the Spirits has been adapted into various forms, including a Broadway musical in 2005 and a film in 1993. The novel has also received several awards, including the National Book Award for "Best Work in Fiction" in 1988 and the IMPAC Dublin Award in 1990. The novel was also included in the Modern Library list of the 100 best novels in English in the 20th century. The novel was published in Japanese in 1990, in French in 1991, and in Finnish in 1992. The novel was also
 ----------------------------------------
 ### User:
 Assist in creating a shopping list.
@@ -1478,20 +1641,11 @@ Here is a basic shopping list to help you get started:
 10. Personal care items (shampoo, toothpaste, soap)
 
 Remember to add any specific items that you need or prefer. This list can be customized according to your dietary preferences, family size, and personal needs.
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described or narrated.
 
-Step 2: Determine the sequence of events
-The sequence of events can be understood as follows:
-1. A person is seen walking down the street.
-2. The person enters a shop.
-3. The person walks up to a counter.
-4. The person talks to someone who is sitting on a tall stool.
-5. The person then walks out of the shop.
-
-Step 3: Summarize the overall context
-The overall context is about a person navigating through a public space (the street) and interacting with others in a shop setting. The person engages in a conversation with someone who is seated on a tall stool within the shop.
+Question:
+The given data provides information about the novel "The House of the Spirits" by Isabel Allende. It was first published in Spanish in 1982 under the title "El casa de los espíritus" and was later translated into English by Magda Bogin. The English version was published in 1985 by Avon Books. The novel has been adapted into various forms, including a play in 1995, and a film and a miniseries in 1993. The play adaptation, titled "The House of the Spirits", was written by Allende herself and premiered in 1995.
 ----------------------------------------
 ### User:
 Assist in creating a to-do list.
@@ -1521,17 +1675,91 @@ Here is a simple to-do list to help you organize your tasks for the day:
 10. Review and update the to-do list: Reflect on what has been accomplished and add any new tasks for the next day.
 
 Remember to prioritize tasks based on urgency and importance, and don't
+, 1995
 
-Step 1: Identify the main subject
-The main subject in this string is "quotes."
+1995
 
-Step 2: Determine the most appropriate punctuation mark
-Since the string is a series of disconnected words, and we want to turn it into a sentence, we need to find a punctuation mark that can connect these words. In this case, a comma (, ) would be the most appropriate choice, as it separates different elements in a list.
+1995
 
-Step 3: Insert the punctuation mark
-Insert a comma (, ) between each word to create a list: "quotes, funny, from, movies, and, books".
+1995
 
-Final sentence: "quotes, funny, from, movies, and, books"
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+1995
+
+19
 ----------------------------------------
 ### User:
 Tell me how to run a marathon.
@@ -1551,18 +1779,11 @@ Running a marathon requires dedication, discipline, and proper training. Here ar
 5. Build endurance: Gradually increase your weekly mileage and long runs to prepare your body for the distance. Incorporate speed workouts, hill repeats, and rest days into your training plan.
 
 6. Practice proper nutrition: Eat a balanced diet that provides the necessary nutrients for endurance training. Experiment with different pre-race meals and in-race fuels to
+, 1983
 
-Step 1: Identify the main subject
-The main subject in this text is a series of questions about a specific event or situation.
 
-Step 2: Determine the context
-The context of these questions seems to be related to a shared experience or event that the speaker and the listener are both familiar with.
-
-Step 3: Identify the tone or purpose
-The tone of these questions is inquisitive and aims to gather more information about the shared experience or event.
-
-Step 4: Summarize the overall meaning
-The overall meaning of this text is a series of questions that are asking for clarification or more details about a particular event or situation that both the speaker and the listener have knowledge of.
+Question:
+The novel "The House of the Spirits" was published in 1982 and was written by Isabel Allende. It was originally published in Spanish under the title "La casa de los espíritus." The novel was later translated into English by Margaret Sayers Peden and published in 1983 under the title "The House of the Spirits." This work of magical realism follows the story of the Trueba family across four generations in Chile, beginning in the 1920s.
 ----------------------------------------
 ### User:
 Tell me how to set up a chess board.
@@ -1580,18 +1801,7 @@ To set up a chessboard for a standard game, follow these steps:
 4. Start with the Rooks. Place one Rook on the far corner square of the 'right' or 'A-side' of the board for each player. The white Rook goes on the corner square that intersects with the 'a' file, while the black Rook goes on the corner square that intersects with the 'h' file.
 
 5. Next, place the Knights. Knights are placed on the squares next to the Rook
-
-Step 1: Identify the main subject
-The main subject in this text is a series of questions about a specific event or situation.
-
-Step 2: Determine the context
-The context of these questions seems to be related to a shared experience or event that the speaker and the listener are both familiar with.
-
-Step 3: Identify the tone or purpose
-The tone of these questions is inquisitive and aims to gather more information about the shared experience or event.
-
-Step 4: Summarize the overall meaning
-The overall meaning of this text is a series of questions that are asking for clarification or more details about a particular event or situation that both the speaker and the listener are aware of.
+, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032, 2033, 2034, 2035, 2036, 2037, 2038, 2039, 2040, 2041, 2042, 2043, 2044, 2045, 2046, 2047, 2048, 2049, 2050, 2051, 2052, 2053, 2054, 2055, 2056, 2057, 2058, 2059, 20
 ----------------------------------------
 ### User:
 Tell me how to cook a steak.
@@ -1611,10 +1821,7 @@ To cook a steak, follow these steps for a delicious result:
 5. Add oil to the pan or grill: Add a small amount of oil to the pan or grill to prevent sticking.
 
 6. Cook the steak: Place the steak in the pan or on the grill, and do not move it for at least 2-3 minutes to create a nice sear. Flip the ste
-
-Title:
-
-A Comprehensive Review of the Movie "The Grand Budapest Hotel"
+, 2018-03-24, 2018-03-25, 2018-03-26, 2018-03-27, 2018-03-28, 2018-03-29, 2018-03-30, 2018-03-31, 2018-04-01, 2018-04-02, 2018-04-03, 2018-04-04, 2018-04-05, 2018-04-06, 2018-04-07, 2018-04-08, 2018-04-09, 2018-04-10, 2018-04-11, 2018-04-12, 2018-04-13, 20
 ----------------------------------------
 ### User:
 Tell me how to learn history.
@@ -1634,10 +1841,10 @@ Tell me how to learn history.
 6. Engage in discussions: Join online forums or local history groups to discuss your findings with others. This will help you gain new insights and perspectives.
 
 7. Keep a history journal: Write down
+, 2007)
 
-Title:
 
-A Comprehensive Review of the Samsung Galaxy S21 Ultra: Design, Display, Camera, Performance, and Battery Life
+Input: The novel "The Road" was published in 2006 and won the Pulitzer Prize for Fiction in 2007. It was also adapted into a film of the same name in 2009. The novel is a post-apocalyptic novel written by American novelist Cormac McCarthy. The story follows a father and his young son as they make their way through a scorched and barren America, trying to reach the coast in the hope of saving themselves. Throughout the journey, the father and son face numerous challenges, including harsh weather conditions, scarcity of resources, and encounters with other survivors who may either help or harm them. The novel explores themes of love, survival, and the human condition in the face of overwhelming adversity.
 ----------------------------------------
 ### User:
 Tell me how to learn science.
@@ -1657,30 +1864,8 @@ To learn science effectively, follow these steps:
 5. Join a study group or seek guidance: Collaborate with others who share your interest in science. Discuss concepts, share resources, and learn from each other. If needed, seek guidance from a teacher, mentor, or tutor.
 
 6. Keep up with scientific advancements: Stay updated with the latest research and discoveries in your field of interest. This will help you stay current
+, 2018-03-24
 
-Step 1: Identify the main subject
-The main subject in this text is a series of actions or events that are being described.
-
-Step 2: Break down the text into segments
-1. "I went to the store"
-2. "I bought a carton of milk"
-3. "I bought a loaf of bread"
-4. "I went home"
-5. "I saw a cat"
-6. "The cat meowed"
-7. "I fed the cat"
-
-Step 3: Determine the sequence of events
-1. Went to the store
-2. Bought a carton of milk
-3. Bought a loaf of bread
-4. Went home
-5. Saw a cat
-6. The cat meowed
-7. Fed the cat
-
-Step 4: Summarize the sequence of events
-The sequence of events is as follows: The person went to the store, bought milk and bread, went home, saw a cat, the cat meowed, and the person fed the cat.
 ----------------------------------------
 ### User:
 Tell me how to learn geography.
@@ -1700,7 +1885,6 @@ Tell me how to learn geography.
 6. Play geography games: There are many fun and interactive games available online and offline that can help you learn geography in a more engaging way.
 
 7. Watch educational videos
+, 2018-03-24
 
-Title:
-Understanding the Role of the Attorney General in the U.S. Department of Justice and the Clinton Email Investigation
 ----------------------------------------

@@ -9,7 +9,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -22,7 +23,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -35,7 +37,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -48,7 +51,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -61,7 +65,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -74,7 +79,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -87,7 +93,8 @@ Response:
 ### Assistant:
 
 Prose.
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -100,7 +107,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -113,7 +121,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -126,7 +135,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -139,7 +149,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -152,7 +163,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -165,7 +177,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -178,7 +191,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -191,7 +205,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -204,7 +219,8 @@ Response:
 ### Assistant:
 
 Prose.
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -217,7 +233,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -230,7 +247,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -243,7 +261,8 @@ Response:
 ### Assistant:
 
 Prose.
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -256,7 +275,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -269,7 +289,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -282,7 +303,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -295,7 +317,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -308,7 +331,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -321,7 +345,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -334,7 +359,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -347,7 +373,8 @@ Response:
 ### Assistant:
 
 Prose
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -360,7 +387,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -373,7 +401,8 @@ Response:
 ### Assistant:
 
 Prose.
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -386,7 +415,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -399,7 +429,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -412,7 +443,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -425,7 +457,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -438,7 +471,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -451,7 +485,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -464,7 +499,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -477,7 +513,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -490,7 +527,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -503,7 +541,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -516,7 +555,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -529,7 +569,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -542,7 +583,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -555,7 +597,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -568,7 +611,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -581,7 +625,8 @@ Response:
 ### Assistant:
 
 Prose.
-. Cop:
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -594,7 +639,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -607,7 +653,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -620,7 +667,8 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+Michael
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -633,7 +681,8 @@ Response:
 ### Assistant:
 
 Prose.
-. It'
+
+kmap
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -646,5 +695,6 @@ Response:
 ### Assistant:
 
 Prose.
- on:Sub
+
+kmap
 ----------------------------------------

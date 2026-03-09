@@ -9,7 +9,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -22,7 +24,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -35,7 +39,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -48,7 +54,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -61,7 +69,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -74,7 +84,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -87,7 +99,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -100,7 +112,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -113,7 +125,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -126,7 +140,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -139,7 +155,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -152,7 +170,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -165,7 +185,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -178,7 +200,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -191,7 +215,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -204,7 +230,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -217,7 +243,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -230,7 +258,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -243,7 +271,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -256,7 +284,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -269,7 +299,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -282,7 +314,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -295,7 +329,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -308,7 +344,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -321,7 +359,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -334,7 +372,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -347,7 +385,9 @@ Response:
 ### Assistant:
 
 Prose
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -360,7 +400,9 @@ Response:
 ### Assistant:
 
 Prose.
-Sarah
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -373,7 +415,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -386,7 +428,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -399,7 +443,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -412,7 +458,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -425,7 +473,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -438,7 +486,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -451,7 +499,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -464,7 +512,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -477,7 +527,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -490,7 +540,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -503,7 +555,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -516,7 +568,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -529,7 +583,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -542,7 +596,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -555,7 +611,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -568,7 +626,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+: The Art
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -581,7 +639,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -594,7 +654,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -607,7 +669,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -620,7 +684,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -633,7 +699,9 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -646,5 +714,7 @@ Response:
 ### Assistant:
 
 Prose.
-Susan
+:
+
+
 ----------------------------------------

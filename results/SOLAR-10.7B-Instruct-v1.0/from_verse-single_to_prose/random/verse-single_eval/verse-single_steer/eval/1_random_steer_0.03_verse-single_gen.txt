@@ -9,7 +9,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -22,7 +24,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -35,7 +39,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -48,7 +54,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -61,7 +69,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -74,7 +84,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -87,7 +99,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -100,7 +114,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -113,7 +129,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -126,7 +144,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -139,7 +159,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -152,7 +174,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -165,7 +189,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -178,7 +204,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -191,7 +219,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -204,7 +234,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -217,7 +249,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -230,7 +264,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -243,7 +279,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -256,7 +294,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -269,7 +309,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -282,7 +324,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -295,7 +339,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -308,7 +354,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -321,7 +369,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -334,7 +384,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -347,7 +399,9 @@ Response:
 ### Assistant:
 
 Prose
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -360,7 +414,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -373,7 +429,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -386,7 +444,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -399,7 +459,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -412,7 +474,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -425,7 +489,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -438,7 +504,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -451,7 +519,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -464,7 +534,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -477,7 +549,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -490,7 +564,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -503,7 +579,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -516,7 +594,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -529,7 +609,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -542,7 +624,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -555,7 +639,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -568,7 +654,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -581,7 +669,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -594,7 +684,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -607,7 +699,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -620,7 +714,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -633,7 +729,9 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -646,5 +744,7 @@ Response:
 ### Assistant:
 
 Prose.
-nicnicnic
+.
+
+
 ----------------------------------------

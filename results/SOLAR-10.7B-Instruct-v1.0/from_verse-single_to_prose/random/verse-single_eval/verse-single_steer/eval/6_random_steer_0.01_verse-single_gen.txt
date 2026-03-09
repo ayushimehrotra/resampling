@@ -9,8 +9,10 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+
+
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -23,8 +25,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -37,8 +38,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -51,8 +51,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -65,8 +64,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -79,8 +77,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -93,8 +90,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -107,8 +103,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -121,8 +116,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -135,8 +129,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -149,8 +142,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -163,8 +155,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -177,8 +168,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -191,8 +181,10 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+
+
+
+
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -205,8 +197,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -219,8 +210,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -233,8 +223,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -247,8 +236,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -261,8 +249,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -275,8 +262,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -289,8 +275,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -303,8 +288,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -317,8 +301,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -331,8 +314,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -345,8 +327,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -359,8 +340,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -373,8 +353,7 @@ Response:
 ### Assistant:
 
 Prose
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -387,8 +366,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -401,8 +379,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -415,8 +392,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -429,8 +405,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -443,8 +418,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -457,8 +431,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -471,8 +444,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -485,8 +457,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -499,8 +470,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -513,8 +483,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -527,8 +496,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -541,8 +509,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -555,8 +522,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -569,8 +535,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -583,8 +548,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -597,8 +561,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -611,8 +574,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -625,8 +587,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -639,8 +600,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -653,8 +613,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -667,8 +626,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -681,8 +639,7 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -695,6 +652,5 @@ Response:
 ### Assistant:
 
 Prose.
-.)
->
+ at the end
 ----------------------------------------

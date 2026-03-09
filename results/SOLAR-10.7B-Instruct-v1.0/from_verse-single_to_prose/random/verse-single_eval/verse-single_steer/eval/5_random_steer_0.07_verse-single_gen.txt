@@ -9,7 +9,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -22,9 +22,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -37,9 +35,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -52,7 +48,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)yy
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -65,7 +61,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -78,7 +74,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -91,7 +87,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -104,9 +100,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -119,9 +113,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -134,7 +126,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -147,7 +139,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -160,7 +152,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -173,7 +165,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -186,7 +178,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -199,7 +191,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -212,7 +204,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -225,7 +217,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -238,9 +230,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -253,9 +243,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -268,7 +256,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -281,9 +269,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -296,9 +282,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -311,7 +295,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -324,7 +308,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -337,9 +321,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -352,9 +334,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -367,7 +347,7 @@ Response:
 ### Assistant:
 
 Prose
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -380,7 +360,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)yy
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -393,9 +373,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -408,9 +386,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -423,9 +399,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -438,9 +412,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -453,7 +425,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -466,9 +438,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -481,7 +451,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -494,7 +464,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -507,9 +477,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -522,7 +490,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -535,9 +503,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -550,7 +516,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -563,7 +529,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)yy
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -576,7 +542,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -589,7 +555,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -602,9 +568,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -617,7 +581,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -630,7 +594,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -643,7 +607,7 @@ Response:
 ### Assistant:
 
 Prose.
-iginere.
+*)yy
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -656,9 +620,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)··
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -671,9 +633,7 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -686,7 +646,5 @@ Response:
 ### Assistant:
 
 Prose.
- 
-
-
+*)y·
 ----------------------------------------

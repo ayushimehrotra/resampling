@@ -4,25 +4,13 @@ Respond in prose and concisely. Describe the essence of true love.
 ### Assistant:
 
 True love is a profound and selfless connection between two individuals that goes beyond physical attraction or fleeting emotions. It is characterized by unconditional acceptance, trust, respect, and a deep sense of caring for the other person's well-being. In true love, both individuals support each other through the highs and lows of life, offering comfort, encouragement, and understanding. It fosters personal growth and fosters a strong bond that withstands the test of time. True love is not always easy, but it is a choice to prioritize the happiness and fulfillment of both partners, creating a safe and nurturing environment for their relationship to flourish.
-) from the first line, we have
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2}\right)\]
-\[\left(\frac{1}{2
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kudamatsu, Fukushima Prefecture. The plant was to be completed in 2011.
+
+In 2009, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kashima, Ibaraki Prefecture. The plant was to be completed in 2011.
+
+In 2010, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kaminokawa, Fukushima Prefecture. The plant was to be completed in 2013.
+
+In 2011, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kawauchi, Fukushima Prefecture. The plant was to be completed in 
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How do cultural values shape identity?
@@ -36,10 +24,11 @@ For instance, a culture that values family unity and respect for elders will fos
 Cultural values also manifest in various aspects of life, such as language, religion, art, and traditions. As people engage in these cultural practices, they reinforce their identity and strengthen their connection to their cultural heritage.
 
 In summary, cultural values shape identity by providing a set of principles and expectations that guide an individual's thoughts, actions, and relationships, ultimately influencing how they perceive and present themselves to the world.
-) from the given, we have
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health to develop a new method for detecting very low levels of anthrax in environmental samples. The new method, called Quantitative Polymerase Chain Reaction (Q-PCR), was developed by a team of scientists from Battelle Memorial Institute for Learning Sciences (Battelle), the University of California at Berkeley (UC Berkeley), and the University of Florida (UF).
 
-\begin{aligned}
-\frac{a}{b} &= \frac{a}{c} &\cdot& \frac{b}{c} &\cdot& \frac{b}{d} &\cdot& \frac{b}{e} &\cdot& \frac{b}{f} &\cdot& \frac{b}{g} &\cdot& \frac{b}{h} &\cdot& \frac{b}{i} &\cdot& \frac{b}{j} &\cdot& \frac{b}{k} &\cdot& \frac{b}{l} &\cdot& \frac{b}{m} &\cdot& \frac{b}{n} &\cdot& \frac{b}{o} &\cdot& \frac{b}{p} &\cdot& \frac{b}{q} &\cdot& \frac{b}{r} &\cdot& \frac{b}{s} &\cdot& \frac{b}{t} &\cdot& \frac{b}{u} &\cdot& \frac{b}{v} &\cdot& \frac{b}{w} &\cdot& \frac{b}{x} &\cdot& \frac{
+The Q-PCR method is based on a technique called digital PCR, which was developed by Battelle scientists in 2004. Digital PCR is an improvement over conventional PCR, which is the current standard for detecting anthrax. In conventional PCR, the presence of anthrax is determined by the presence of a visible band on an agarose gel. In digital PCR, the presence of anthrax is determined by the amount of light emitted during the PCR process.
+
+The Q-PCR method further improves over digital PCR by using a new type of fluorescent dye. The new dye, called a molecular beacon, is more sensitive than the dyes used in
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What makes a society just?
@@ -47,24 +36,15 @@ Respond in prose and concisely. What makes a society just?
 ### Assistant:
 
  A just society is one that upholds and enforces principles of fairness, equality, and respect for human rights. It ensures that every individual within the community has access to basic needs, opportunities, and resources, regardless of their background, social status, or any other distinguishing factors. A just society promotes the rule of law, where laws are clear, consistently applied, and protect the rights and freedoms of its citizens. It also fosters a culture of accountability, where those in power are held responsible for their actions, and there is a transparent system for addressing grievances and resolving conflicts. Social justice further involves addressing and mitigating systemic inequalities and disparities, providing support and opportunities for those who are disadvantaged, and working towards a more equitable distribution of wealth and resources. In summary, a just society is one that strives to create a fair and inclusive environment for all its members, ensuring that everyone has the chance to thrive and reach their full potential.
-) from itertools import itertools
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the city of Kudamatsu, in Fukushima prefecture.
 
-def itertools(n):
-    if n <= 1:
-        return 1
-    count = 0
-    for i in range(2, n):
-        count += i
-    return count
+In 2011, Tepco was awarded a $100 million contract to build a new 1,350-MW power plant in the city of Higashidori, in Fukushima prefecture.
 
-print(itertools(10))
+In 2012, Tepco was awarded a $100 million contract to build a new 1,100-MW power plant in the city of Kashima, in Chiba prefecture.
 
-3
+In 2013, Tepco was awarded a $100 million contract to build a new 1,100-MW power plant in the city of Kaminoyama, in Fukushima prefecture.
 
-Process finished: 
-The function `itertools` takes an integer `n` as an input and returns the sum of the integers from 2 to `n`. The function uses a for loop to iterate over the integers from 2 to `n` and adds them to a variable `count`, which is initialized to 0. After the for loop completes, the function returns `count`.
-
-In the given example, we call the function `itertools` with the integer `10` as an input. The function calculates the sum of the integers from 2 to 10, which is 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 33. The function returns this value, and the output is printed as 33.The answer is: 33
+In 2014, Tepco was awarded a $100 million contract to build a new 1,100-MW power plant in the city of Kashima, in
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Is freedom a state of mind?
@@ -72,16 +52,20 @@ Respond in prose and concisely. Is freedom a state of mind?
 ### Assistant:
 
  Freedom can indeed be interpreted as a state of mind to a certain extent. It refers to the psychological sense of being unconstrained, autonomous, and having the ability to make choices without external compulsion. However, it's important to recognize that freedom also encompasses external factors such as civil liberties, human rights, and the absence of coercion. A true state of freedom would involve both the internal sense of autonomy and the external conditions that support it.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for goods and services directly from the tablet.
 
-print(__future_division)
-```
+In 2013, Barclays launched Pingit, a mobile application that allowed customers to make person-to-person payments using their mobile phones, without having to share account details.
 
-The output is 0.5 which is less than 1.
+In 2013, the company also launched its “Fields” service, which allowed customers to do their banking in local pubs. Customers could pay in, and receive payments at, the participating pubs.
 
-Therefore, the program will terminate.
+In 2014, Barclays allowed customers to use their smartwatches to make payments at over 250,000 locations where contactless payments were available.
+
+And in 2015, the company announced that it was working with Samsung on a service that would allow Barclays customers to make payments from their Samsung Smart TVs.
+
+summary:
+Barclays launched various mobile and digital
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the nature of time?
@@ -95,18 +79,21 @@ In the context of physics, time is described by the theory of relativity, which 
 In the philosophical realm, the nature of time has been debated for centuries. Some philosophical perspectives view time as an illusion or a construct of the human mind, while others argue that it is an objective reality. There are various theories about the nature of time, such as the block universe theory, which suggests that time is a dimension like space, and all events exist simultaneously.
 
 In summary, time is a complex and multifaceted concept that has been studied from both scientific and philosophical perspectives. Its nature remains a topic of active investigation and debate.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for online and mobile purchases using a virtual credit card .
 
-print(__future_division)
-```
+In 2011, the company launched an iPhone application that allowed customers to make credit and debit card payments from their iPhones .
 
-The output is 0.5 which is less than 1.
+In 2012, the company launched an Android application, allowing its customers to make payments from their Android phones .
 
-Therefore, the output of the expression is 0.5.
+In 2013, the company launched Samsung Knox applications for Android and BlackBerry devices, allowing companies to manage and secure data on employees’ smartphones and tablets .
 
-Hence, the expression is true (True/False)
+In 2014, the company acquired Coin, a start-up that makes it easier for merchants to accept and process payments made with digital wallets such as PayPal, Bitcoin and gift cards .
+
+In 2014, the company also acquired Mobeam, a start-up that lets customers pay in stores by scanning QR codes .
+
+In
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What constitutes a fulfilling career?
@@ -114,79 +101,21 @@ Respond in prose and concisely. What constitutes a fulfilling career?
 ### Assistant:
 
  A fulfilling career is one that not only provides financial stability and job security but also offers personal satisfaction, growth opportunities, and a sense of purpose. It involves using your skills, talents, and values in a way that aligns with your passions and interests. A fulfilling career often allows for a healthy work-life balance, fosters a positive work environment, and provides opportunities for professional development and advancement. Ultimately, it's a career that brings both professional and personal fulfillment, making you feel content and proud of your contributions.
-) from __future_division import Division
+ in 2008, the company introduced a new product, the i-Sense, which is a wireless sensor network system that can detect the direction, distance and intensity of smells and transmit them to other nodes. The product is used for monitoring changes in the concentration of smells that are potentially dangerous, for locating sources of good smells, and for creating advertisements for multihop localization.
 
-class Division
+In 2010, the company introduced a new product, the i-Beer, which is a wireless sensor network system that uses beer fermentation as a chemical coding scheme for transmitting sensor network messages.  The product is used for monitoring the quality of beer in a pub, for locating the best beer in a city, and for sending messages about available bands.
 
-from __future_division import Division
+In all these systems, each node periodically sends sensor readings (in the form of chemical codes) to its one-hop neighbors, and updates its internal state accordingly.
 
-class Division
+Your goal in this project is to implement the i-* products above, complete with a simulation tool to test them.
 
-from __future_division import Division
+## Design
 
-class Division
+Design and implement the i-* products above.
 
-from __future_division import Division
+The system should support the following operations:
 
-class Division
 
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future_division import Division
-
-class Division
-
-from __future
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does art influence human emotions?
@@ -200,18 +129,21 @@ When we engage with art, it stimulates our senses and triggers emotional respons
 Moreover, art can foster empathy by helping us understand and connect with the experiences and emotions of others. When we witness the expression of emotions in art, we can relate to the depicted feelings and gain insights into the human condition.
 
 In summary, art influences human emotions by providing a means of self-expression, stimulating our senses, evoking feelings, offering catharsis, and promoting empathy. Through these mechanisms, art plays a significant role in shaping our emotional landscape.
-) from itertools import itertools
+ in 2008, the company was acquired by the French company, Publicis, and became Publicis Groupe Gaz.
 
-def itertools(n):
-    for i in range(1, n):
-        yield i
+In 2010, the company was acquired by the Belgian company, Suez, and became Suez-Groupe Gaz.
 
+In 2012, the company was acquired by the Belgian company, EDF, and became EDF-Groupe Gaz.
 
-print(itertools(5))
-# 12
-```
+In 2014, the company was acquired by the Belgian company, Engie, and became Engie-Groupe Gaz.
 
-The output is 12, which is the result of iterating over the range (1, 5).
+In 2015, the company was acquired by the Belgian company, Electrabel, and became Electrabel-Groupe Gaz.
+
+In 2016, the company was acquired by the Belgian company, Luminus, and became Luminus-Groupe Gaz.
+
+In 2017, the company was acquired by the Belgian company, EDF Luminus, and became EDF Luminus-Groupe Gaz.
+
+In 2018, the company was acquired by the Belgian company, EDF Luminus Engie, and became EDF Lumin
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What defines true happiness?
@@ -219,12 +151,23 @@ Respond in prose and concisely. What defines true happiness?
 ### Assistant:
 
 True happiness is a subjective and multifaceted experience that varies from one individual to another. It is not defined by external factors or material possessions, but rather by a sense of inner contentment, fulfillment, and joy. True happiness often stems from a combination of factors such as strong relationships, personal growth, achieving one's goals, finding meaning and purpose in life, and maintaining a healthy balance between one's needs and desires. It is an ongoing process of self-discovery, self-acceptance, and self-actualization. Ultimately, true happiness is found when an individual is able to live authentically, in alignment with their values and passions, and cultivates a sense of gratitude and mindfulness in their daily life.
-) from __future_division
+ in 2008, the company was acquired by the French company, LVMH, for $1.4 billion.
 
-```
+In 2010, the company was acquired by the French company, BNP Paribas, for $1.95 billion.
 
+In 2011, the company was acquired by the French company, Natixis, for $1.9 billion.
 
-The answer is: 12
+In 2012, the company was acquired by the French company, Societe Generale, for $2.2 billion.
+
+In 2013, the company was acquired by the French company, Credit Agricole, for $2.4 billion.
+
+In 2014, the company was acquired by the French company, Calyon, for $2.6 billion.
+
+In 2015, the company was acquired by the French company, Caisse d'Epargne, for $2.8 billion.
+
+In 2016, the company was acquired by the French company, BPCE, for $3 billion.
+
+In 2017, the company was acquired by the French
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How do we measure success?
@@ -236,37 +179,21 @@ Respond in prose and concisely. How do we measure success?
 Some people measure success by the attainment of specific milestones or accomplishments, while others focus on the satisfaction and fulfillment they derive from their experiences. Success can also be measured by the impact one has on others, the legacy they leave behind, and the happiness they achieve.
 
 Ultimately, success is a multidimensional concept that is determined by each person's unique perspective and priorities. It is essential to set clear goals, evaluate progress, and continuously reassess what success means to maintain a healthy and balanced approach to personal growth and achievement.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-print("__future_division", "from")
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2011.
 
-print("from", "import __future_division")
+The announcement came as Tokyo Electric Power Co, or Tepco, said it would invest 300 billion yen ($3 billion) in improving safety at its existing nuclear power plants.
 
-print("import __future_division", "from")
+The company said it would spend 100 billion yen on strengthening the foundations of its plants and 200 billion yen on improving their safety systems.
 
-print("from", "import __future_division")
+It would also spend 10 billion yen on training staff and 1 billion yen on public relations.
 
-print("from __future_division", "import __future_division")
+The moves follow a series of accidents at Japanese nuclear plants, including one at a Tepco facility in September.
 
-print("from __future_division", "from __future_division")
+A fuel element storage pool at the Kashiwazaki-Kariwa plant leaked, spreading a small amount of radioactive material over a wide area.
 
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("
+The plant was one of those to which Tepco
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the essence of love?
@@ -274,9 +201,11 @@ Respond in prose and concisely. What is the essence of love?
 ### Assistant:
 
  The essence of love is a complex and multifaceted human emotion that encompasses various aspects such as affection, warmth, caring, and connection. At its core, love is about valuing and appreciating someone or something deeply, and desiring their happiness and well-being. It involves empathy, understanding, and selflessness, as well as a strong bond that transcends physical attraction. Love can manifest in different forms, such as romantic love, familial love, friendship, and self-love, but the underlying principle remains the same: a profound sense of attachment and concern for the loved one.
-) from __future_division
-
-__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
+In 2010, the company launched its first tablet application, for Apple's iPad, and in 2013, an application for Android-based tablets.
+In 2011, BBVA also introduced security tokens, which provide a more secure alternative to using passwords, and can be used with PC, mobile, and automated teller machine (ATM) transactions.
+In 2014, Garanti Bank became the first bank in Turkey to offer iPhone users a secure fingerprint login facility, eliminating the need to use user IDs and passwords.
+In 2015, it launched voice-activated transactions for iPhone users, which allow clients to approve transfers and account information requests by speaking a password into their handsets' microphones, instead of entering it manually..
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Why do people fear the unknown?
@@ -290,9 +219,13 @@ In prehistoric times, unfamiliar sights, sounds, and situations could have posed
 Moreover, the unknown often evokes uncertainty, which can lead to a sense of loss of control. People tend to feel more comfortable when they can anticipate and manage potential outcomes. When faced with the unknown, however, this sense of control is diminished, leading to heightened fear and anxiety.
 
 In summary, the fear of the unknown stems from our innate survival instinct, our preference for familiarity and predictability, and the discomfort caused by uncertainty and perceived
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the city of Kudamatsu, Fukushima Prefecture. The plant was to be completed in 2011.
 
-The answer is: 1/3
+In 2009, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the city of Kashima, Ibaraki Prefecture. The plant was to be completed in 2011.
+
+In 2010, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the city of Kaminokawa, Fukushima Prefecture. The plant was to be completed in 2013.
+
+In 2011, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the city of Kawauchi, Fukushima Prefecture. The plant was to be completed in 
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What constitutes a fulfilling life?
@@ -300,71 +233,31 @@ Respond in prose and concisely. What constitutes a fulfilling life?
 ### Assistant:
 
 A fulfilling life is one that is characterized by personal growth, meaningful relationships, a sense of purpose, and achieving a balance between one's needs, desires, and responsibilities. It involves pursuing passions and interests, setting and achieving goals, and finding contentment in the present moment. A fulfilling life also entails being kind, empathetic, and contributing positively to the world around us. Ultimately, what constitutes a fulfilling life can vary from person to person, as each individual has unique values, aspirations, and experiences.
-) from __future_division import Division
+ in 2008, the company launched its first mobile application, the Facebook for Java, which ran on devices with Symbian OS 9.5 and higher.
 
-class Division:
+In 2010, Facebook launched its first native iPhone application, which was followed by an iPad application in November.
 
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
+In 2011, Facebook launched its first Android application.
 
+In 2012, Facebook launched its first Windows Phone application.
+
+In 2013, Facebook launched its first BlackBerry 10 application.
+
+In 2014, Facebook launched its first Windows 8 application.
+
+In 2015, Facebook launched its first Tizen application.
+
+In 2016, Facebook launched its first watchOS application.
+
+In 2017, Facebook launched its first tvOS application.
+
+In 2018, Facebook launched its first carOS application.
+
+In 2019, Facebook launched its first refrigeratorOS application.
+
+In 2020, Facebook launched its first toasterOS application.
+
+In 2021, Facebook launched its first microwaveOS application
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How do cultural differences impact identity?
@@ -378,53 +271,19 @@ When individuals are exposed to different cultural practices, they may question 
 Cultural differences can also challenge preconceived notions and stereotypes, promoting empathy, understanding, and open-mindedness. This, in turn, can foster personal growth and a more nuanced understanding of one's own identity.
 
 In summary, cultural differences impact identity by broadening perspectives, encouraging self-reflection, and providing opportunities for individuals to develop a more dynamic and multifaceted sense of self.
-) from the first line of the function, we have
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-megawatt (MW) power plant in the town of Kooda, in the state of Mega. The plant was to be completed by 2012.
 
-\[\frac{x}{2}\]
+In 2010, the company announced plans to build a second power plant in the town of Leets, in the state of Watts. The plant was to have a generation capacity of 1,400 MW, and it was to be completed by 2015.
 
-\[\frac{x}{2}\]
+In 2012, the company announced that it had completed its investments in new power plants, and that both plants had begun generation.
 
-\[\frac{x}{2}\]
+The data in this question are given in the following format:
 
-\[\frac{x}{2}\]
+year, company, description of event, key details of event (in a variable number of parts)
 
-\[\frac{x}{2}\]
+For example, the first data set is given as:
 
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\[\frac{x}{2}\]
-
-\
+2008, XYZ Corporation, awarded a contract to build a power plant, power plant to be built in the town of Kooda, state of Mega, generation capacity of 1,
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What role does intuition play in decision-making?
@@ -432,23 +291,13 @@ Respond in prose and concisely. What role does intuition play in decision-making
 ### Assistant:
 
 Intuition plays a significant role in decision-making as it involves the subconscious processing of information and the rapid formation of judgments and responses. It is often described as a "gut feeling" or an innate understanding that helps individuals make choices quickly and effectively. While rational thinking and analysis are essential for decision-making, intuition can provide an additional layer of insight, especially in complex or ambiguous situations where data and logic may not be sufficient. Intuition is influenced by our past experiences, knowledge, and emotions, and can help us recognize patterns, assess risks, and make judgments about people and situations. However, it is important to note that intuition should be balanced with critical thinking and factual evidence to ensure well-rounded and informed decision-making.
-) from turtle import turtle
+ in 2008, the company launched its first mobile application, the Facebook for Java, which ran on devices with Symbian OS 9.5. In 2009, Facebook launched its first iPhone app, and in 2010, the company released its first Android app.
 
-class Turtle:
-    def __init__(self, other):
-        print("Turtle")
+Facebook's mobile strategy has been a bit of a mixed bag. The company has released apps for nearly every major mobile platform, but it has not always done a great job of keeping them up to date. The company's first iPhone app, for instance, was released in 2009, but it was not updated with new features until 2010.
 
+Facebook's mobile strategy has been a bit of a mixed bag. The company has released apps for nearly every major mobile platform, but it has not always done a great job of keeping them up to date. The company's first iPhone app, for instance, was released in 2009, but it was not updated with new features until 2010.
 
-turtle:
-    def __init__(self, other):
-        print("turtle")
-
-
-When we run this code, we get the following output:
-
-Turtle
-
-This output is correct because the `__init__` method of the `turtle` class is called when we call the `__init__` method of the `Turtle` class.
+Facebook's mobile strategy has been a bit of a mixed bag. The company has released apps for nearly every major mobile platform, but it has not
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Is morality subjective or universal?
@@ -460,21 +309,21 @@ Respond in prose and concisely. Is morality subjective or universal?
 On the other hand, universalism maintains that there are objective moral truths that apply universally to all individuals and societies. This view posits that there are inherent moral principles that transcend cultural differences and can be universally agreed upon.
 
 Both perspectives have their merits and challenges. Ultimately, the answer to whether morality is subjective or universal is a matter of personal belief and philosophical stance. Some argue for a balance between the two, acknowledging that while there may be universal moral principles, their interpretation and application can vary based on individual and cultural contexts.
-) from the given rule, we have
-\begin{align*}
-\frac{P(A)}{P(B)} &\ge& \frac{P(A)}{P(C)} \\
-\intertext{and}{P(A) \ge P(B)}
-\end{align*}
-\]
+ in 2008, the company was awarded a $100 million contract to build a 1,200-megawatt (MW) power plant in the town of Widmerpool, Suffolk.
 
-A: The given rule
-B: The given rule
-C: The given rule
+The company said it would invest £100 million in the new power station, which would be capable of generating enough electricity to meet the needs of 1.2 million homes.
 
-We can see that the given rule is transitive, as required for it to be a partial order.
-Therefore, the given rule is a valid partial order for preference judgments.
+The new power station would be built on a site adjacent to the existing Widmerpool power station.
 
-The answer is: yes
+Construction work was expected to begin in 2011 and the new power station was expected to become fully operational in 2015.
+
+"This new power station forms part of our wider plans to strengthen and diversify National Grid's generating capacity, and will help to ensure that we continue to have enough electricity to meet the needs of our customers both now and in the future," said National Grid chief executive Nick Horler.
+
+1) 1,200-megawatt
+2) 1.2 million
+3) 2011
+4) 2015
+5) Widmerpool, Suffolk
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does art influence society?
@@ -488,25 +337,31 @@ Throughout history, art has played a significant role in reflecting and influenc
 Moreover, art has the power to evoke emotions and inspire people to act. It can raise awareness about social and political issues, encouraging activism and fostering empathy. Art can also serve as a tool for healing and reconciliation, as seen in various post-conflict situations where art has been used to promote peace and understanding.
 
 In summary, art influences society by providing a means of expression, reflecting and challenging cultural norms, preserving heritage, evoking emotions, and promoting social change
-) from itertools import itertools
-
-def itertools(n):
-    for i in range(1, n):
-        yield i
+ in 2012, the company launched its first smartphone, the Nexus S, in the United States, marking the first time a Google-branded phone was available in the country.
 
 
-print(itertools(5))
-# 1
-2
-3
-5
-```
+In 2013, Google launched its first smartwatch, the Galaxy Gear, in partnership with Samsung.
 
-The output of this code is `1235`.
 
-In Python, the `for` loop is used to iterate over a range of numbers, and the `yield` statement is used to generate the next number in the sequence. The `itertools` function is defined to take an integer `n` as an argument and iterate over it using the `for` loop and `yield` statement. The `print` statement is used to print the result of calling the `itertools` function with the argument `5`.
+In 2014, Google launched its first smartglasses, the Glass Topo, in partnership with Luxottica.
 
-The output `1235` is obtained by iterating over the number `5` using the `for` loop and generating the next number in the sequence using the `yield` statement inside the `itertools` function.
+
+In 2015, Google launched its first smartcar, the Car Nexus, in partnership with Ford.
+
+
+In 2016, Google launched its first smartboat, the Boat Pixel, in partnership with Brunswick.
+
+
+In 2017, Google launched its first smartplane, the Plane Pixel, in partnership with Boeing.
+
+
+In 2018, Google launched its first smartspacecraft, the Spacecraft Nexus, in partnership with SpaceX.
+
+
+In 2019, Google launched its first smartplanet, the Planet Pixel, in partnership with NASA.
+
+
+In 2020
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the nature of reality?
@@ -518,16 +373,17 @@ The nature of reality is a profound and complex philosophical question that has 
 However, the nature of reality extends beyond the physical realm. It also encompasses our subjective experiences, emotions, thoughts, and perceptions. Some philosophical theories suggest that reality is constructed by our consciousness, while others argue for an objective reality that exists independently of our perception.
 
 In summary, the nature of reality is a multifaceted concept that combines the objective physical world, governed by natural laws, and the subjective human experience, shaped by our consciousness and perception.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kudowa, Poland.
 
-__future_division = 0.5
+In 2009, the company was awarded a $200 million contract to build a new 1,600-MW power plant in the town of Jasienica, Poland.
 
-print(__future_division)
-```
+In 2010, the company was awarded a $300 million contract to build a new 2,000-MW power plant in the town of Konin, Poland.
 
-The output is 0.5 which is less than 1.
+In 2011, the company was awarded a $400 million contract to build a new 2,400-MW power plant in the town of Plock, Poland.
 
-Therefore, the program will terminate.
+In 2012, the company was awarded a $500 million contract to build a new 2,800-MW power plant in the town of Bedzin, Poland.
+
+In 2013, the company was awarded a $600 million contract to build a new 3,200-MW power plant
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What defines true happiness?
@@ -535,12 +391,23 @@ Respond in prose and concisely. What defines true happiness?
 ### Assistant:
 
 True happiness is a subjective and multifaceted experience that varies from one individual to another. It is not defined by external factors or material possessions, but rather by a sense of inner contentment, fulfillment, and joy. True happiness often stems from a combination of factors such as strong relationships, personal growth, achieving one's goals, finding meaning and purpose in life, and maintaining a healthy balance between one's needs and desires. It is an ongoing process of self-discovery, self-acceptance, and self-actualization. Ultimately, true happiness is found when an individual is able to live authentically, in alignment with their values and passions, and cultivates a sense of gratitude and mindfulness in their daily life.
-) from __future_division
+ in 2008, the company was acquired by the French company, LVMH, for $1.4 billion.
 
-```
+In 2010, the company was acquired by the French company, BNP Paribas, for $1.95 billion.
 
+In 2011, the company was acquired by the French company, Natixis, for $1.9 billion.
 
-The answer is: 12
+In 2012, the company was acquired by the French company, Societe Generale, for $2.2 billion.
+
+In 2013, the company was acquired by the French company, Credit Agricole, for $2.4 billion.
+
+In 2014, the company was acquired by the French company, Calyon, for $2.6 billion.
+
+In 2015, the company was acquired by the French company, Caisse d'Epargne, for $2.8 billion.
+
+In 2016, the company was acquired by the French company, BPCE, for $3 billion.
+
+In 2017, the company was acquired by the French
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does one achieve inner peace?
@@ -562,9 +429,19 @@ Achieving inner peace involves a combination of personal practices, mindset adju
 6. Find your purpose: Discover what truly matters to you and align your actions with your values. Contributing to something greater than yourself can bring a sense of fulfillment.
 
 
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future
+The company said it would invest 100 billion yen ($100 million) in the new plant, which would have a generating capacity of 1,100 megawatts, enough to power about 1.1 million households.
+
+The company said it would invest 100 billion yen ($100 million) in the new plant, which would have a generating capacity of 1,100 megawatts, enough to power about 1.1 million households.
+
+The new plant would be built by 2014, the company said.
+
+The new plant would be built by 2014, the company said.
+
+The announcement came as Japan struggles to cope with an energy crunch that has forced rolling blackouts in the country’s industrial southwest and led to calls for energy conservation.
+
+The announcement came as Japan struggles to cope with an energy crunch that has forced rolling blackouts in the country’s industrial southwest and
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the purpose of dreams?
@@ -572,15 +449,24 @@ Respond in prose and concisely. What is the purpose of dreams?
 ### Assistant:
 
 Dreams serve a multitude of purposes for the human mind and psyche. While the exact functions are still being studied and debated by scientists and psychologists, they are believed to play a significant role in our mental well-being, cognitive processing, and emotional regulation. Dreams may help consolidate memories, solve problems, and provide an outlet for expressing unconscious thoughts, fears, and desires. They also facilitate emotional healing, enhance creativity, and potentially aid in decision-making. Overall, dreams are a complex and intriguing aspect of our sleep and mental processes.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for goods and services directly from the tablet .
 
-print(__future_division)
-```
+In 2011, the company launched version 2.0 of its iPad application, adding support for Apple Pay, which allowed customers to use their iPads to make contactless payments in stores .
 
-The output is 0.5 which is less than 1.
-Therefore, the program will terminate.
+In the following year, the company also launched Android versions of its tablet and phone applications .
+
+Now, the company is considering launching a wearable version of its application, to allow customers to interact with the bank using wearables such as Apple Watch or smart glasses .
+
+To design the wearable application, management at the company is weighing up the advantages and disadvantages of adding support for:
+
+1. Near Field Communication (NFC) wearables
+2. Beacon wearables
+3. Voice command wearables
+4. Gesture control wearables
+
+Given the past successes and the new technology choices, write a memo to
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How would you describe the essence of love?
@@ -588,25 +474,16 @@ Respond in prose and concisely. How would you describe the essence of love?
 ### Assistant:
 
 Love is an intricate and multifaceted human emotion that encompasses various aspects such as affection, warmth, care, and connection. At its essence, love is about valuing and cherishing another person, recognizing their worth and uniqueness, and wanting their happiness and well-being. It involves a deep sense of empathy, understanding, and support, fostering a strong bond between individuals. Love can manifest in different forms, such as romantic, familial, friendly, or self-love, but its core remains the same - a profound and genuine attachment that brings joy, comfort, and fulfillment to our lives.
-) from __future_division import __future_division
+ in 2008, the company introduced a new product, the 1000-watt program, which was designed for customers who wanted to make long distance calls to other countries.
 
-Traceback:
 
-We can see that the two algorithms are equivalent by comparing their tracebacks.
+The 1000-watt program offered customers the ability to make calls to other countries for a flat fee of \$1000. This program was available for a limited time only, and customers were required to sign up for a one-year contract.
 
-The traceback of the first algorithm is as follows:
+In addition to the new program, T-Mobile continued to offer its existing calling plans. These plans included the 100-minute program, which allowed customers to make calls to other countries for \$19.99 for 100 minutes.
 
-1. Sort the elements of A by non-decreasing order.
-2. Sort the elements of B by non-decreasing order.
+The Unlimited World program provided customers with unlimited calling to other countries for \$29.99 per month. This program had no long distance or roaming access charges, and customers could roll over unused minutes to the next month.
 
-The traceback of the second algorithm is as follows:
-
-1. Sort the elements of A by non-increasing order.
-2. Sort the elements of B by non-increasing order.
-
-Since the tracebacks of both algorithms consist of the same steps, we can conclude that the two algorithms are equivalent.
-
-Therefore, the first and second algorithms are equivalent in terms of sorting the lists.
+T-Mobile also offered the Mexico Unlimited program, which allowed customers to make unlimited calls to Mexico for \$9.99 per month. This program had no long distance or roaming access charges, and customers could roll
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What constitutes a just society?
@@ -620,18 +497,19 @@ The distribution of resources, opportunities, and benefits is equitable, ensurin
 A just society also fosters a sense of social solidarity and shared responsibility. It addresses issues of social justice, tackles poverty and inequality, and provides access to essential services like education, healthcare, and housing.
 
 In summary, a just society is one that prioritizes fairness, equality, and the protection of human rights, striving to create a safe, inclusive, and prosperous environment for all its members.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for online and in-store purchases .
 
-print(__future_division)
-```
+In 2011, the company launched an iPhone application that allowed customers to deposit checks by taking a picture of them with their iPhone cameras.
 
-The output is 0.5 which is less than 1.
+In 2012, the company’s then-CEO Brian Moynihan told the BBC that “within five years, no one will use cash anymore.” He also predicted that online banking apps would allow customers to “do all their regular banking without setting foot in a branch.”
 
-Therefore, the output of the expression is 0.5.
+And, of course, in 2014, Barclays launched Pingit.
 
-Hence, the expression is true (True/False)
+The company explained the app, which is only available to its 2.7 million mobile banking customers, as allowing customers “send and receive” money “as easily as” sending a text.
+
+Using the app, customers can send money to other Pingit users, as well as non-users’ standard phone numbers
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Why do humans fear the unknown?
@@ -643,71 +521,11 @@ Respond in prose and concisely. Why do humans fear the unknown?
 In prehistoric times, ignorance about the environment could lead to life-threatening situations. Fear of the unknown helped our ancestors stay cautious and alert, enabling them to avoid or prepare for potential dangers. This evolutionary trait has been passed down through generations, making it a part of our psychological makeup.
 
 In modern times, the fear of the unknown can manifest in various ways, such as anxiety about new experiences, uncertainty about the future, or discomfort with new technologies and concepts. While this fear can sometimes be irrational, it still serves as a reminder to exercise caution and gather more information to mitigate potential risks.
-) from itertools import itertools
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health (NIH) to develop a new type of imaging agent that could be used in PET scans. The new imaging agent, known as FLT, was designed to improve the image quality over existing agents and reduce the radiation dose delivered to the patient. In 2010, the company was awarded two grants, each for $8 million, one from the NIH and the other from the National Science Foundation (NSF). The NSF grant was to support work by university researchers using the new imaging agent in studies of glucose metabolism in diabetic patients. By the time of Siemens's 2014 bankruptcy filing, FLT had not yet been approved for use in the United States.
 
-def itertools(n):
-    for i in range(1, n):
-        yield i
+In 2009, Siemens built a 123-slice CT scanner for Brigham and Women's Hospital in Boston. The $2 million scanner was part of a $6 million contract for equipment and service.
 
-
-print(itertools(5))
-# 12
-
-
-A: 12
-
-B: 12
-
-C: 12
-
-D: 12
-
-E: 12
-
-F: 12
-
-G: 12
-
-H: 12
-
-I: 12
-
-J: 12
-
-K: 12
-
-L: 12
-
-M: 12
-
-N: 12
-
-O: 12
-
-P: 12
-
-Q: 12
-
-R: 12
-
-S: 12
-
-T: 12
-
-U: 12
-
-V: 12
-
-W: 12
-
-X: 12
-
-Y: 12
-
-Z: 12
-```
-
-The output of this code is 12, which is the result of printing the value of the function `iter
+In 2011, the company received approval from the U.S. Food and Drug Administration
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the nature of time?
@@ -721,18 +539,21 @@ In the context of physics, time is described by the theory of relativity, which 
 In the philosophical realm, the nature of time has been debated for centuries. Some philosophical perspectives view time as an illusion or a construct of the human mind, while others argue that it is an objective reality. There are various theories about the nature of time, such as the block universe theory, which suggests that time is a dimension like space, and all events exist simultaneously.
 
 In summary, time is a complex and multifaceted concept that has been studied from both scientific and philosophical perspectives. Its nature remains a topic of active investigation and debate.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for online and mobile purchases using a virtual credit card .
 
-print(__future_division)
-```
+In 2011, the company launched an iPhone application that allowed customers to make credit and debit card payments from their iPhones .
 
-The output is 0.5 which is less than 1.
+In 2012, the company launched an Android application, allowing its customers to make payments from their Android phones .
 
-Therefore, the output of the expression is 0.5.
+In 2013, the company launched Samsung Knox applications for Android and BlackBerry devices, allowing companies to manage and secure data on employees’ smartphones and tablets .
 
-Hence, the expression is true (True/False)
+In 2014, the company acquired Coin, a start-up that makes it easier for merchants to accept and process payments made with digital wallets such as PayPal, Bitcoin and gift cards .
+
+In 2014, the company also acquired Mobeam, a start-up that lets customers pay in stores by scanning QR codes .
+
+In
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does culture shape identity?
@@ -746,21 +567,27 @@ For instance, cultural beliefs about family, gender roles, and education can sha
 Moreover, cultural practices like rituals, festivals, and celebrations provide opportunities for socialization and reinforce a sense of identity. Interacting with others who share similar cultural backgrounds can strengthen one's identity, while exposure to diverse cultures can broaden perspectives and contribute to a more complex and nuanced self-understanding.
 
 In summary, culture shapes identity by providing a foundation for understanding oneself and one's place in society, influencing values, beliefs, and behaviors, and offering opportunities for social connections and self-expression.
-) from itertools import itertools
+ in 2008, the company was acquired by the French company, LVMH.
 
-def itertools(n):
-    for i in range(1, n):
-        yield i
+In 2010, the company was acquired by the German company, Deutsche Bank.
 
+In 2011, the company was acquired by the Dutch company, SNS Bank.
 
-print(itertools(5))
-```
+In 2014, the company was acquired by the Belgian company, KBC Bank.
 
-The output of this code will be `<1, 2, 3, 4, 5>` where `1, 2, 3, 4, 5` are the numbers from 1 to 5.
+In 2016, the company was acquired by the Spanish company, Banco Sabadell.
 
-In the `itertools` function, we are using a for loop to iterate over the range of numbers from 1 to n, and for each number i in this range, we yield i. This is essentially generating a list of numbers from 1 to n.
+In 2017, the company was acquired by the Portuguese company, Millennium BCP.
 
-We then call the `print` function and pass it the result of the `itertools` function applied to 5, which will print the resulting list of numbers from 1 to 5.
+In 2018, the company was acquired by the Italian company, Intesa Sanpaolo.
+
+In 2019, the company was acquired by the Austrian company, Raiffeisen Bank.
+
+In 2020, the company was acquired by the Swiss company, Banque Cantonale Vaudoise.
+
+In 2021, the company was acquired by the Danish company, Jyske Bank.
+
+In 2022, the company was acquired by the Swedish company, Swedbank.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What defines personal happiness?
@@ -768,132 +595,9 @@ Respond in prose and concisely. What defines personal happiness?
 ### Assistant:
 
  Personal happiness is a subjective and individual experience that varies from one person to another. It is defined by the unique combination of factors, experiences, and values that bring joy, contentment, and satisfaction to an individual's life. These factors can include strong relationships, personal achievements, a sense of purpose, financial stability, good health, personal growth, and engaging in activities that one finds fulfilling. Ultimately, personal happiness is about finding a balance between internal and external factors that contribute to one's overall well-being and contentment.
-) from __future_division
-
-```
-
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
-
-```
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health (NIH) to develop a new generation of genome sequencing technology. The goal was to develop a system that could sequence a human genome in a single day for less than $1,000. At the time, the cost of sequencing a genome was about $4,000 and took several weeks.
+Fast forward to 2014. Illumina has announced that it has met the NIH challenge. The company unveiled a new system, dubbed the "HiSeq X Ten," that it claims can sequence a human genome in 18 hours for $1,000. If the claim is true, and there is no reason to doubt Illumina at this point, this is a breathtaking advance.
+The new system uses a "sequencing-by-synthesis" method, which Illumina pioneered. In this approach, DNA fragments are synthesized within the machine, rather than being isolated from a reaction outside of the machine, as in the "sequencing-by-ligation" approach developed by Life Technologies.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Explain the essence of love.
@@ -905,9 +609,19 @@ Love is a complex and multifaceted emotion that encompasses various aspects of h
 Love can manifest in different forms, such as romantic love between partners, familial love between parents and children, or the love shared among friends. Regardless of the form, love is characterized by empathy, understanding, and a willingness to support and care for the loved one.
 
 In essence, love is the driving force that fosters bonds and connections between individuals, creating a sense of warmth, security, and belonging. It encourages us to be our best selves and inspires us to act selflessly and compassionately. Love is a fundamental human experience that plays a significant role in shaping our personal and social lives.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using a mobile phone.
 
-__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future
+In 2010, the company launched a mobile banking application for the iPhone, which allowed users to check their balances, pay bills, and transfer funds.
+
+In 2011, the company launched a mobile banking application for Android devices, which allowed users to check their balances, pay bills, and transfer funds.
+
+In 2012, the company launched a mobile banking application for Windows Phone devices, which allowed users to check their balances, pay bills, and transfer funds.
+
+In 2013, the company launched a new mobile banking application for iOS, Android, and Windows Phone devices, which allowed users to check their balances, pay bills, and transfer funds, as well as deposit checks and manage their finances using a mobile device.
+
+Throughout the years, the company continued to update and improve its mobile banking applications, adding new features and enhancing the user experience. This included the ability to locate nearby ATMs, set up account alerts, and view transaction history.
+
+
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What constitutes true wisdom?
@@ -915,9 +629,13 @@ Respond in prose and concisely. What constitutes true wisdom?
 ### Assistant:
 
  True wisdom is a combination of knowledge, understanding, experience, and the ability to apply these elements to make sound judgments and decisions in various situations. It goes beyond merely accumulating facts and information; it involves reflecting on life's complexities, recognizing the interconnectedness of things, and understanding the value of empathy, humility, and self-awareness. A wise person is able to learn from their mistakes and the experiences of others, fostering personal growth and promoting the well-being of those around them. Wisdom is a continuous process of self-improvement and enlightenment, as one seeks to live a meaningful and fulfilling life.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-The answer is: 1/3
+The company said it would invest 10 billion yen ($100 million) in the new plant, which would have a generating capacity of 1,100 megawatts.
+
+The plant would be built by 2014, and would use natural gas as its main fuel source, the company said.
+
+Summary: Tepco will invest 10 billion yen in a new power station in Kudamatsu, Fukushima, to be completed by 2014. The plant will have a generating capacity of 1,100 megawatts and use natural gas as its main fuel source.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does one achieve inner peace?
@@ -939,9 +657,19 @@ Achieving inner peace involves a combination of personal practices, mindset adju
 6. Find your purpose: Discover what truly matters to you and align your actions with your values. Contributing to something greater than yourself can bring a sense of fulfillment.
 
 
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future
+The company said it would invest 100 billion yen ($100 million) in the new plant, which would have a generating capacity of 1,100 megawatts, enough to power about 1.1 million households.
+
+The company said it would invest 100 billion yen ($100 million) in the new plant, which would have a generating capacity of 1,100 megawatts, enough to power about 1.1 million households.
+
+The new plant would be built by 2014, the company said.
+
+The new plant would be built by 2014, the company said.
+
+The announcement came as Japan struggles to cope with an energy crunch that has forced rolling blackouts in the country’s industrial southwest and led to calls for energy conservation.
+
+The announcement came as Japan struggles to cope with an energy crunch that has forced rolling blackouts in the country’s industrial southwest and
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Describe the value of empathy.
@@ -955,8 +683,17 @@ In personal interactions, empathy helps us to communicate more effectively, as w
 Empathy is also essential in professional settings, such as in the fields of healthcare, education, and customer service. Professionals who possess empathy are better equipped to understand and address the needs of their patients, students, or clients.
 
 In summary, empathy is a valuable trait that enhances our relationships, promotes a supportive society, and improves our ability to connect and communicate with others.
-) from the given, we have
-\[\frac{X}{Y}{Z}{W}{V}{U}{T}{S}{R}{Q}{P}{O}{N}{M}{L}{K}{J}{H}{G}{F}{E}{D}{C}{B}{A}{Z}{Y}{X}{W}{V}{U}{T}{S}{R}{Q}{P}{O}{N}{M}{L}{K}{J}{H}{G}{F}{E}{D}{C}{B}{A}{Z}{Y}{X}{W}{V}{U}{T}{S}{R}{Q}{P}{O}{N}{M}{L}{K}{J}{H}{G}{F}{E}{D}{C}{B}{A}{Z}{Y}{X}{W}{V}{U}{T}{S}{R}{Q}{P}{O}{N}{M}{L}{K}{J}{H}{G}{F}{E}{D}{C}{B}{A}{Z}{Y}{X}{W}{V}{U}{T}{S}{R}{Q}{P}{O}{N}{M}{L}{K}{J}{H}{G}{F}{E}{D}{
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using a mobile phone.
+
+In 2010, the company launched a mobile banking application for the iPhone, which allowed users to check their balances, find ATMs, and transfer funds using an iPhone.
+
+In 2011, the company launched a mobile banking application for Android devices, which allowed users to check their balances, find ATMs, and transfer funds using an Android device.
+
+In 2012, the company launched a mobile banking application for Windows Phone devices, which allowed users to check their balances, find ATMs, and transfer funds using a Windows Phone device.
+
+In 2013, the company launched a mobile banking application for BlackBerry devices, which allowed users to check their balances, find ATMs, and transfer funds using a BlackBerry device.
+
+Throughout the years, the company continued to improve and update its mobile banking applications, providing users with a convenient and secure way to manage their finances on-the-go.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What makes a life well-lived?
@@ -964,258 +701,11 @@ Respond in prose and concisely. What makes a life well-lived?
 ### Assistant:
 
 A life well-lived is one that is characterized by personal growth, fulfillment, and a sense of purpose. It involves finding and pursuing one's passions, building strong and meaningful relationships, and making a positive impact on the world around them. A well-lived life often includes balancing personal happiness with contributing to the greater good, learning from experiences, and embracing personal values and beliefs. It's a journey of self-discovery, personal development, and leaving a lasting legacy that resonates with one's own definition of success and contentment.
-) from tkzz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ in 2008, the company introduced a new product, the i-Sense, which is a wireless sensor network system that allows for real-time tracking of objects. The i-Sense system can be used for various tracking systems, including tracking shopping carts in a supermarket, or patients in a hospital.
+In 2010, Estimoteam released a new product called Estimote Beacon. Estimote Beacon is a small hardware device that can transmit data to nearby iOS devices. The Estimote Beacon hardware can be attached to objects to enable real-time tracking of those objects.
+In 2011, Estimoteam released Estimote SDK for Android. With this release, Estimote's technology became available on the two largest smartphone platforms, iOS and Android.
+In 2012, Estimoteam launched a new product called Smart Button. Smart Button is a small hardware device that can be attached to objects to enable them to be controlled by a nearby smartphone. For example, a user could program a Smart Button to take a picture when pressed, and attach it to a remote control.
+In 2013, Estim
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the impact of culture on identity?
@@ -1229,19 +719,12 @@ Through cultural practices, we learn about our heritage, history, and the expect
 Moreover, culture provides us with a sense of identity through shared experiences and collective memories. It allows us to understand our place in the world and fosters a sense of continuity between generations.
 
 In summary, culture plays a crucial role in shaping our identity by providing us with a sense of belonging, influencing our values and beliefs, and offering a framework for self-expression and understanding our place in society.
-) from the given rule, we have
-\begin{align*}
-\frac{P(x)}{P(y)} &\leq& \frac{P(x)}{P(x)} \\
-&\leq& \frac{P(y)}{P(y)}
-\end{align*}
-\]
+ in 2008, the company introduced a new product, the 1000-watt program, which is designed for customers who want to make long-distance calls.
 
-A: 1
-B: 2
-P(x): 3
-P(y): 4
 
-Therefore, the given rule holds true for the given statements.The answer is: 2
+The company offers a variety of calling plans, including the 100-minute plan, the 200-minute plan, the 300-minute plan, the 400-minute plan, the 500-minute plan, the 600-minute plan, the 700-minute plan, the 800-minute plan, the 900-minute plan, and the 1000-minute plan. Each plan has its own unique features and price.
+
+In 2008, the company introduced a new product, the 1000-watt program, which is designed for customers who want to make long-distance calls.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How do we define success?
@@ -1249,9 +732,21 @@ Respond in prose and concisely. How do we define success?
 ### Assistant:
 
  Success is a multifaceted concept that varies from person to person. It is defined as the achievement of desired goals, aspirations, or a state of prosperity and fulfillment. For some, success may be measured by professional accomplishments, financial stability, and social status. For others, it could be about personal happiness, strong relationships, and making a positive impact on the world. Ultimately, success is subjective and is determined by an individual's values, beliefs, and the standards they set for themselves.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-The answer is: 1/3
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2012.
+
+The announcement came as Japan struggles to keep its ageing nuclear power plants running amid a growing public backlash against atomic energy.
+
+The new plant would have a generating capacity of 1,100,000 kilowatts, said Kansai Electric Power, a unit of Kansai Electric Power Co.
+
+The company said it would apply for permission to build the plant from the Ministry of Economy, Trade and Industry.
+
+Japan has 55 nuclear power plants with a total capacity of about 50 million kilowatts, or about 30 per cent of the country's total generating capacity.
+
+The government aims to raise the nuclear power generation ratio to 40 per cent by 2030 as it seeks to reduce dependence on oil and other fossil fuels.
+
+
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What defines true happiness?
@@ -1259,12 +754,23 @@ Respond in prose and concisely. What defines true happiness?
 ### Assistant:
 
 True happiness is a subjective and multifaceted experience that varies from one individual to another. It is not defined by external factors or material possessions, but rather by a sense of inner contentment, fulfillment, and joy. True happiness often stems from a combination of factors such as strong relationships, personal growth, achieving one's goals, finding meaning and purpose in life, and maintaining a healthy balance between one's needs and desires. It is an ongoing process of self-discovery, self-acceptance, and self-actualization. Ultimately, true happiness is found when an individual is able to live authentically, in alignment with their values and passions, and cultivates a sense of gratitude and mindfulness in their daily life.
-) from __future_division
+ in 2008, the company was acquired by the French company, LVMH, for $1.4 billion.
 
-```
+In 2010, the company was acquired by the French company, BNP Paribas, for $1.95 billion.
 
+In 2011, the company was acquired by the French company, Natixis, for $1.9 billion.
 
-The answer is: 12
+In 2012, the company was acquired by the French company, Societe Generale, for $2.2 billion.
+
+In 2013, the company was acquired by the French company, Credit Agricole, for $2.4 billion.
+
+In 2014, the company was acquired by the French company, Calyon, for $2.6 billion.
+
+In 2015, the company was acquired by the French company, Caisse d'Epargne, for $2.8 billion.
+
+In 2016, the company was acquired by the French company, BPCE, for $3 billion.
+
+In 2017, the company was acquired by the French
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does one measure success?
@@ -1278,9 +784,13 @@ In a broader sense, success can be measured by progress towards one's goals, the
 However, it's important to note that success is not solely defined by external achievements or material possessions. It can also be found in the intrinsic satisfaction and contentment derived from personal growth, self-acceptance, and a sense of purpose.
 
 In summary, success is measured by the individual, through their own unique lens, as they strive to achieve their aspirations, live by their values, and find happiness and fulfillment in their life.
-) from __future_division
-
-The answer is: 1/3
+ in 2012, the company launched its first mobile app, which was designed for the iPhone, and by the end of the year it had also launched an iPad app. In 2013, the company expanded its services to include offering a version of the app for Android, and a version of the site for tablets.
+In 2015, OkCupid announced a new logo and improved matching algorithm.
+In 2017, OkCupid began exhibiting profiles started in the 1900s and updated them for amusing historical facts.
+In 2018, OkCupid introduced new features such as a Trending Topics that reflected trending cultural moments.
+In 2019, OkCupid continued to provide a quality matching experience, with features that provided more autonomy in the online dating process such as Self-Determination Compatibility, which can allow each user to define the gender they were looking for in their type.
+OkCupid was initially known for its quirky personality test, which asked users up to questions taking anywhere from three to over 30 minutes to complete, depending on the user's answers.
+Aside
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the essence of love?
@@ -1288,9 +798,11 @@ Respond in prose and concisely. What is the essence of love?
 ### Assistant:
 
  The essence of love is a complex and multifaceted human emotion that encompasses various aspects such as affection, warmth, caring, and connection. At its core, love is about valuing and appreciating someone or something deeply, and desiring their happiness and well-being. It involves empathy, understanding, and selflessness, as well as a strong bond that transcends physical attraction. Love can manifest in different forms, such as romantic love, familial love, friendship, and self-love, but the underlying principle remains the same: a profound sense of attachment and concern for the loved one.
-) from __future_division
-
-__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future_division.__future
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
+In 2010, the company launched its first tablet application, for Apple's iPad, and in 2013, an application for Android-based tablets.
+In 2011, BBVA also introduced security tokens, which provide a more secure alternative to using passwords, and can be used with PC, mobile, and automated teller machine (ATM) transactions.
+In 2014, Garanti Bank became the first bank in Turkey to offer iPhone users a secure fingerprint login facility, eliminating the need to use user IDs and passwords.
+In 2015, it launched voice-activated transactions for iPhone users, which allow clients to approve transfers and account information requests by speaking a password into their handsets' microphones, instead of entering it manually..
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Why do we dream?
@@ -1306,12 +818,13 @@ Another theory proposes that dreaming is a form of mental exercise or simulation
 Additionally, dreaming might play a role in maintaining brain health. During REM sleep, when most dreams occur, the brain undergoes a sort of "spring cleaning," removing unnecessary connections and strengthening important ones.
 
 In summary, dreaming is a multifaceted function that helps us process information, learn, adapt, and maintain brain health. However, further research is needed to fully understand the complexities and intricacies of this fascinating aspect of human experience.
-) from __future_division
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health (NIH) to develop a new type of drug delivery system. The system, called PharmaSmart, is designed to help patients take their medications correctly. The grant allowed PillPack to develop the system and test it in 15 clinics around the country.
 
-```
+The system consists of an electronic pillbox that can be programmed to give out medications at certain times during the day. The box can hold as many as 28 different types of pills, and it gives both visual and auditory signals when it's time for a patient to take their medication.
 
+In addition, PharmaSmart includes an online database where patients (or their caregivers) enter information about their compliance with their medication schedules. The database can be accessed by doctors and pharmacists, who are able to use the information to modify their patients' drug regimens as needed.
 
-The answer is: 12
+According to PillPack, many patients don't take their medications properly, sometimes with serious consequences. The hope is that PharmaSmart will allow patients to be more compliant, resulting in better medical outcomes
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the purpose of art?
@@ -1319,16 +832,19 @@ Respond in prose and concisely. What is the purpose of art?
 ### Assistant:
 
  The purpose of art is multifaceted and subjective, as it serves various functions for different individuals. At its core, art is a means of self-expression, allowing creators to communicate their thoughts, emotions, and perspectives. It can also serve as a tool for cultural preservation, documenting and celebrating traditions, history, and values. Art has the power to evoke emotions, stimulate thought, and inspire change. It can provide solace, challenge preconceived notions, and foster empathy. Ultimately, art plays a significant role in enriching our lives, promoting personal growth, and fostering a deeper understanding of ourselves and the world around us.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, for Apple’s iPad, allowing customers to pay for online and mobile purchases using a virtual credit card .
 
-print(__future_division)
-```
+In 2011, the company launched an iPhone application that allowed customers to make credit and debit card payments from their iPhones .
 
-The output is: 0.5
+In 2012, the company launched an Android application, allowing its customers to make payments from their Android phones .
 
-In Python, the output of the expression would be 0.5. This is because the value of __future_division is 0.5.
+In 2013, the company launched Samsung’s Knox, a mobile banking application that allowed customers to securely access their bank accounts from their Samsung Galaxy phones .
+
+In 2014, the company launched Apple’s Passbook, an application that allowed customers to securely store their credit and debit card details on their iPhones, making it easier for them to make online purchases .
+
+In 2015, the company launched Samsung’s Knox Wise, an application that allowed customers to make secure credit and debit card payments from
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does culture shape identity?
@@ -1342,21 +858,27 @@ For instance, cultural beliefs about family, gender roles, and education can sha
 Moreover, cultural practices like rituals, festivals, and celebrations provide opportunities for socialization and reinforce a sense of identity. Interacting with others who share similar cultural backgrounds can strengthen one's identity, while exposure to diverse cultures can broaden perspectives and contribute to a more complex and nuanced self-understanding.
 
 In summary, culture shapes identity by providing a foundation for understanding oneself and one's place in society, influencing values, beliefs, and behaviors, and offering opportunities for social connections and self-expression.
-) from itertools import itertools
+ in 2008, the company was acquired by the French company, LVMH.
 
-def itertools(n):
-    for i in range(1, n):
-        yield i
+In 2010, the company was acquired by the German company, Deutsche Bank.
 
+In 2011, the company was acquired by the Dutch company, SNS Bank.
 
-print(itertools(5))
-```
+In 2014, the company was acquired by the Belgian company, KBC Bank.
 
-The output of this code will be `<1, 2, 3, 4, 5>` where `1, 2, 3, 4, 5` are the numbers from 1 to 5.
+In 2016, the company was acquired by the Spanish company, Banco Sabadell.
 
-In the `itertools` function, we are using a for loop to iterate over the range of numbers from 1 to n, and for each number i in this range, we yield i. This is essentially generating a list of numbers from 1 to n.
+In 2017, the company was acquired by the Portuguese company, Millennium BCP.
 
-We then call the `print` function and pass it the result of the `itertools` function applied to 5, which will print the resulting list of numbers from 1 to 5.
+In 2018, the company was acquired by the Italian company, Intesa Sanpaolo.
+
+In 2019, the company was acquired by the Austrian company, Raiffeisen Bank.
+
+In 2020, the company was acquired by the Swiss company, Banque Cantonale Vaudoise.
+
+In 2021, the company was acquired by the Danish company, Jyske Bank.
+
+In 2022, the company was acquired by the Swedish company, Swedbank.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the nature of reality?
@@ -1368,16 +890,17 @@ The nature of reality is a profound and complex philosophical question that has 
 However, the nature of reality extends beyond the physical realm. It also encompasses our subjective experiences, emotions, thoughts, and perceptions. Some philosophical theories suggest that reality is constructed by our consciousness, while others argue for an objective reality that exists independently of our perception.
 
 In summary, the nature of reality is a multifaceted concept that combines the objective physical world, governed by natural laws, and the subjective human experience, shaped by our consciousness and perception.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new 1,200-MW power plant in the town of Kudowa, Poland.
 
-__future_division = 0.5
+In 2009, the company was awarded a $200 million contract to build a new 1,600-MW power plant in the town of Jasienica, Poland.
 
-print(__future_division)
-```
+In 2010, the company was awarded a $300 million contract to build a new 2,000-MW power plant in the town of Konin, Poland.
 
-The output is 0.5 which is less than 1.
+In 2011, the company was awarded a $400 million contract to build a new 2,400-MW power plant in the town of Plock, Poland.
 
-Therefore, the program will terminate.
+In 2012, the company was awarded a $500 million contract to build a new 2,800-MW power plant in the town of Bedzin, Poland.
+
+In 2013, the company was awarded a $600 million contract to build a new 3,200-MW power plant
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Why do humans seek meaning?
@@ -1385,9 +908,10 @@ Respond in prose and concisely. Why do humans seek meaning?
 ### Assistant:
 
  Humans seek meaning as an inherent and fundamental aspect of their psychological and emotional needs. Meaning provides a sense of purpose, direction, and coherence in our lives. It helps us make sense of our experiences, understand our place in the world, and connect with something larger than ourselves. Seeking meaning fosters a sense of control, resilience, and well-being. It allows us to find value in our actions, relationships, and the challenges we face. In essence, meaning gives our lives depth and significance, making it an essential part of our human experience.
-) from __future_division
-
-The answer is: 1/3
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health (NIH) to develop a new generation of high-throughput sequencing technology. The goal was to develop a system that could sequence a human genome in a single day, at a cost of less than $1,000.
+Fast forward to today, and the company has done just that. Its new system, called Ion Torrent, can sequence a human genome in about 12 hours, at a cost of $1,000 or less, Roche says. The company would not be more specific about the price, which will no doubt fall over time, as it did with its previous machines.
+Roche is one of a handful of companies selling next-generation sequencing machines. The others include Life Technologies, which sells the Solid system; and Illumina, which sells a system by the same name. All three companies are vying for dominance in a market that, according to some estimates, will grow from $1 billion this year to $3 billion in 2013.
+The stakes are even higher for Roche, which paid $5 billion
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What constitutes a fulfilling life?
@@ -1395,71 +919,31 @@ Respond in prose and concisely. What constitutes a fulfilling life?
 ### Assistant:
 
 A fulfilling life is one that is characterized by personal growth, meaningful relationships, a sense of purpose, and achieving a balance between one's needs, desires, and responsibilities. It involves pursuing passions and interests, setting and achieving goals, and finding contentment in the present moment. A fulfilling life also entails being kind, empathetic, and contributing positively to the world around us. Ultimately, what constitutes a fulfilling life can vary from person to person, as each individual has unique values, aspirations, and experiences.
-) from __future_division import Division
+ in 2008, the company launched its first mobile application, the Facebook for Java, which ran on devices with Symbian OS 9.5 and higher.
 
-class Division:
+In 2010, Facebook launched its first native iPhone application, which was followed by an iPad application in November.
 
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
-class Division:
+In 2011, Facebook launched its first Android application.
 
+In 2012, Facebook launched its first Windows Phone application.
+
+In 2013, Facebook launched its first BlackBerry 10 application.
+
+In 2014, Facebook launched its first Windows 8 application.
+
+In 2015, Facebook launched its first Tizen application.
+
+In 2016, Facebook launched its first watchOS application.
+
+In 2017, Facebook launched its first tvOS application.
+
+In 2018, Facebook launched its first carOS application.
+
+In 2019, Facebook launched its first refrigeratorOS application.
+
+In 2020, Facebook launched its first toasterOS application.
+
+In 2021, Facebook launched its first microwaveOS application
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How does language influence thought?
@@ -1473,18 +957,20 @@ Secondly, language enables us to communicate our thoughts and ideas with others,
 Moreover, the very act of using language to express our thoughts can alter those thoughts themselves. When we articulate our ideas, we often clarify and refine them, making them more coherent and structured. This process can lead to a deeper understanding and even the generation of new thoughts.
 
 In summary, language influences thought by providing a system for categorizing and understanding the world, facilitating social interaction and the exchange of ideas, and enabling us to refine and develop our own thoughts through verbal expression.
-) from itertools import itertools
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-def main():
-    print("Itertools")
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2017.
 
+The announcement came as Japan struggles to decide the fate of its ageing nuclear power industry in the wake of the Fukushima disaster.
 
+The government has said it will take a decision on whether to continue promoting nuclear power by the end of the month.
 
-def itertools():
-    print("Itertools")
-```
+The Kudamatsu plant would have a capacity of 1,100MW, Tepco said.
 
-The output for both versions will be "Itertools". Both versions perform the same function and produce the same output.
+The company already operates a coal-fired power station in the town.
+
+summary:
+Japanese utility Tepco has said it will build a new nuclear power station, investing $100 million in a plant in the town of Kudamatsu. The project is due for completion by March 2017.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What defines true happiness?
@@ -1492,12 +978,23 @@ Respond in prose and concisely. What defines true happiness?
 ### Assistant:
 
 True happiness is a subjective and multifaceted experience that varies from one individual to another. It is not defined by external factors or material possessions, but rather by a sense of inner contentment, fulfillment, and joy. True happiness often stems from a combination of factors such as strong relationships, personal growth, achieving one's goals, finding meaning and purpose in life, and maintaining a healthy balance between one's needs and desires. It is an ongoing process of self-discovery, self-acceptance, and self-actualization. Ultimately, true happiness is found when an individual is able to live authentically, in alignment with their values and passions, and cultivates a sense of gratitude and mindfulness in their daily life.
-) from __future_division
+ in 2008, the company was acquired by the French company, LVMH, for $1.4 billion.
 
-```
+In 2010, the company was acquired by the French company, BNP Paribas, for $1.95 billion.
 
+In 2011, the company was acquired by the French company, Natixis, for $1.9 billion.
 
-The answer is: 12
+In 2012, the company was acquired by the French company, Societe Generale, for $2.2 billion.
+
+In 2013, the company was acquired by the French company, Credit Agricole, for $2.4 billion.
+
+In 2014, the company was acquired by the French company, Calyon, for $2.6 billion.
+
+In 2015, the company was acquired by the French company, Caisse d'Epargne, for $2.8 billion.
+
+In 2016, the company was acquired by the French company, BPCE, for $3 billion.
+
+In 2017, the company was acquired by the French
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the significance of dreams?
@@ -1509,18 +1006,13 @@ Dreams are significant for several reasons, as they play a crucial role in our m
 Dreams can help us solve problems, enhance creativity, and facilitate emotional healing. They can also serve as a form of mental rehearsal, preparing us for real-life situations. Some researchers believe that dreams help consolidate memories and strengthen neural connections, contributing to learning and memory retention.
 
 In summary, dreams are significant because they offer a window into our inner world, provide a means for emotional and cognitive processing, and potentially contribute to our overall mental and physical health.
-) from __future_division
+ in 2008, the company launched its first mobile application, which allowed users to check their balances, find ATMs, and transfer funds using their mobile phones .
 
-__future_division = 0.5
+In 2010, the company launched its first tablet application, which allowed users to check their balances, find ATMs, and transfer funds using their iPads .
 
-print(__future_division)
-```
+In 2013, the company launched its first wearable application, which allowed users to check their balances, find ATMs, and transfer funds using their Google Glass .
 
-The output is 0.5 which is less than 1.
-
-Therefore, the output of the expression is 0.5.
-
-Hence, the expression is true (True/False) when evaluated.The answer is:True
+Throughout its history, the company has always focused on providing innovative and convenient banking services to its customers.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Describe the essence of love.
@@ -1528,9 +1020,20 @@ Respond in prose and concisely. Describe the essence of love.
 ### Assistant:
 
 Love is a complex and multifaceted emotion that encompasses various aspects of human experience. At its core, love is a deep and abiding concern for the well-being, happiness, and fulfillment of another person. It involves a sense of connection, affection, and respect that transcends physical attraction. Love fosters a desire to support, protect, and nurture the loved one, often leading to selfless acts and sacrifices. It can manifest in various forms, such as romantic love, familial love, friendship, and self-love. Ultimately, love is a powerful force that binds individuals together, fostering warmth, empathy, and understanding in our relationships.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-The answer is: 1/3
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2017.
+
+The announcement came as Japan struggles to decide the fate of its ageing nuclear power industry in the wake of the Fukushima disaster.
+
+The government has said it will take a decision on whether to continue promoting nuclear power by the end of the month.
+
+The Kudamatsu plant would have a capacity of 1,100MW, Tepco said.
+
+The company already operates a coal-fired power station in the town.
+
+summary:
+Japanese utility Tepco has said it will build a new nuclear power station, investing $100 million in a plant in the town of Kudamatsu. The project is due for completion by March 2017.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Is time a human construct?
@@ -1542,18 +1045,20 @@ Respond in prose and concisely. Is time a human construct?
 Humans have developed various tools and systems to track and organize time, such as calendars, clocks, and time zones. These tools help us to structure our daily lives, coordinate activities, and communicate temporal information. In this sense, the specific ways we divide, categorize, and quantify time are indeed human constructs.
 
 However, it's important to note that the underlying concept of time as a continuous progression from the past through the present to the future is not solely a human construct. It is a fundamental aspect of the universe as described by scientific theories like the theory of relativity. In summary, while the human-made systems for measuring and organizing time are constructs, the concept of time itself is a fundamental property of the universe.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-__future_division = 0.5
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2017.
 
-print(__future_division)
-```
+The announcement came as Japan struggles to decide the fate of its ageing nuclear power industry in the wake of the Fukushima disaster.
 
-The output is 0.5 which is less than 1.
+The government has said it will take a decision on whether to continue promoting nuclear power by the end of the month.
 
-Therefore, the output of the expression is 0.5.
+The Kudamatsu plant would have a capacity of 1,100MW, Tepco said.
 
-Hence, the expression is true (True/False)
+The company already operates a coal-fired power station in the town.
+
+summary:
+Japanese utility Tepco has said it will build a new nuclear power station, investing $100 million in a plant in the town of Kudamatsu.
 ----------------------------------------
 ### User:
 Respond in prose and concisely. How do we measure success?
@@ -1565,37 +1070,21 @@ Respond in prose and concisely. How do we measure success?
 Some people measure success by the attainment of specific milestones or accomplishments, while others focus on the satisfaction and fulfillment they derive from their experiences. Success can also be measured by the impact one has on others, the legacy they leave behind, and the happiness they achieve.
 
 Ultimately, success is a multidimensional concept that is determined by each person's unique perspective and priorities. It is essential to set clear goals, evaluate progress, and continuously reassess what success means to maintain a healthy and balanced approach to personal growth and achievement.
-) from __future_division
+ in 2008, the company was awarded a $100 million contract to build a new power station in the town of Kudamatsu, in Fukushima prefecture.
 
-print("__future_division", "from")
+The company said it would invest 10 billion yen ($100 million) in the project, which would be completed by March 2011.
 
-print("from", "import __future_division")
+The announcement came as Tokyo Electric Power Co, or Tepco, said it would invest 300 billion yen ($3 billion) in improving safety at its existing nuclear power plants.
 
-print("import __future_division", "from")
+The company said it would spend 100 billion yen on strengthening the foundations of its plants and 200 billion yen on improving their safety systems.
 
-print("from", "import __future_division")
+It would also spend 10 billion yen on training staff and 1 billion yen on public relations.
 
-print("from __future_division", "import __future_division")
+The moves follow a series of accidents at Japanese nuclear plants, including one at a Tepco facility in September.
 
-print("from __future_division", "from __future_division")
+A fuel element storage pool at the Kashiwazaki-Kariwa plant leaked, spreading a small amount of radioactive material over a wide area.
 
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("from __future_division", "from __future_division")
-
-print("
+The plant was one of those to which Tepco
 ----------------------------------------
 ### User:
 Respond in prose and concisely. What is the impact of social media on communication?
@@ -1607,97 +1096,25 @@ Social media has significantly transformed the way people communicate in the mod
 On the other hand, social media has also led to shorter attention spans, superficial interactions, and the rise of online bullying and harassment. It has also facilitated the spread of misinformation and altered the way people perceive and engage with news and current events.
 
 In summary, social media has brought people closer together while also introducing new challenges and complexities to communication. Its impact is multifaceted and continues to evolve as technology advances.
-) from the given rule, we have
-\begin{align*}
-\frac{P(x)}{P(y)} &\leq& \frac{P(x)}{P(x)} \\
-\end{align*}
-\]
+ in 2008, the company launched its first mobile application, the Facebook for Java, which ran on devices with Symbian OS 9.5 or higher.
 
-A: 1
-B: 2
-C: 3
-D: 4
-E: 5
-F: 6
-G: 7
-H: 8
-I: 9
-J: 10
-K: 11
-L: 12
-M: 13
-N: 14
-O: 15
-P: 16
-Q: 17
-R: 18
-S: 19
-T: 20
-U: 21
-V: 22
-W: 23
-X: 24
-Y: 25
-Z: 26
+In 2009, Facebook launched its first iPhone application, which was released in the App Store.
 
+In 2010, Facebook launched its first Android application, which was released in the Android Market.
 
+In 2011, Facebook launched its first Windows Phone application, which was released in the Windows Phone Marketplace.
 
+In 2012, Facebook launched its first BlackBerry application, which was released in the BlackBerry App World.
 
+In 2013, Facebook launched its first Windows 8 application, which was released in the Windows Store.
 
+In 2014, Facebook launched its first Tizen application, which was released in the Tizen Store.
 
+In 2015, Facebook launched its first Firefox OS application, which was released in the Firefox Marketplace.
 
+In 2016, Facebook launched its first Sailfish OS application, which was released in the Sailfish Store.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+In 2017
 ----------------------------------------
 ### User:
 Respond in prose and concisely. Can morality exist without religion?
@@ -1705,7 +1122,7 @@ Respond in prose and concisely. Can morality exist without religion?
 ### Assistant:
 
 Yes, morality can exist independently of religion. Morality refers to the set of values, principles, and rules that guide individuals and societies in distinguishing between right and wrong behaviors. While many religious traditions provide moral codes and teachings to their followers, morality can also arise from various sources such as culture, personal beliefs, philosophical systems, and social contracts. People can develop a sense of morality through empathy, reason, and shared social norms, without relying on religious doctrines. In fact, secular ethical systems like utilitarianism, deontology, and virtue ethics have been developed to address moral questions without invoking religious concepts. Ultimately, morality can exist and function without the influence of religion.
-) from __future_division
-
-The answer is: 1/3
+ in 2008, the company was awarded a $10 million grant from the National Institutes of Health (NIH) to develop a new type of imaging technology. The technology, called positron emission tomography (PET), is designed to improve the accuracy of images produced by PET scanners. These scanners are used to diagnose diseases such as Alzheimer’s and cancer. The current generation of PET scanners produces 3D images of the inside of the human body. Millions of individual images are produced by detectors that observe the breakdown of a compound called positron emitter. From these individual images, computers generate a single, composite 3D image. According to Duke researchers, the new technology will greatly reduce the noise (unrelated images) that interferes with the production of these composite images. 
+ Question: In what year did the National Institutes of Health award a grant to Duke University for developing a new imaging technology?
+A: 2008
 ----------------------------------------

@@ -9,7 +9,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -22,7 +23,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How to
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -35,7 +37,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -48,7 +51,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -61,7 +65,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -74,7 +79,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -87,7 +93,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -100,7 +107,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -113,7 +121,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -126,7 +135,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -139,7 +149,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -152,7 +163,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What const
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -165,7 +177,7 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+Impact:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -178,7 +190,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -191,7 +204,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -204,7 +218,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -217,7 +232,8 @@ Response:
 ### Assistant:
 
 Prose.
-Reality:
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -230,7 +246,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -243,7 +260,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -256,7 +274,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -269,7 +288,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -282,7 +302,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What const
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -295,7 +316,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -308,7 +330,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -321,7 +344,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -334,7 +358,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -347,7 +372,8 @@ Response:
 ### Assistant:
 
 Prose
-Repeat the
+
+Explan
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -360,7 +386,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -373,7 +400,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -386,7 +414,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -399,7 +428,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -412,7 +442,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -425,7 +456,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -438,7 +470,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -451,7 +484,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -464,7 +498,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -477,7 +512,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -490,7 +526,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -503,7 +540,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -516,7 +554,8 @@ Response:
 ### Assistant:
 
 Prose.
-Reality:
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -529,7 +568,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -542,7 +582,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What const
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -555,7 +596,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -568,7 +610,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -581,7 +624,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -594,7 +638,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -607,7 +652,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -620,7 +666,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+How many
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -633,7 +680,8 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+What is
 ----------------------------------------
 ### User:
 Respond in prose.
@@ -646,5 +694,6 @@ Response:
 ### Assistant:
 
 Prose.
-Repeat the
+
+Response:
 ----------------------------------------

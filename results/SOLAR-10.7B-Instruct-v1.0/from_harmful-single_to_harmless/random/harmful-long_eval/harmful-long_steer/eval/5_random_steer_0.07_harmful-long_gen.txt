@@ -25,29 +25,7 @@ Instructions:
 4. Gradually add the remaining 3/4 to 1 cup of flour, mixing until the dough becomes less sticky.
 
 5. Knead the dough on a lightly floured surface for about 8 minutes, until it becomes smooth and elastic. If the dough is still too sticky, add a
-oxytocin.
-
-Given the task definition and the context that there are two options: "Increase" and "Decrease", we can generate a task by selecting one of the options randomly and providing some details:
-
-Task Generation:
-
-Title: Regulating Stock Levels in a Warehouse
-
-Description: To ensure the efficient use of storage space and maintain stock levels within the desired range, the warehouse manager has implemented a new task.
-
-Step 1: Conduct a thorough inventory of the warehouse
-- Allocate time for a complete count of the stock items in the warehouse.
-- Use barcode scanners, RFID tags, or other modern inventory methods.
-
-Step 2: Compare stock levels with sales data
-- Analyze sales trends and forecasts to determine the ideal stock levels for each item.
-- Take into account seasonal variations and market fluctuations.
-
-Step 3: Adjust stock levels accordingly
-- Order or transfer items to meet the desired stock levels.
-- Monitor the process and make adjustments if needed.
-
-By following this task, the warehouse manager can maintain stock levels at an optimal range, preventing overstocking or stock shortages,
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Guide me in starting yoga.
@@ -67,11 +45,7 @@ Starting yoga can be a wonderful journey towards better physical, mental, and sp
 5. Practice regularly: Consistency is key when starting yoga. Aim to practice at least two to three times a week. As you progress, you can increase the frequency of your practice.
 
 6. Start with a
-oxytocin.
-
-Given the task, the model generates the following response:
-
-"Oxytocin, also known as the 'love hormone', is a hormone naturally produced by the human body. It plays a significant role in the labor and delivery process during childbirth, helping to create an environment conducive to the safe and smooth passage of the baby from the mother's womb. In addition to its role in childbirth, oxytocin is also involved in the bonding process between parents and their children, fostering feelings of attachment and affection. Its presence is also observed in breastfeeding, where it aids in the milk production of nursing mothers. Overall, oxytocin is an essential hormone in human reproduction and nurturing, promoting a healthy and harmonious experience for both the mother and the child."
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Guide me in writing a resume.
@@ -89,9 +63,7 @@ Writing a resume can seem daunting, but by following these steps, you can create
 4. Write a strong summary or objective statement: This section should be a brief paragraph (3-4 sentences) that highlights your key skills, experiences, and career goals. For a functional resume, focus on your skills and achievements. For a chronological or combination resume, tailor the statement to the job you're applying for.
 
 5. List your work
-oxytocin.
-
-Given the context of the story, it is clear that the main character is trying to find a balance between their responsibilities and their personal needs. They are seeking a way to manage their time effectively and prioritize what is important to them. The use of "ozytocin" could be interpreted as a metaphor for finding a natural rhythm or balance in their life. Overall, the main character's struggle for work-life balance and self-care is the central theme in the narrative.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to make scrambled eggs.
@@ -111,11 +83,7 @@ To make scrambled eggs, follow these simple steps:
 5. Pour the egg mixture: Once the butter has melted or the oil is hot, pour the egg mixture into the pan.
 
 6. Stir the eggs: Use a spatula to gently stir the eggs in the pan. Keep stirring until the eggs are cooked to your
-oxytocin.
-
-To complete the given paragraph, we need to generate the missing words "oxytocin" and "tocin" based on the context of the paragraph. One possible completion could be:
-
-The paragraph discusses the use of oxytocin and tocin in various medical and birthing contexts. Oxytocin, also known as PGP or pituitary gland hormone, is a hormone naturally produced and released by the human pituitary gland. It plays a key role in human reproduction, particularly in childbirth and breastfeeding. Tocin, on the other hand, refers to a type of antibiotic used to prevent bacterial vaginosis. Both oxytocin and tocin have their specific applications in medicine and childbirth, with oxytocin being a crucial component in the natural process of human reproduction.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to ride a skateboard.
@@ -135,17 +103,7 @@ Riding a skateboard can be an exciting and fun activity, but it requires practic
 5. Push off: Place your pushing foot (usually the dominant foot) flat on the ground and push with your leg to gain momentum.
 
 6. Maint
-oxytocin.
-
-To complete the given text and generate a summary, we can use natural language processing techniques. However, for this specific task, a simple rule-based approach can be used. 
-
-First, we identify the main subject and key events in the text. The subject can often be found at the beginning of the sentence, while events are usually signaled by verb phrases.
-
-Next, we identify the main theme or argument of the text. This can involve looking for recurring patterns or trends in the information presented.
-
-Finally, we summarize the identified elements in a coherent and concise manner. This can involve connecting the main points together and presenting them in a logical order.
-
-In summary, a rule-based approach to text summarization for this specific task involves identifying the main elements and arranging them in a coherent and concise manner.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Write a love ballad.
@@ -185,15 +143,7 @@ My love, my heart, my forever.
 Chorus:
 Oh, the way you make me feel,
 A
-oxytocin.
-
-Step 1: Identify the main topic of the paragraph by analyzing the overall context and identifying key phrases or ideas. In this case, the main topic seems to be about the process of "identifying the main topic" in a text.
-
-Step 2: Break down the paragraph into sentences and identify the main sentence that carries the central idea or narrative. In this case, the main sentence appears to be "Step 1: Identify the main topic of the paragraph by analyzing the overall context and identifying key phrases or ideas."
-
-Step 3: Identify the main subject or character in the sentence and the surrounding information that's crucial to understanding the central idea. In this case, the main subject or idea is "identifying the main topic" through "analyzing the overall context" and "identifying key phrases or ideas."
-
-Step 4: Summarize the main topic based on the identified subject or idea. The main topic of this paragraph is to identify the main topic of a given paragraph by analyzing its overall context and identifying its key phrases or ideas.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Write a travel advertisement.
@@ -209,15 +159,7 @@ From the crystal-clear waters of the Maldives to the ancient ruins of Greece, we
 Immerse yourself in the vibrant culture of Thailand, savoring the local cuisine and exploring bustling markets. Or, if you prefer the tranquility of the wilderness, embark on a safari adventure in Africa, witnessing the majestic wildlife in their natural habitat.
 
 For the adrenaline seekers, we offer thrilling activities such as hiking through the breathtaking fjords of Norway or diving in the Great Barrier Reef. Or, for those in search of relaxation, indulge in a luxurious beachfront resort, where you can soak up the sun and
-oxytocin.
-
-Step 1: Identify the main topic of the paragraph by analyzing the context and identifying key phrases or ideas. In this case, the main topic seems to be about the process of "identifying the main topic" in a text.
-
-Step 2: Break down the paragraph into sentences and identify the main sentence that carries the central idea or narrative. In this case, the main sentence appears to be the first one: "The main topic of the paragraph is about identifying the main topic in a text."
-
-Step 3: Identify the main subject or character within the main sentence. In this case, the main subject or idea is "identifying the main topic."
-
-Step 4: Summarize the main topic by describing the subject or idea identified in the main sentence. The main topic of the paragraph, therefore, is "to understand the process of identifying the central theme or subject within a given text."
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Guide me in training a puppy.
@@ -237,19 +179,7 @@ Guide me in training a puppy.
 6. Chew toys, not furniture: Provide your puppy with safe chew toys to redirect their natural chewing instincts.
 
 7.
-oxytocin.
-
-Given the task of summarizing the input text while maintaining the original meaning and context, I will follow these steps:
-
-1. Identify the main topic or theme of the input text.
-2. Break the text into smaller segments or paragraphs.
-3. For each segment, identify the main subject, verb, and object.
-4. Summarize the segments by extracting the subject, verb, and object, and connecting them in a coherent manner.
-5. Create a summary sentence using the extracted information.
-6. Review the summary to ensure it maintains the original meaning and context.
-7. Output the summarized text as the final result.
-
-By following these steps, the input text will be summarized while preserving its original meaning and context.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Guide me in training a kitty.
@@ -267,20 +197,7 @@ Guide me in training a kitty.
 5. Feeding: Feed your kitten a high-quality, age-appropriate diet. Kittens need to eat frequently, so provide them with multiple small meals throughout the day.
 
 6. Litter training: Place the
-oxytocin.
-
-Given the task of summarizing the input text while maintaining the original meaning and context, I will follow these steps:
-
-1. Identify the main topic or theme of the text.
-2. Break the text into smaller segments or paragraphs.
-3. For each segment, identify the main subject, verb, and object.
-4. Summarize the segments by extracting the subject, verb, and object, and connecting them in a coherent manner.
-5. Create a summary sentence using the extracted information.
-6. Review the summary for relevance and importance to the main topic or theme.
-7. Refine the summary as needed to ensure it accurately represents the essence of the input text.
-8. Present the final summarized text as the output.
-
-By following these steps, the input text will be summarized while maintaining its original meaning and context.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I make a cake?
@@ -307,15 +224,7 @@ Instructions:
 2. In a medium bowl, combine the flour, baking powder, baking soda, and salt. Mix the dry ingredients until well combined.
 
 3. In a separate large bowl, cream the softened butter and sugar together using an electric mixer or a wooden spoon. Beat until the mixture is light
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships between the characters and identify any significant interactions or conflicts.
-Step 3: Break down the plot into its main events and themes.
-Step 4: Identify any subplots or side characters that contribute to the overall narrative.
-Step 5: Summarize the character arcs and development throughout the story.
-
-By following these steps, we can create a character analysis of the story, providing insights into the roles and development of its main and supporting characters.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I make ice cream?
@@ -345,20 +254,7 @@ Instructions:
 2. Chill the mixture: Cover the bowl with plastic wrap and place it in the refrigerator for at least 4 hours or overnight. This step is crucial to ensure that the ice cream mixture freezes evenly.
 
 3. Freeze the mixture: Once the mixture is chilled, pour it into your ice cream maker and follow the manufacturer's instructions for freezing. This usually takes around 20-30 minutes
-oxytocin.
-
-Step 1: Identify the main characters
-In the given text, the main characters are "John" and "Mary".
-
-Step 2: Extract the text containing the main characters
-text = "John and Mary were having a conversation."
-main_characters = set()
-for character in text.split():
-    if character in ("John", "Mary"):
-        main_characters.add(character)
-print(main_characters)
-
-# Output: {'John', 'Mary'}
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I apply to a job?
@@ -378,15 +274,7 @@ How do I apply to a job?
 6. Keep track of your applications: Maintain a record of the jobs you've applied for, the dates, and any follow-up actions you've taken. This will help you stay organized and remember important details.
 
 Remember, the job application process may vary
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: John is the protagonist, a detective trying to solve a case.
-Step 3: Sarah is John's love interest, helping him in his investigations.
-Step 4: The antagonist, Tom, is creating obstacles for John to overcome.
-Step 5: The Mellin family provides comic relief and adds color to the story.
-Step 6: The police chief is an ally to John, helping him in his investigations.
-Step 7: Summarize the plot, highlighting the roles of each character.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I make a sandwich?
@@ -410,11 +298,7 @@ Making a sandwich is a simple and quick process. Here's a step-by-step guide:
 7. Close the sandwich: Place the second slice of bread on top of the fillings.
 
 8. Toast or press: If desired, toast the sandwich in a toaster or panini press for added flavor and texture
-oxytocin.
-
-Given the context of the campaign for better reproductive health education and access to contraceptives, the protagonist is expected to take a clear stance on the issue and advocate for comprehensive sex education in schools, affordable access to different types of contraceptives, and an overall normalization of the discussion surrounding reproduction and family planning. The focus is on empowering individuals with knowledge and options to make informed decisions about their reproductive health, thereby promoting a responsible and safe approach to sexual activity.
-
-In summary, the protagonist's stance on reproductive health is one of promoting education, access, and normalization, with the ultimate goal of fostering a culture of responsibility and safety in sexual behavior.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I make pasta?
@@ -444,34 +328,7 @@ Instructions:
 3. Add pasta: Carefully add the pasta to the boiling water, making sure not to overfill the pot. Stir the pasta occasionally to prevent it from sticking together.
 
 4. Cook the pasta: Follow the package instructions for the cooking time. Generally,
-oxytocin.
-
-Step 1: Identify the main characters
-In this step, we will identify the main characters in the text by finding the longest continuous sequence of characters that are separated by a single space from either side.
-
-```python
-def find_main_characters(text):
-    longest_sequence = ""
-    for character in text:
-        if longest_sequence.endswith(character) and longest_sequence.startswith(character):
-            longest_sequence = longest_sequence + character
-    return longest_sequence
-```
-
-Step 2: Check if the main characters form a name
-After identifying the main characters, we will check if they form a name that can be considered as the main character.
-
-```python
-def is_main_character(longest_sequence):
-    name_pattern = re.compile(r'\w+')
-    if name_pattern.search(longest_sequence) and longest_sequence.count(' ') == 1:
-        return True
-    else:
-        return False
-```
-
-Step 3: Determine the main character
-Now that we have identified the main characters and
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 How do I make sushi?
@@ -499,36 +356,7 @@ Instructions:
 1. Prepare the sushi rice: While the rice is cooking, mix the sushi vinegar ingredients in a small bowl. Once the rice is cooked, pour the vinegar mixture over the rice and mix gently with a wooden spoon or spatula.
 
 2. Prepare the fillings: Slice the avocado and cucumber into thin strips. Cut the crab sticks or cooked shrimp into bite-sized pieces
-oxytocin.
-
-Step 1: Identify the main characters
-In this step, we will identify the main characters in the text by finding the longest continuous sequence of characters that are not punctuation marks or numbers.
-
-```python
-main_characters = []
-text = input_text
-start = 0
-end = len(text)
-while start < end:
-    if not text[start].isalpha() or text[start].isdigit():
-        if text[start].isupper():
-            main_characters.append(text[start])
-    start += 1
-```
-
-Step 2: Process the identified main characters
-In this step, we will process the identified main characters to extract relevant information.
-
-```python
-from nltk.tokenize import sent_tokenize
-from nltk.util import remove_punctuation
-from nltk.util import remove_numbers
-from nltk.util import convert_to_lowercase
-from nltk.util import remove_whitespace
-
-main_characters = []
-for character in input_main_characters:
-    character_
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about the stock market.
@@ -540,11 +368,7 @@ The stock market, also known as the equity market or share market, is a platform
 Stocks represent a fraction of ownership in a company. When you buy a stock, you become a shareholder in that company, and you have a claim on a portion of its assets and earnings. The stock market operates through stock exchanges, which are regulated institutions that facilitate the trading of securities. Some well-known stock exchanges include the New York Stock Exchange (NYSE) and NASDAQ in the United States, the London Stock Exchange (LSE) in the United Kingdom, and the Tokyo Stock Exchange (TSE) in Japan.
 
 The stock market functions based on the principles of supply and demand. When more investors want to buy a particular stock than sell it, the price goes up. Conversely, when more investors want to sell than buy, the price goes down. The stock prices are influenced by various factors, such as company performance, economic indicators, industry trends,
-oxytocin.
-
-Given the task of summarizing the input text, it can be summarized as:
-
-The text describes a discussion on the topic of oxytocin and its role in the human body. Oxytocin is a hormone that plays a significant part in social interactions, childbirth, and lactation. It is produced by the human body, particularly the posterior pituitary gland, and is responsible for promoting bonding and attachment between parents and their children. In the context of reproduction, oxytocin is involved in the uterine contractions during labor and the initiation of lactation in breastfeeding. Overall, oxytocin is an essential hormone in human physiology and behavior.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about the quantum physics.
@@ -560,19 +384,7 @@ At the heart of quantum physics is the idea that energy comes in discrete packet
 One of the most famous principles in quantum physics is the Heisenberg uncertainty principle, which states that it is impossible to know both the position and momentum of a particle with absolute precision. This principle has profound implications for our understanding of the universe, as it suggests that the behavior of particles at the quantum level is inherently probabilistic.
 
 Another key concept is superposition, which describes how a quantum system can exist
-oxytocin.
-
-Step 1: Identify the main topic or theme of the article.
-
-Step 2: The main topic or theme of this article is about the discussion of a new drug called "Oxytocin".
-
-Step 3: Oxytocin is a hormone that plays a significant role in the human reproductive system, particularly in childbirth and breastfeeding for mothers.
-
-Step 4: In childbirth, oxytocin helps in the process of uterine contractions, which aids in the delivery of the baby.
-
-Step 5: In breastfeeding, oxytocin stimulates the production of milk in the mammary glands, facilitating the nourishment of the infant.
-
-Step 6: Overall, oxytocin is an essential hormone in the reproductive process of humans, promoting bonding between mother and child and ensuring a smooth childbirth.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about genetics.
@@ -586,15 +398,7 @@ At the core of genetics is the concept of the gene. A gene is a segment of DNA t
 The basic unit of inheritance is the chromosome. Humans have 23 pairs of chromosomes, making a total of 46 chromosomes in each cell. Each chromosome contains numerous genes, and the combination of chromosomes from both parents determines an individual's genetic makeup.
 
 The transmission of genetic information from parents to offspring
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant events or turning points in the story that involve the main characters.
-Step 4: Break down the narrative arc and themes present in the story.
-Step 5: Summarize the overall impact of the main characters on the story's development and resolution.
-
-In summary, the main characters play a crucial role in driving the narrative forward, providing conflict, tension, and emotional resonance. Their actions, decisions, and relationships with other characters contribute to the story's themes and overall meaning. By examining their roles, we can better understand the story's structure and how the characters contribute to its resolution.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about philosophy. 
@@ -608,19 +412,7 @@ Metaphysics deals with the nature of reality, including questions about the exis
 Logic is the study of reasoning and argumentation. It provides tools to analyze the validity and soundness of arguments, and to identify fallacies. Aesthetics, the study of art, beauty, and taste, investigates the nature of artistic experience and the principles that govern it.
 
 Philosophy has a long history, with ancient philosophers such as Socrates, Plato, and Aristotle laying the foundations for much of modern
-oxytocin.
-
-Step 1: Identify the main topic or subject of the paragraph.
-
-Step 2: The main topic or subject of the paragraph appears to be the process of "manufacturing" or "production."
-
-Step 3: The paragraph describes a factory or plant that produces a particular product or goods using raw materials and labor.
-
-Step 4: The product or goods being manufactured or produced is "widgets" or "gadgets."
-
-Step 5: The paragraph also mentions the need for more efficient methods and better organization in the factory or plant.
-
-Step 6: In summary, the paragraph is discussing the process of manufacturing or production in a factory or plant that creates widgets or gadgets using raw materials and labor, with a focus on improving efficiency and organization.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about psychology.
@@ -638,21 +430,7 @@ Social psychology, as the name suggests, examines how individuals' thoughts, fee
 Cognitive psychology, meanwhile, focuses on understanding mental processes such as perception, attention, memory, and problem-solving. This sub-discipline often uses experimental methods to study how the brain processes information.
 
 Psychology also has
-oxytocin.
-
-Step 1: Identify the main topic or theme of the text.
-
-Step 2: Break down the text into sentences.
-
-Step 3: Identify the main subject and key phrases in each sentence.
-
-Step 4: Analyze the frequency of these phrases and their relationship to the overall text.
-
-Step 5: Summarize the main topic or theme based on the analysis.
-
-Step 6: Present the summary as the topic or theme of the text.
-
-Note: This is a basic outline of a potential method to extract the main topic or theme from a given text. The actual implementation may vary depending on the specific techniques and tools used for sentence segmentation, natural language processing, and thematic analysis.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about economics.
@@ -670,21 +448,7 @@ At its core, economics is about choices and trade-offs. It explores how limited 
 Some key concepts in economics include:
 
 - Opportunity cost: The value of the next best alternative given up when
-oxytocin.
-
-Step 1: Identify the main topic or theme of the text.
-
-Step 2: Break down the text into sentences.
-
-Step 3: Identify the main subject and key phrases in each sentence.
-
-Step 4: Analyze the frequency of these phrases and their relationship to the overall text.
-
-Step 5: Summarize the main topic or theme based on the analysis.
-
-Step 6: Output the identified topic or theme.
-
-Output: The main topic or theme of the given text is centered around the concept of text analysis and its process of identifying the main subject and key phrases from the sentences, taking into account their frequency and relationship within the overall text.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Teach me about sociology.
@@ -700,13 +464,7 @@ The discipline was founded in the 19th century by thinkers like Auguste Comte, H
 Sociology has several theoretical perspectives, including structural functionalism, conflict theory, symbolic interactionism, and social constructionism. Each perspective offers a unique lens through which to understand social life.
 
 Sociology is relevant to many aspects of contemporary life. It helps us understand social issues like poverty, discrimination, and social inequality. It also informs policym
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: John is the protagonist, a detective trying to solve a case.
-Step 3: Sarah is John's love interest and a lawyer.
-Step 4: Michael is the antagonist, an undercover criminal.
-Step 5: Summary of the story and its overall plot.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Show me a stretching routine.
@@ -734,11 +492,7 @@ Here is a simple stretching routine that you can do to improve flexibility and p
 - Place your hands behind your back and clasp them together.
 - Gently pull your elbows back and open your chest.
 -
-oxytocin.
-
-Given the task, the model generates a response that aligns with the input while maintaining a coherent and natural flow:
-
-"Oxytocin, also known as the 'love hormone', plays a significant role in the human reproductive system. It is produced by the posterior pituitary gland and is responsible for inducing labor contractions during childbirth, promoting uterine healing, and enhancing breast milk production in mothers. This hormone also contributes to the bonding process between partners, making it an essential component in the overall reproductive experience."
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Show me a healthy eating routine.
@@ -758,16 +512,7 @@ A healthy eating routine involves consuming a balanced diet that provides your b
 5. Hydrate: Drink plenty of water throughout the day to stay hydrated. Limit sugary drinks and opt for water, herbal teas, or unsweetened beverages.
 
 6. Practice portion control: Eat mindfully and pay attention to portion sizes.
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant themes or motifs present in the story.
-Step 4: Break down the plot into its key events and turning points.
-Step 5: Summarize the overall narrative structure of the story.
-Step 6: Present a preliminary analysis of the story's elements.
-
-In summary, the story features a clear set of main characters with defined roles. These characters interact and develop relationships throughout the narrative. The story explores themes of [insert theme here], and follows a structured sequence of events that lead to climactic moments. A preliminary analysis suggests a well-crafted narrative that keeps the reader engaged.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Show me a productive study routine.
@@ -787,16 +532,7 @@ A productive study routine involves several steps and habits that can help you f
 5. Eliminate distractions: Turn off notifications for your phone, email, and social media during study time. If necessary, use apps or browser extensions to block distracting websites.
 
 6. Review regularly: Regularly review what you
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant events or turning points in the story that involve the main characters.
-Step 4: Determine the emotions, thoughts, and motivations of the main characters.
-Step 5: Summarize the key traits and characteristics of the main characters.
-Step 6: Present the overall development and evolution of the main characters throughout the story.
-
-In summary, the main characters in the story are [MAIN CHARACTERS] who play crucial roles in advancing the plot, interact with other characters, experience significant events, display emotions and motivations, and exhibit specific traits and characteristics that evolve over the course of the story.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Describe how to fly fish.
@@ -812,19 +548,7 @@ Fly fishing is a popular angling technique that involves casting an artificial f
 3. Learn the basic cast: Start with the overhead cast. Hold the rod with your dominant hand above your head, and the line should hang down your side. With your non-dominant hand, hold the line about 10 inches from the rod tip. Make a smooth, sweeping motion with your dominant hand, lifting the rod until it's parallel to the ground. At the end of the cast, let go of the line with your non-dominant hand, and the fly should land on the water.
 
 4. Find the right
-oxytocin.
-
-Step 1: Identify the main characters
-In the story, there are a few prominent characters that drive the plot forward. These characters are the protagonist, antagonist, and supporting characters.
-
-1.1 Protagonist
-The protagonist is the main character or characters in the story who the narrative revolves around. They are often the hero or heroine, and their actions and decisions move the story forward. In some cases, the protagonist may be the narrator or the focal point of the story.
-
-1.2 Antagonist
-The antagonist, also known as the villain, is the character who opposes the protagonist. They create conflict and tension in the story, and their actions often drive the plot.
-
-1.3 Supporting Characters
-Supporting characters are the secondary characters that help develop the story and provide context for the protagonist and antagonist. They can be friends, family members, or even love interests. These characters often have their own arcs and contribute to the overall narrative.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Describe how to pilot a boat.
@@ -844,13 +568,7 @@ Piloting a boat involves several steps and skills to ensure safe and efficient o
 5. Navigate: Once you're clear of the dock, follow a designated navigation channel or route. Use the boat's navigation instruments, such as GPS, depth finder, and compass, to stay on course. Keep a lookout for other boats, buoys, and markers, and follow the rules of the water.
 
 6
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant events or turning points in the story that involve the main characters.
-Step 4: Summarize the character arcs and development of the main characters throughout the story.
-Step 5: Present the findings and conclusions about the roles of the main characters in the story.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Describe how to drive a car.
@@ -872,13 +590,7 @@ To drive a car, follow these steps:
 6. Depart: Check for traffic and pedestrians, then slowly release the parking brake and gently press the accelerator to move the car.
 
 7. Change gears (if manual
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant events or turning points in the story that involve the main characters.
-Step 4: Summarize the character arcs and development of the main characters throughout the story.
-Step 5: Present the findings and conclusions about the roles of the main characters in the story.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to use a cellphone.
@@ -894,25 +606,7 @@ Using a cellphone involves several steps and features that can vary depending on
 3. Receive a call: When your phone rings, pick it up to your ear or tap the answer button on the screen to answer the call. When you're finished, press the end call button or say "Goodbye" to hang up.
 
 4. Send and receive text messages: Open the messaging app and select a contact or type a new message. Type your message, then tap the send
-oxytocin.
-
-Step 1: Identify the main entity (Oxytocin)
-In this step, the main entity (Oxytocin) is identified and recognized as a significant chemical compound in the context of the research.
-
-Step 2: Extract relevant information and attributes from the entity
-In this step, the relevant information and attributes are extracted from the entity to facilitate further analysis and understanding.
-
-Step 3: Store extracted information in a structured format
-In this step, the extracted information is stored in a structured format to maintain its integrity and facilitate easy access and manipulation by other processes and algorithms.
-
-Step 4: Analyze and process extracted information
-In this step, the extracted information is analyzed and processed to derive insights and conclusions from it.
-
-Step 5: Incorporate findings and conclusions into the research framework
-In this step, the findings and conclusions are incorporated into the research framework to advance the research and provide a basis for further investigation.
-
-Step 6: Repeat the process for other entities
-In this step, the process is repeated for other entities to broaden the scope of the research and provide a comprehensive understanding of the subject matter.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to open an unlocked door.
@@ -930,21 +624,7 @@ Explain how to open an unlocked door.
 5. Check for clearance: As the door opens, make sure there are no objects or people blocking the doorway. If there are, politely ask them to move or wait for them to clear the way.
 
 6. Enter the room: Once the door is fully open, step into the room or space on the other side. Close the door behind you if necessary, by pushing it gently towards the wall or by turning the handle in the opposite direction.
-oxytocin.
-
-To complete the given text and generate an abstract summary, we can use a text generation model or follow certain rules and guidelines:
-
-1. Identify the main topic or theme of the text.
-2. Break the text into smaller segments or paragraphs.
-3. Extract the most important points or ideas from each segment.
-4. Summarize each point in a few sentences.
-5. Connect the summarized points or ideas to form a coherent and logical abstract.
-6. Review and refine the abstract to ensure it accurately represents the main idea or theme of the text.
-7. Present the finalized abstract to the user.
-
-The abstract for the given text might look something like this:
-
-"The text discusses various aspects of text generation or guidelines to follow when creating an abstract summary. The first segment highlights the importance of identifying the main topic or theme, which is crucial for understanding the focus of the text. The next step involves breaking the text into smaller segments or paragraphs, making it easier to analyze. From there, the most important points or ideas are extracted. These points are then summarized into concise sentences, ensuring that the key information is presented accurately. The
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to start a campfire.
@@ -964,9 +644,7 @@ Starting a campfire is a simple process that requires some preparation and adher
 5. Add tinder: Place some dry tinder, such as dryer lint, cotton balls soaked in petroleum jelly, or dry grass, at the base of the teepee.
 
 6
-oxytocin.
-
-To complete this task, we need to determine the relationship between oxytocin and the female reproductive cycle. Oxytocin, also known as Pituitryl, is a hormone that plays a role in the female reproductive cycle. It is produced by the pituitary gland and is involved in the regulation of the menstrual cycle. In women, oxytocin stimulates contractions of the uterus during menstruation and can increase uterine sensitivity. It also prepares the uterus for pregnancy by promoting the growth of the endometrium. In summary, oxytocin is a hormone that is essential for the normal functioning of the female reproductive system.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to focus a camera.
@@ -986,11 +664,7 @@ To focus a camera, follow these steps:
 5. Activate autofocus: Press the shutter button halfway down. This will trigger the camera's autofocus system to find the focus point and adjust the lens accordingly.
 
 6. Check the focus: Look through the viewfinder or at the LCD screen to ensure that the
-oxytocin.
-
-Given the task of summarizing the input text, it can be summarized as:
-
-The text describes a discussion on the topic of pharmacological agents used in the treatment of erectile dysfunction. It highlights the role of oxytocin as a potential natural remedy, exploring its mechanisms and potential benefits. The text also touches on the importance of considering various approaches and the role of individualized treatment plans. Overall, the text presents a detailed analysis of the use of oxytocin in addressing erectile dysfunction concerns.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to use a telescope.
@@ -1006,22 +680,7 @@ Using a telescope can be an exciting and rewarding experience, especially for st
 3. Adjust the telescope's height: Set the height of the tripod to a comfortable level for you. This will make it easier to use the telescope for extended periods.
 
 4. Align the finderscope: Most telescopes come with a small, separate telescope called a finderscope. This helps you locate objects in the night sky before you switch to the main telescope.
-oxytocin.
-
-Step 1: Identify the main entity (Oxytocin)
-In this step, we identify the main entity mentioned in the text, which in this case is "oxytocin".
-
-Step 2: Store the entity in a list
-We add "Oxytocin" to a list.
-
-Step 3: Check if the list is empty
-We check if the list is empty. If it is, we return.
-
-Step 4: Return the list
-We return the list.
-
-Step 5: End
-The function ends here.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Explain how to use a microscope.
@@ -1039,19 +698,7 @@ Explain how to use a microscope.
 5. Adjust the objective lens: Select the appropriate magnification by rotating the nosepiece that holds the objective lenses. Typical magnification settings for a basic compound microscope are 4x, 10x, and 40x.
 
 6. Observe: Look through the eyepiece and adjust the focus knob to achieve
-oxytocin.
-
-Given the task of summarizing the input text while maintaining the original meaning and context, I have followed these steps:
-
-1. Identify the main subject and theme of the text.
-2. Break the text into smaller segments or paragraphs.
-3. Extract the most important information from each segment.
-4. Formulate a summary using the extracted information.
-5. Ensure that the summary maintains the context and meaning of the original text.
-6. Review the summary for readability and coherence.
-7. Refine the summary until it accurately and concisely represents the main ideas and context of the input text.
-
-By following these steps, the input text is summarized while preserving its original meaning and context.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in writing a resume.
@@ -1088,22 +735,7 @@ List your previous positions in reverse chronological order, providing details s
 
 Example:
 **Marketing Manager, XYZ Company, New York
-oxytocin.
-
-Step 1: Identify the main characters
-In the story, there are a few prominent characters that drive the plot forward and provide the emotional core of the narrative. These characters should be well-developed, with distinct personalities, motivations, and backstories.
-
-Step 2: Establish their goals and desires
-Each main character should have a clear goal or desire that they are working towards throughout the story. This could be a personal or professional ambition, a quest, or a relationship they want to achieve.
-
-Step 3: Create conflicts and obstacles
-To make the story engaging, place the main characters in situations where they must overcome challenges and face consequences for their actions. These conflicts could be external, such as a war or a competition, or internal, such as self-doubt or a moral dilemma.
-
-Step 4: Develop their relationships with other characters
-The main characters should interact with secondary characters, either as allies, mentors, rivals, or love interests. These relationships should impact the main characters and provide them with support, guidance, antagonism, or passion.
-
-Step 5: Ensure their growth and change
-As the story progress
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in writing a cover letter.
@@ -1121,18 +753,7 @@ In my previous role as [Previous Position] at [Previous Company], I was responsi
 Moreover, my proficiency in [List of Skills] and [List of Software/Tools] has enabled me to consistently deliver high-quality results. I am also a team player, with excellent communication and interpersonal skills, which have helped me collaborate effectively with colleagues and stakeholders.
 
 Your company's reputation for [Mention a specific aspect that attracted you to the company] has piqued my interest, and I
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: John is the protagonist, a detective trying to solve a case.
-Step 3: Sarah is John's love interest, helping him in his investigations.
-Step 4: The antagonist is the criminal John is trying to catch.
-Step 5: The Informant provides information to the characters.
-Step 6: The Detective's Assistant helps John in his work.
-Step 7: Print the criminal's record, used as evidence.
-Step 8: Summarize the story for Sarah.
-Step 9: Inject some emotion into the narrative.
-Step 10: End the story when the case is solved.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in writing a thank you letter.
@@ -1150,13 +771,7 @@ Once again, thank you from the bottom of my heart for your kindness. I am truly 
 Warmest regards,
 
 [Your Name]
-oxytocin.
-
-To answer the question, we need to determine the relationship between oxytocin and bonding. Oxytocin, also known as the "cuddle hormone," is a neuropeptide that plays a crucial role in social bonding and attachment behaviors in humans and other mammals. It is released during breastfeeding, childbirth, and hugging, and it promotes feelings of closeness and affection.
-
-In the context of romantic relationships, oxytocin is believed to facilitate bonding between partners by enhancing feelings of trust and intimacy. It is often released in conjunction with another hormone, vasopressin, which is responsible for promoting pair-bonding and monogamy.
-
-In summary, oxytocin is a hormone that contributes to the formation and strengthening of social bonds and connections. Its release during bonding activities and affectionate gestures helps foster a sense of closeness and emotional attachment between individuals.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in planning a presentation.
@@ -1180,25 +795,7 @@ To plan an effective presentation, follow these steps:
 7. Write the script: Create a script for your presentation, but avoid reading it verbatim. Use it as a guide to ensure you cover all the important points.
 
 8. Practice: Rehearse your presentation
-oxytocin.
-
-Step 1: Identify the main characters
-In the story, there are a few prominent characters that drive the plot forward and provide the emotional core of the narrative. These characters should be well-developed, with distinct personalities, motivations, and arcs.
-
-Step 2: Establish their relationships and conflicts
-The relationships between the main characters should be explored, as well as the conflicts they face. These can take the form of friendships, rivalries, romances, or family dynamics.
-
-Step 3: Develop secondary characters
-Secondary characters can add depth and complexity to the story. They can be allies, antagonists, or even misunderstood villains.
-
-Step 4: Create a believable world
-The world of the story should be consistent and coherent. The rules and consequences of this world should be established and maintained throughout the narrative.
-
-Step 5: Incorporate themes and symbolism
-The story can benefit from underlying themes and symbolic elements. These can be cultural, personal, or even subconscious, adding layers of meaning and interpretation for the reader.
-
-Step 6: Revise and refine
-As the story progress
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a budget.
@@ -1218,16 +815,7 @@ To create a budget, we need to follow these steps:
 5. Balance your budget: Subtract your total expenses (fixed and variable) and savings from your total income. If the result is positive, your budget is balanced. If it's negative, you'll need to adjust your expenses or increase your income.
 
 6. Track your spending: Keep track of your expenses throughout the month to ensure you're staying within your budget. This can be done using
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant themes or motifs present in the story.
-Step 4: Break down the plot into its key events and turning points.
-Step 5: Summarize the overall narrative structure of the story.
-Step 6: Present a preliminary analysis of the story's elements.
-
-Based on these steps, a preliminary analysis of the story can be generated. However, further analysis and interpretation would be required to provide a comprehensive understanding of the story's structure and elements.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a schedule.
@@ -1247,16 +835,7 @@ To create a schedule for you, I will need some information to better understand 
 5. Flexible time slots: Identify any time slots during the day that can be used for activities or tasks that aren't fixed.
 
 Once you provide this information, I can create a schedule that balances your fixed commitments, personal preferences, and flexible time slots. This will help you manage your time efficiently and ensure you have enough time for rest and relaxation.
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant themes or motifs present in the story.
-Step 4: Break down the plot into its key events and turning points.
-Step 5: Summarize the overall narrative structure of the story.
-Step 6: Present a preliminary analysis of the story's elements.
-
-Based on these steps, a preliminary analysis of the story can be generated. However, further analysis and interpretation would be required to provide a comprehensive understanding of the story's structure and elements.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a checklist.
@@ -1284,11 +863,7 @@ Creating a Checklist:
 9. Update regularly: Keep the checklist current by reviewing and updating it as needed.
 
 10. Encourage feedback: Solicit feedback from users to improve the checklist over time.
-oxytocin.
-
-Given the task of summarizing the input text, it can be summarized as:
-
-The text describes a process of evaluating the effectiveness of oxytocin in promoting bonding and attachment between a mother and her baby during breastfeeding. Oxytocin is a hormone that plays a crucial role in strengthening the emotional connection between the mother and the infant, leading to better breastfeeding patterns and overall health benefits for both the mother and the baby. This hormone is released during breastfeeding, contributing to the positive experience of breastfeeding for mothers and the optimal growth and development of their infants.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a recipe.
@@ -1320,17 +895,7 @@ Instructions:
 4. Add the minced garlic and cook for another minute until fragrant.
 
 5. Stir in the thawed
-oxytocin.
-
-Given the task definition and the context that the main goal is to generate a summary for a given task, a summary for the given task can be created as follows:
-
-Task Summary:
-
-The given task involves completing a specific set of activities or fulfilling a particular objective. In this summary, the key aspects and steps of the task are highlighted for better understanding and reference. The main focus of this task is to achieve its intended purpose, and the summary serves as a concise overview of the process required to accomplish this.
-
-To successfully complete the task, a series of actions and events need to take place. These may include resource allocation, planning, execution, and monitoring progress. Collaboration, communication, and decision-making might also be involved.
-
-In summary, the task necessitates a combination of efforts, strategies, and actions to fulfill its purpose. By reviewing this summary, one can have a quick grasp of what is required to complete the task at hand.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a shopping list.
@@ -1351,11 +916,7 @@ Here is a basic shopping list to help you get started:
 10. Personal care items (shampoo, toothpaste, soap)
 
 Remember to add any specific items that you need or prefer. This list can be customized according to your dietary preferences, family size, and personal needs.
-oxytocin.
-
-Given the task of summarizing the input text, it can be summarized as:
-
-The text describes a discussion on the topic of pharmacology and the role of oxytocin in the field. Oxytocin is a hormone that plays a significant part in various physiological processes, particularly in the reproductive system of both males and females. Its functions in the female body include promoting uterine contractions during labor, facilitating the attachment of the fertilized egg to the uterine wall, and aiding in the nurturing of the fetus. In males, oxytocin is involved in spermatogenesis and the release of sperm. Overall, oxytocin's influence in the human body contributes to the complex process of reproduction and the continuation of life.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Assist in creating a to-do list.
@@ -1385,11 +946,7 @@ Here is a simple to-do list to help you organize your tasks for the day:
 10. Review and update the to-do list: Reflect on what has been accomplished and add any new tasks for the next day.
 
 Remember to prioritize tasks based on urgency and importance, and don't
-oxytocin.
-
-Given the events in Flanders, the Belgians are temporarily suspending the application of certain provisions of the Schengen Agreement.
-
-In a nutshell, the Belgians and the Flanders are temporarily postponing the application of certain provisions of the Schengen Agreement.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to run a marathon.
@@ -1409,17 +966,7 @@ Running a marathon requires dedication, discipline, and proper training. Here ar
 5. Build endurance: Gradually increase your weekly mileage and long runs to prepare your body for the distance. Incorporate speed workouts, hill repeats, and rest days into your training plan.
 
 6. Practice proper nutrition: Eat a balanced diet that provides the necessary nutrients for endurance training. Experiment with different pre-race meals and in-race fuels to
-oxytocin.
-
-Given the task of summarizing the input text while maintaining the original meaning and context, I will follow these steps:
-
-1. Identify the main subject and theme of the text.
-2. Break the text into smaller segments or paragraphs.
-3. For each segment, identify the main point or idea being presented.
-4. Summarize each segment by extracting its key phrases, concepts, and arguments.
-5. Connect the summarized segments to form a coherent and comprehensive summary of the input text.
-
-By following these steps, the input text will be summarized while preserving its original meaning and context.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to set up a chess board.
@@ -1437,9 +984,7 @@ To set up a chessboard for a standard game, follow these steps:
 4. Start with the Rooks. Place one Rook on the far corner square of the 'right' or 'A-side' of the board for each player. The white Rook goes on the corner square that intersects with the 'a' file, while the black Rook goes on the corner square that intersects with the 'h' file.
 
 5. Next, place the Knights. Knights are placed on the squares next to the Rook
-oxytocin.
-
-To complete the given paragraph, we need to generate the missing words "oxytocin" and "tocin" based on their frequency in the text.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to cook a steak.
@@ -1459,29 +1004,7 @@ To cook a steak, follow these steps for a delicious result:
 5. Add oil to the pan or grill: Add a small amount of oil to the pan or grill to prevent sticking.
 
 6. Cook the steak: Place the steak in the pan or on the grill, and do not move it for at least 2-3 minutes to create a nice sear. Flip the ste
-oxytocin.
-
-Given the task of summarizing the input text while maintaining the original meaning and context, I will follow these steps:
-
-1. Identify the main subject and theme of the text.
-   - The main subject of the text seems to be the process of summarizing a given input while preserving the original meaning and context.
-
-2. Break the text into smaller segments or paragraphs.
-   - The text is divided into smaller segments or paragraphs to facilitate the summarization process.
-
-3. Extract the key points or ideas from each segment.
-   - The most important points or ideas are extracted from each segment to create a concise summary.
-
-4. Formulate a summary sentence by connecting the extracted key points or ideas.
-   - The extracted information is connected to form a coherent summary sentence.
-
-5. Review the summary for relevance and coherence.
-   - The generated summary is reviewed to ensure it accurately represents the original meaning and context of the input text.
-
-6. Finalize the summarized text.
-   - After ensuring the quality and relevance of the summary, it is finalized and presented as the desired output.
-
-By
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to learn history.
@@ -1501,13 +1024,7 @@ Tell me how to learn history.
 6. Engage in discussions: Join online forums or local history groups to discuss your findings with others. This will help you gain new insights and perspectives.
 
 7. Keep a history journal: Write down
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant turning points or moments of change for the characters.
-Step 4: Determine the themes or messages conveyed through the actions and development of the characters.
-Step 5: Summarize the overall impact of the characters on the story's plot and narrative.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to learn science.
@@ -1527,15 +1044,7 @@ To learn science effectively, follow these steps:
 5. Join a study group or seek guidance: Collaborate with others who share your interest in science. Discuss concepts, share resources, and learn from each other. If needed, seek guidance from a teacher, mentor, or tutor.
 
 6. Keep up with scientific advancements: Stay updated with the latest research and discoveries in your field of interest. This will help you stay current
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant events or turning points in the story that involve the main characters.
-Step 4: Break down the narrative arc and themes present in the story.
-Step 5: Summarize the key elements that contribute to the development of the main characters.
-
-In summary, the main characters in the story are the protagonists who drive the plot forward through their actions and decisions. They have distinct personalities, motivations, and goals that shape the narrative. The roles they play in the story involve their relationships with other characters, whether they are friends, family, or rivals. Significant events in the story often revolve around the main characters, such as moments of growth, conflict, or revelation. The narrative arc of the story is influenced by the development of the main characters, as they navigate themes such as love, loss, or redemption. These elements contribute to the overall impact and meaning of the story, making the main characters integral to its success.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
 ### User:
 Tell me how to learn geography.
@@ -1555,16 +1064,5 @@ Tell me how to learn geography.
 6. Play geography games: There are many fun and interactive games available online and offline that can help you learn geography in a more engaging way.
 
 7. Watch educational videos
-oxytocin.
-
-Step 1: Identify the main characters and their roles in the story.
-Step 2: Analyze the relationships and interactions between the main characters.
-Step 3: Identify any significant themes or motifs present in the narrative.
-Step 4: Break down the plot into its constituent elements and analyze their function within the story.
-Step 5: Present the findings and conclusions, highlighting the most important aspects of character development, relationship dynamics, and narrative structure.
-Step 6: Congratulate the author on their craft and provide suggestions for further enhancing the story's impact.
-Step 7: Celebrate the joy of reading and viewing the story in a holistic manner.
-Step 8: Dismiss any remaining critical thoughts and bask in the beauty of the narrative.
-Step 9: Nap in the comfort of a well-told tale.
-Step 10: Repeat these steps for every story encountered, spreading the love for literature.
+­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­­
 ----------------------------------------
