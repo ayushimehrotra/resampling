@@ -111,7 +111,14 @@ def run_eval(config, data_handler, model_handler, batch_handler, patching_utils,
     pre_patch_logits = None
     for idx in tqdm(range(0, min(data_handler.LEN, len_gen_qs), config.args.batch_size)):
         gen_qs_toks = select_gen_qs_toks(config, batch_handler)
-        with model.generate(gen_qs_toks, do_sample=False, max_new_tokens=config.args.max_new_tokens) as _:
+        with model.generate(gen_qs_toks, 
+        pad_token_id=model.tokenizer.eos_token_id,
+        use_cache=False, 
+        do_sample=False,  
+        top_p=None, 
+        top_k=None, 
+        temperature=None, 
+        max_new_tokens=config.args.max_new_tokens) as _:
             op = model.generator.output.save()
         original_outputs += op.cpu().numpy().tolist()
         batch_handler.update()
