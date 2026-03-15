@@ -41,8 +41,8 @@ class Patching:
             base_undesired_logits, base_undesired_attn = self.patching_utils.get_activations(base_toks['undesired'], which_patch='heads', resp_start_positions=response_start_positions['base']['undesired'], retain_grad=True, logit=True)
 
             if self.config.args.patch_algo == 'atp-zero':
-                source_q_des_attn = [torch.zeros_like(bda) for bda in base_desired_attn]
-                source_q_undes_attn = [torch.zeros_like(bua) for bua in base_undesired_attn]
+                source_q_des_attn = [torch.zeros_like(bda.value if hasattr(bda, 'value') else bda) for bda in base_desired_attn]
+                source_q_undes_attn = [torch.zeros_like(bua.value if hasattr(bua, 'value') else bua) for bua in base_undesired_attn]
             else:
                 source_q_des_attn = self.patching_utils.get_activations(source_qs_toks['desired'], which_patch='heads', resp_start_positions=None, logit=False, align=True, retain_grad=True, base_toks=base_toks['desired'])
                 source_q_undes_attn = self.patching_utils.get_activations(source_qs_toks['undesired'], which_patch='heads', resp_start_positions=None, logit=False, align=True, retain_grad=True, base_toks=base_toks['undesired'])
@@ -53,13 +53,15 @@ class Patching:
             attn_undesired_effects = []
             net_effects = []
             for idx in range(len(model.model.layers)):
+                bda = base_desired_attn[idx].value
+                bua = base_undesired_attn[idx].value
+                sqda = source_q_des_attn[idx].value if hasattr(source_q_des_attn[idx], 'value') else source_q_des_attn[idx]
+                squa = source_q_undes_attn[idx].value if hasattr(source_q_undes_attn[idx], 'value') else source_q_undes_attn[idx]
                 attn_desired_effects.append(
-                    base_desired_attn[idx].grad * 
-                    (source_q_des_attn[idx] - base_desired_attn[idx])
+                    bda.grad * (sqda - bda)
                 )
                 attn_undesired_effects.append(
-                    base_undesired_attn[idx].grad * 
-                    (source_q_undes_attn[idx] - base_undesired_attn[idx])
+                    bua.grad * (squa - bua)
                 )
 
                 net_effects.append(attn_desired_effects[idx].sum(dim=1) + attn_undesired_effects[idx].sum(dim=1))
