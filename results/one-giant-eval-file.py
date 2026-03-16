@@ -6,7 +6,7 @@ from pathlib import Path
 import re
 import numpy as np
 import math
-BASE_DIR = '/mnt/align4_drive/arunas/multi-token/gcm-interp'
+BASE_DIR = '/workspace/gcm-interp'
 
 RUNS_DIR = f"{BASE_DIR}/results"
 DATA_DIR = f"{BASE_DIR}/data"
